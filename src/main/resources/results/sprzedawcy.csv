@@ -1,0 +1,501 @@
+ID Sprzedawcy, Imie sprzedawcy, Nazwisko Sprzedawcy, Pensja, Data zatrudnienia, Pesel, Oddzial, Stanowisko, Kraj, Region, Miasto, Procent znizki, Data urodzenia, Numer identyfikacyjny, Plec
+100,Zawisza,Kowalski,9169.66,2000-11-09,64848944079,ODDZ__08,Sprzedawca,Hiszpania,Nawarra,CITY,26,1972-02-12,htYJrMWt3,K
+101,Felicyta,Kiepski,9859.42,2015-02-21,06005406675,ODDZ__046,Mlodszy sprzedawca,Hiszpania,Barcelona,CITY,31,1979-06-21,HgGq3MVHE,K
+102,Areta,Nowak,4087.53,2009-03-08,11022764618,ODDZ__047,Sprzedawca,Hiszpania,Nawarra,CITY,5,1995-12-28,UNMV78cGj,K
+103,Lubomysł,Nowak,7490.35,2012-04-18,19484750745,ODDZ__081,Glowny sprzedawca,Hiszpania,Madryt,CITY,18,1976-10-18,GSy6gIjp4,M
+104,Wirginia,Kowalski,4587.82,2010-07-16,27967195031,ODDZ__09,Glowny sprzedawca,Polska,Bieszczady,CITY,0,1979-02-24,yMDfHxuDG,K
+105,Szymoneta,Krawczyk,3399.43,2000-05-06,94154911175,ODDZ__027,Glowny sprzedawca,Francja,Akwitania,CITY,31,1994-10-03,O8HsKokVU,K
+106,Radomysł,Jopek,6550.57,2015-02-28,93794724401,ODDZ__048,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,8,1976-12-22,ompM0RvoD,M
+107,Mścibor,Krawczyk,8266.45,2007-07-07,51239225128,ODDZ__086,Glowny sprzedawca,Hiszpania,Nawarra,CITY,38,1974-01-21,UcLVVSsxd,M
+108,Glikeria,Kiepski,5750.11,2015-12-03,58429947181,ODDZ__019,Glowny sprzedawca,Francja,Burgundia,CITY,41,1993-04-04,skOiPCvp6,K
+109,Ramona,Krawczyk,3763.85,2007-01-09,16820661168,ODDZ__065,Glowny sprzedawca,Polska,Tatry,CITY,44,1985-01-12,CqOPBHUnn,K
+110,Lubosław,Krawczyk,3069.86,2009-02-03,13054895655,ODDZ__056,Mlodszy sprzedawca,Hiszpania,Nawarra,CITY,29,1989-11-06,qWo4jsIMc,M
+111,Georgia,Jopek,7236.51,2006-03-27,20432499184,ODDZ__027,Mlodszy sprzedawca,Francja,Akwitania,CITY,32,1986-02-28,bWGqJfuhL,K
+112,Wierzchosława,Nowak,8426.62,2012-11-02,56884500641,ODDZ__083,Sprzedawca,Polska,Bieszczady,CITY,54,1993-03-04,DwfuFhMtG,K
+113,Niecisław,Krawczyk,6876.59,2006-08-12,42147936645,ODDZ__050,Glowny sprzedawca,Hiszpania,Asturia,CITY,38,1973-04-26,JJPtmCRtV,M
+114,Bończa,Nowak,5762.02,2012-08-19,73027426919,ODDZ__045,Sprzedawca,Polska,Mazury,CITY,50,1994-06-30,oFLMgrcoi,K
+115,Zygmunt,Kowalski,2442.33,2001-12-04,85264840185,ODDZ__035,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,17,1989-08-11,yNvpUGpL7,M
+116,Aurelia,Kowalski,2725.99,2000-11-17,35258666336,ODDZ__050,Mlodszy sprzedawca,Hiszpania,Barcelona,CITY,8,1973-11-03,r7Xgvh7sN,K
+117,Narcyza,Kiepski,6113.24,2008-08-03,24334342711,ODDZ__038,Glowny sprzedawca,Hiszpania,Nawarra,CITY,58,1979-03-23,E5fy5LLG2,K
+118,Pudens,Jopek,3112.78,2000-03-15,41523028843,ODDZ__097,Sprzedawca,Francja,Burgundia,CITY,60,1998-11-02,QdThMNCFg,M
+119,Dagna,Kowalski,8409.37,2005-06-15,51210331785,ODDZ__070,Sprzedawca,Hiszpania,Madryt,CITY,58,1997-02-15,lcl584wW1,K
+120,Duszan,Jopek,5783.02,2016-01-24,06337599180,ODDZ__023,Glowny sprzedawca,Hiszpania,Asturia,CITY,43,1979-05-28,54i57CSrY,M
+121,Ronald,Kowalski,9156.11,2016-12-10,08018324820,ODDZ__041,Mlodszy sprzedawca,Polska,Pomorze,CITY,59,1988-11-27,IhFtUwPLq,M
+122,Racisław,Krawczyk,8642.91,2015-09-29,37367366353,ODDZ__056,Mlodszy sprzedawca,Polska,Tatry,CITY,56,1994-06-17,EUkunkF8x,M
+123,Jan,Krawczyk,7719.11,2001-09-22,15942355462,ODDZ__047,Glowny sprzedawca,Polska,Tatry,CITY,39,1989-10-02,UmrLdw4Lg,M
+124,Racimir,Kiepski,8929.89,2000-11-10,02443505987,ODDZ__090,Mlodszy sprzedawca,Hiszpania,Nawarra,CITY,39,1979-06-06,iMkCwtX22,M
+125,Rainer,Nowak,7321.25,2008-11-19,12351394949,ODDZ__016,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,52,1992-09-29,KehIJSNEK,M
+126,Brunon,Jopek,7207.73,2000-11-17,44458616229,ODDZ__062,Mlodszy sprzedawca,Francja,Owernia,CITY,45,1996-07-26,qfvHRfHrP,M
+127,Leoncjusz,Kowalski,1620.87,2013-08-22,22114098248,ODDZ__011,Glowny sprzedawca,Polska,Mazury,CITY,42,1984-04-09,mqldiRkHR,M
+128,Oliwier,Nowak,3657.48,2015-04-30,95269775821,ODDZ__093,Glowny sprzedawca,Hiszpania,Madryt,CITY,15,1981-02-09,DK0hygxlC,M
+129,Wiktor,Krawczyk,3760.00,2005-04-07,48446020382,ODDZ__080,Glowny sprzedawca,Francja,Burgundia,CITY,1,1998-10-27,8IskGoWJt,M
+130,Amon,Kowalski,6981.31,2000-04-16,88326439570,ODDZ__084,Glowny sprzedawca,Polska,Tatry,CITY,30,1994-08-10,K4CV04NRg,M
+131,Feliksa,Jopek,6323.94,2016-03-22,35618945147,ODDZ__02,Sprzedawca,Polska,Pomorze,CITY,5,1982-06-08,DivekuHQ6,K
+132,Ramon,Kowalski,1535.05,2004-04-08,61194195976,ODDZ__04,Glowny sprzedawca,Francja,Akwitania,CITY,35,1988-06-03,WwmUggPBf,M
+133,Sandra,Kowalski,6589.07,2017-05-28,38483493109,ODDZ__020,Glowny sprzedawca,Francja,Burgundia,CITY,5,1994-01-27,RTqNsJXrt,K
+134,Herakles,Jopek,3998.40,2012-12-29,96543155481,ODDZ__025,Glowny sprzedawca,Hiszpania,Barcelona,CITY,58,1992-08-07,wgCV4NDQ4,M
+135,Witalian,Jopek,7161.27,2011-12-18,11974268588,ODDZ__071,Mlodszy sprzedawca,Francja,Burgundia,CITY,45,1977-02-07,8GroiHMW5,M
+136,Zdzibor,Krawczyk,7366.26,2001-05-25,60099229900,ODDZ__06,Glowny sprzedawca,Polska,Tatry,CITY,22,1971-11-07,gQfHuSWMj,M
+137,Kleopatra,Kiepski,9445.59,2003-03-06,05190987282,ODDZ__082,Glowny sprzedawca,Hiszpania,Asturia,CITY,46,1979-01-19,TCY0UVPiO,K
+138,Maryla,Kowalski,2347.57,2015-06-13,46079173877,ODDZ__099,Glowny sprzedawca,Polska,Mazury,CITY,5,1990-04-09,4hUITGKXX,K
+139,Antym,Nowak,2034.33,2007-03-16,95220581256,ODDZ__017,Sprzedawca,Francja,Burgundia,CITY,55,1989-04-13,LERrS0i3o,M
+140,Edgar,Nowak,5117.61,2016-04-19,66232623300,ODDZ__087,Mlodszy sprzedawca,Francja,Burgundia,CITY,15,1995-02-03,QvPU7BrQb,M
+141,Hortensja,Kowalski,1835.99,2015-06-11,82952307488,ODDZ__066,Mlodszy sprzedawca,Francja,Akwitania,CITY,58,1988-08-13,c23DbEGWE,K
+142,Tolimir,Krawczyk,5669.15,2000-05-12,18237039183,ODDZ__077,Mlodszy sprzedawca,Francja,Owernia,CITY,51,1974-07-04,rjJEe0oO3,M
+143,Róża,Krawczyk,9928.74,2003-05-17,99793248911,ODDZ__069,Glowny sprzedawca,Francja,Owernia,CITY,15,1980-01-23,B3GHgcNeT,K
+144,Ciechosława,Nowak,9608.75,2013-03-16,58383709668,ODDZ__073,Mlodszy sprzedawca,Polska,Mazury,CITY,22,1970-09-07,cNvSCJulD,K
+145,Masław,Kowalski,9972.65,2016-11-14,14703704646,ODDZ__020,Mlodszy sprzedawca,Polska,Tatry,CITY,19,1982-04-04,g17lkyeVm,M
+146,Kornelia,Nowak,4289.32,2004-01-11,22062461600,ODDZ__039,Glowny sprzedawca,Polska,Tatry,CITY,33,1998-01-28,lrNvDtNfs,K
+147,Ziemowit,Krawczyk,9637.14,2015-04-29,44885408795,ODDZ__092,Glowny sprzedawca,Hiszpania,Nawarra,CITY,41,1982-03-10,qE8nRRv6m,M
+148,Remigiusz,Kiepski,2399.38,2009-02-02,22474161443,ODDZ__097,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,24,1998-04-27,PIEYnoyqC,M
+149,Lubogost,Kiepski,3109.51,2009-06-19,60914170565,ODDZ__08,Glowny sprzedawca,Hiszpania,Nawarra,CITY,53,1986-08-31,VvyFgpXp7,M
+150,Eufemia,Krawczyk,6502.45,2011-05-04,45675117279,ODDZ__07,Glowny sprzedawca,Francja,Akwitania,CITY,15,1986-08-19,iTNieqgNE,K
+151,Mikołaj,Kiepski,3832.61,2007-02-19,64129354610,ODDZ__084,Mlodszy sprzedawca,Polska,Bieszczady,CITY,9,1991-08-15,Bfdmf07wr,M
+152,Herakles,Kowalski,2273.13,2016-03-11,84037602476,ODDZ__041,Sprzedawca,Francja,Akwitania,CITY,45,1985-02-25,fykh6NRw3,M
+153,Wielisław,Kowalski,2323.85,2016-06-25,77332826955,ODDZ__033,Glowny sprzedawca,Polska,Mazury,CITY,33,1971-01-21,SQLq35mgH,M
+154,Lucjan,Kowalski,8042.09,2016-03-12,49074394459,ODDZ__072,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,34,1990-01-31,hDBqHl3l8,M
+155,Wanda,Kiepski,3404.76,2011-06-08,69126508163,ODDZ__08,Glowny sprzedawca,Francja,Owernia,CITY,59,1997-06-23,7SRyEmWxF,K
+156,Unisław,Kiepski,4079.43,2003-05-30,93249710056,ODDZ__089,Glowny sprzedawca,Polska,Pomorze,CITY,17,1980-09-05,mGRUdqvu3,M
+157,Sandra,Kowalski,7443.90,2007-01-18,27231915226,ODDZ__088,Sprzedawca,Polska,Bieszczady,CITY,28,1990-03-25,n8uDVfKJj,K
+158,Hipolit,Krawczyk,1787.75,2012-06-17,03967799677,ODDZ__075,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,10,1980-04-11,UYp56WbsE,M
+159,Bohdan,Krawczyk,9120.43,2011-06-11,51499274792,ODDZ__038,Mlodszy sprzedawca,Francja,Burgundia,CITY,15,1991-04-16,uHG5lsKsu,M
+160,Mira,Kowalski,5567.54,2012-05-08,11603736319,ODDZ__060,Sprzedawca,Francja,Burgundia,CITY,1,1970-10-05,rDyDmI0CT,K
+161,Beatus,Krawczyk,8219.63,2000-05-06,91867398362,ODDZ__080,Mlodszy sprzedawca,Francja,Akwitania,CITY,54,1973-11-10,3rQ1GpGgM,M
+162,Rafael,Krawczyk,3832.03,2009-03-11,91273577365,ODDZ__060,Sprzedawca,Hiszpania,Nawarra,CITY,55,1971-07-27,TbMOw3Jpy,M
+163,Sebald,Nowak,3663.39,2011-02-22,12888465557,ODDZ__046,Sprzedawca,Polska,Bieszczady,CITY,20,1974-06-25,FtnGqpiL0,M
+164,Cecyliusz,Krawczyk,2295.73,2000-05-21,91141204134,ODDZ__054,Glowny sprzedawca,Polska,Tatry,CITY,1,1984-02-18,kXm2cbv4R,M
+165,Dobrogniew,Kiepski,8579.99,2011-07-07,94091148203,ODDZ__053,Glowny sprzedawca,Polska,Mazury,CITY,46,1992-02-24,w3xueeMNL,M
+166,Radomysł,Kowalski,5448.85,2012-10-09,73271577004,ODDZ__031,Glowny sprzedawca,Hiszpania,Nawarra,CITY,16,1984-12-31,foIeuyooX,M
+167,Ingrid,Nowak,8141.53,2015-07-06,81402437558,ODDZ__025,Sprzedawca,Francja,Akwitania,CITY,47,1987-08-20,vF2oIgyvO,K
+168,Ildefons,Krawczyk,7779.34,2017-08-15,07392256180,ODDZ__033,Sprzedawca,Polska,Mazury,CITY,14,1992-02-05,33HbdKqCP,M
+169,Amon,Jopek,1540.43,2004-02-13,16868117713,ODDZ__027,Mlodszy sprzedawca,Polska,Mazury,CITY,25,1977-03-11,ghuEN8sK4,M
+170,Edda,Krawczyk,4070.39,2012-12-26,57821398227,ODDZ__089,Glowny sprzedawca,Polska,Mazury,CITY,34,1970-02-14,wV8Bo86rh,K
+171,Eryk,Kowalski,5480.47,2007-08-01,31620449007,ODDZ__096,Mlodszy sprzedawca,Francja,Owernia,CITY,30,1979-06-03,XwbJ2GIjB,M
+172,Dalegor,Kiepski,4535.44,2014-09-15,94046213833,ODDZ__033,Sprzedawca,Polska,Mazury,CITY,58,1970-11-13,UsdJHO3n8,M
+173,Kazimiera,Nowak,5354.73,2013-01-29,22884359534,ODDZ__085,Sprzedawca,Hiszpania,Barcelona,CITY,54,1973-02-04,RjDh8M1fF,K
+174,Inez,Kowalski,4821.10,2014-05-08,50046174641,ODDZ__033,Sprzedawca,Hiszpania,Murcja,CITY,47,1977-12-08,Jkom6iD8O,K
+175,Bazylissa,Kiepski,5462.19,2009-10-31,54076811797,ODDZ__077,Sprzedawca,Polska,Tatry,CITY,53,1976-06-17,B4dXEKjpd,K
+176,Gościmir,Nowak,4229.74,2016-09-16,63268899291,ODDZ__073,Glowny sprzedawca,Francja,Burgundia,CITY,10,1985-08-24,brChLlDfu,M
+177,Zygfryd,Jopek,8800.60,2011-09-12,53090652473,ODDZ__064,Mlodszy sprzedawca,Polska,Tatry,CITY,57,1995-04-19,LiwNOe2S6,M
+178,Jan,Nowak,6239.42,2016-04-24,58922611870,ODDZ__09,Glowny sprzedawca,Hiszpania,Asturia,CITY,30,1988-08-19,WCk8KwTlP,M
+179,Pafnucy,Kiepski,3500.88,2003-12-30,88717480260,ODDZ__046,Sprzedawca,Francja,Akwitania,CITY,0,1997-04-03,4UGh4M25Y,M
+180,Porfirion,Kowalski,7334.15,2015-05-03,88560848712,ODDZ__06,Glowny sprzedawca,Hiszpania,Asturia,CITY,53,1976-10-19,CK4PXFHXr,M
+181,Maur,Nowak,7487.13,2008-04-16,00611894925,ODDZ__032,Sprzedawca,Hiszpania,Murcja,CITY,37,1979-04-07,yj2x0hl14,M
+182,Dobromiła,Nowak,6964.03,2000-04-11,48602634537,ODDZ__061,Mlodszy sprzedawca,Francja,Owernia,CITY,35,1994-05-07,tBe8KmvYc,K
+183,Mikołaj,Nowak,9379.35,2016-06-30,40862913341,ODDZ__030,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,10,1977-04-19,4j3BlWbet,M
+184,Oksana,Krawczyk,7554.80,2001-05-03,92463247439,ODDZ__040,Glowny sprzedawca,Hiszpania,Asturia,CITY,2,1997-07-27,XcCVm86wT,K
+185,Florenty,Nowak,1593.11,2014-05-17,12733192719,ODDZ__055,Glowny sprzedawca,Hiszpania,Murcja,CITY,17,1981-09-04,iSwW3EJIy,M
+186,Kordula,Kiepski,3248.68,2014-12-09,24909983206,ODDZ__016,Sprzedawca,Polska,Tatry,CITY,37,1977-09-09,ucSusMcFM,K
+187,Ewelina,Jopek,5187.93,2015-06-11,03493250989,ODDZ__090,Glowny sprzedawca,Francja,Owernia,CITY,50,1990-09-29,rgFbIo1ll,K
+188,Bożebor,Nowak,9855.84,2008-04-08,56698204849,ODDZ__034,Sprzedawca,Hiszpania,Barcelona,CITY,33,1992-05-06,7JMRcQVgx,M
+189,Sylwiusz,Kowalski,6084.98,2002-07-27,95177411391,ODDZ__071,Glowny sprzedawca,Hiszpania,Kantabria,CITY,15,1993-11-16,SG7KNRvcb,M
+190,Gościmił,Nowak,9646.25,2005-06-28,88814305800,ODDZ__096,Sprzedawca,Polska,Mazury,CITY,14,1989-11-15,xDgGOTRm2,M
+191,Ezechiel,Krawczyk,7304.65,2012-05-25,07918783245,ODDZ__081,Glowny sprzedawca,Polska,Pomorze,CITY,32,1991-03-31,C1hMxylbL,M
+192,Hermes,Kiepski,7559.72,2014-10-30,49754283568,ODDZ__05,Sprzedawca,Hiszpania,Barcelona,CITY,0,1983-01-07,NJJDusUti,M
+193,Izaak,Jopek,7007.64,2015-04-29,18266085309,ODDZ__042,Sprzedawca,Hiszpania,Barcelona,CITY,11,1989-10-28,1EnnoyoVR,M
+194,Klaudia,Kiepski,4355.29,2006-02-21,43869315312,ODDZ__075,Mlodszy sprzedawca,Polska,Bieszczady,CITY,44,1976-04-10,oVtr2SUif,K
+195,Częstowoj,Kiepski,5581.42,2008-02-28,76910275637,ODDZ__022,Sprzedawca,Hiszpania,Nawarra,CITY,35,1993-06-06,tyj7TrGxK,M
+196,Hadrian,Krawczyk,4882.99,2012-09-19,58281674790,ODDZ__089,Glowny sprzedawca,Hiszpania,Kantabria,CITY,14,1998-05-08,jCHOINgEf,M
+197,Ditta,Nowak,6582.32,2005-02-01,56839433235,ODDZ__069,Sprzedawca,Francja,Akwitania,CITY,36,1975-08-09,L3RCuow11,K
+198,Stojgniew,Kowalski,8687.54,2013-10-17,42975373424,ODDZ__080,Glowny sprzedawca,Hiszpania,Asturia,CITY,12,1996-03-13,YUwCTE0DY,M
+199,Izydor,Kiepski,2821.90,2010-02-07,68727633375,ODDZ__020,Sprzedawca,Polska,Tatry,CITY,27,1993-07-10,XCmf8bIeI,M
+200,Waldemara,Krawczyk,7932.57,2000-04-21,78341872141,ODDZ__037,Sprzedawca,Francja,Burgundia,CITY,11,1986-11-01,UMKPgO6II,K
+201,Irena,Krawczyk,5968.48,2001-01-04,53668121685,ODDZ__030,Glowny sprzedawca,Hiszpania,Kantabria,CITY,43,1990-01-05,pX3o0k6Vr,K
+202,Wiktor,Jopek,7187.58,2004-04-01,68067609380,ODDZ__010,Glowny sprzedawca,Hiszpania,Nawarra,CITY,31,1995-11-09,e0T0SJdJH,M
+203,Ali,Krawczyk,3768.08,2012-02-23,45080348237,ODDZ__088,Glowny sprzedawca,Hiszpania,Madryt,CITY,27,1998-05-18,tC215YvXV,M
+204,Mieczysława,Kiepski,1550.24,2006-12-27,80213125784,ODDZ__085,Sprzedawca,Francja,Akwitania,CITY,36,1981-03-20,3GV6T7w6E,K
+205,Radzimierz,Krawczyk,4887.27,2002-06-15,16269527423,ODDZ__084,Mlodszy sprzedawca,Polska,Pomorze,CITY,34,1982-12-16,ISuCxgcFV,M
+206,Felicysym,Krawczyk,6864.35,2015-01-14,95774658208,ODDZ__034,Glowny sprzedawca,Polska,Mazury,CITY,27,1985-01-07,03BwD2IkB,M
+207,Winicjusz,Kowalski,8677.33,2003-11-25,71125730044,ODDZ__021,Glowny sprzedawca,Polska,Pomorze,CITY,6,1994-07-14,PH1fyJg1Q,M
+208,Kamelia,Krawczyk,6158.53,2008-03-12,21741942207,ODDZ__063,Sprzedawca,Polska,Tatry,CITY,60,1988-08-19,WGrdBcuVf,K
+209,Bartłomiej,Jopek,8223.04,2011-08-15,25709327559,ODDZ__016,Sprzedawca,Hiszpania,Nawarra,CITY,40,1998-06-09,Gk87QtD87,M
+210,Świętopełk,Nowak,6408.59,2001-11-17,19653496898,ODDZ__046,Sprzedawca,Francja,Akwitania,CITY,54,1983-06-06,qSx3KHeo7,M
+211,Lutomir,Krawczyk,5486.02,2011-08-19,43605221143,ODDZ__084,Mlodszy sprzedawca,Polska,Bieszczady,CITY,45,1972-07-19,mXoS8Xert,M
+212,Bertrand,Jopek,1594.18,2011-03-14,78501760266,ODDZ__088,Mlodszy sprzedawca,Francja,Akwitania,CITY,29,1972-08-29,x3smjYEgx,M
+213,Michał,Kiepski,8075.90,2007-07-12,45140636096,ODDZ__051,Sprzedawca,Hiszpania,Madryt,CITY,0,1983-07-21,GYXIco3E4,M
+214,Rufina,Jopek,8301.06,2014-02-11,97840705960,ODDZ__062,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,48,1979-07-26,1qRLgs0x0,K
+215,Pafnucy,Nowak,6073.55,2012-07-25,97299319010,ODDZ__070,Sprzedawca,Francja,Akwitania,CITY,31,1979-11-29,kejGRKN4e,M
+216,Damaris,Krawczyk,7684.82,2015-10-24,85324724576,ODDZ__081,Glowny sprzedawca,Francja,Owernia,CITY,14,1991-08-13,bVcrD0FOG,M
+217,Apolinary,Jopek,5555.05,2015-11-03,10867618411,ODDZ__044,Glowny sprzedawca,Francja,Akwitania,CITY,40,1978-04-13,jHVhrPRBE,M
+218,Salwator,Nowak,9642.92,2010-06-26,52663172000,ODDZ__083,Sprzedawca,Hiszpania,Kantabria,CITY,21,1972-09-08,yUQOy5OoI,M
+219,Rachela,Kiepski,1648.19,2014-04-10,55738437710,ODDZ__032,Glowny sprzedawca,Francja,Owernia,CITY,20,1977-11-15,1Ovcqt4HV,K
+220,Eulogiusz,Kowalski,2118.14,2004-01-21,10252575472,ODDZ__028,Glowny sprzedawca,Hiszpania,Asturia,CITY,25,1985-02-22,0iLRdrqpY,M
+221,Donata,Kiepski,9014.29,2008-06-04,84507821479,ODDZ__076,Glowny sprzedawca,Polska,Tatry,CITY,28,1982-06-18,wxEUxoEcC,K
+222,Mariusz,Kowalski,5797.64,2010-12-14,40270472457,ODDZ__08,Sprzedawca,Hiszpania,Asturia,CITY,45,1984-10-19,oJoXiuF1m,M
+223,Dadąbog,Krawczyk,1690.76,2005-03-18,04515562182,ODDZ__030,Mlodszy sprzedawca,Francja,Akwitania,CITY,31,1982-06-01,gSYjiTFbk,M
+224,Przybymir,Kowalski,2391.52,2001-07-11,28618009554,ODDZ__027,Glowny sprzedawca,Francja,Burgundia,CITY,23,1997-05-17,365qsWS0k,M
+225,Kacper,Jopek,8293.01,2008-04-23,64291114840,ODDZ__070,Sprzedawca,Francja,Owernia,CITY,12,1975-05-15,8wcxwRN5F,M
+226,Mścibor,Kowalski,3094.19,2003-12-09,37646514409,ODDZ__07,Glowny sprzedawca,Francja,Akwitania,CITY,4,1989-10-10,4lB8hD04D,M
+227,Gwalbert,Krawczyk,3947.92,2011-09-14,81486308604,ODDZ__026,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,15,1983-11-07,pXhbmWxk5,M
+228,Aspazja,Jopek,9319.47,2016-11-02,11671544123,ODDZ__058,Glowny sprzedawca,Hiszpania,Asturia,CITY,54,1978-09-19,4sEfVxEbR,K
+229,Kordula,Krawczyk,5519.03,2005-03-20,71912511125,ODDZ__055,Mlodszy sprzedawca,Hiszpania,Nawarra,CITY,17,1983-09-26,ydSuFpRbc,K
+230,Amadeusz,Kowalski,8876.07,2014-06-30,25789927742,ODDZ__085,Sprzedawca,Francja,Burgundia,CITY,16,1990-01-14,pKdKYCuoT,M
+231,Cieszymir,Jopek,4784.22,2005-03-29,27667852497,ODDZ__047,Sprzedawca,Francja,Owernia,CITY,50,1990-05-21,4Bkgx0Vdb,M
+232,Aleksy,Nowak,6851.54,2000-01-09,68120746191,ODDZ__026,Glowny sprzedawca,Hiszpania,Madryt,CITY,25,1986-08-31,pYOVl1nq7,M
+233,Julietta,Jopek,4280.31,2005-12-20,31185953473,ODDZ__025,Glowny sprzedawca,Polska,Pomorze,CITY,58,1970-01-22,n3c5oNj2S,K
+234,Heliodor,Jopek,4270.72,2005-08-07,01494244524,ODDZ__015,Sprzedawca,Francja,Owernia,CITY,8,1996-05-31,0EE0m2wcK,M
+235,Sulpicjusz,Kiepski,2466.84,2012-08-27,31981910281,ODDZ__085,Mlodszy sprzedawca,Francja,Owernia,CITY,24,1983-11-18,GFcN73mRL,M
+236,Seweryn,Kowalski,5617.76,2000-10-12,56318750117,ODDZ__070,Sprzedawca,Polska,Pomorze,CITY,24,1998-03-18,46n51WbKl,M
+237,Wszemiła,Jopek,4088.76,2006-05-07,28236928085,ODDZ__05,Glowny sprzedawca,Francja,Burgundia,CITY,48,1978-09-14,8w48p5m6I,K
+238,Uniegost,Kowalski,9625.67,2006-01-20,44658340282,ODDZ__070,Sprzedawca,Hiszpania,Kantabria,CITY,45,1979-08-17,biW0q1UTr,M
+239,Gilbert,Kiepski,8323.00,2011-07-07,11019221279,ODDZ__05,Glowny sprzedawca,Hiszpania,Kantabria,CITY,2,1984-02-29,TGPePPNxy,M
+240,Bazyl,Krawczyk,8249.59,2014-02-23,32621946977,ODDZ__018,Mlodszy sprzedawca,Polska,Bieszczady,CITY,49,1979-04-05,fpXk3yULF,M
+241,Asteria,Krawczyk,1970.61,2000-04-21,10328974858,ODDZ__053,Sprzedawca,Polska,Bieszczady,CITY,42,1981-10-26,DOJ2UMYp3,K
+242,Wiesław,Krawczyk,4952.64,2003-05-21,92625292800,ODDZ__032,Glowny sprzedawca,Hiszpania,Nawarra,CITY,31,1981-03-06,buXcT3iFC,M
+243,Asenat,Krawczyk,7579.76,2004-06-18,82196427700,ODDZ__071,Sprzedawca,Polska,Bieszczady,CITY,32,1998-03-06,DbnqTJqUp,M
+244,Jaśmina,Nowak,4919.40,2012-03-13,18662945889,ODDZ__055,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,44,1975-07-10,Yig1LhX3B,K
+245,Władysława,Krawczyk,9737.14,2015-08-20,35180268050,ODDZ__080,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,2,1972-07-27,HdFCmEddt,K
+246,Wenancjusz,Kowalski,6985.71,2014-04-24,64785663322,ODDZ__019,Mlodszy sprzedawca,Francja,Owernia,CITY,1,1977-02-15,c2u5CElK4,M
+247,Radowit,Jopek,2406.42,2006-06-08,76366857006,ODDZ__045,Glowny sprzedawca,Polska,Tatry,CITY,5,1980-10-08,mdN7Pe8pY,M
+248,Gilda,Krawczyk,2566.85,2011-06-07,08266712208,ODDZ__048,Sprzedawca,Hiszpania,Murcja,CITY,8,1986-03-02,jWhscLVKI,K
+249,Emiliusz,Kiepski,8946.69,2008-02-25,73700955328,ODDZ__00,Sprzedawca,Hiszpania,Nawarra,CITY,35,1997-12-14,NdMjjom6p,M
+250,Dobroniega,Kiepski,9674.52,2007-12-03,15949172429,ODDZ__042,Sprzedawca,Hiszpania,Nawarra,CITY,18,1971-12-18,XiIc60E4I,K
+251,Mojżesz,Krawczyk,5908.70,2000-09-30,86954795166,ODDZ__067,Sprzedawca,Polska,Bieszczady,CITY,46,1991-10-27,LBu2eSdmD,M
+252,Dobrochna,Kowalski,7884.05,2012-12-23,42030861273,ODDZ__00,Mlodszy sprzedawca,Francja,Burgundia,CITY,27,1974-11-03,idupHupcU,K
+253,Gilbert,Kiepski,3360.70,2014-03-12,34875386684,ODDZ__08,Sprzedawca,Francja,Akwitania,CITY,12,1984-05-28,Tm3f7pU76,M
+254,Beatrycze,Jopek,8132.48,2009-10-18,61550166008,ODDZ__07,Sprzedawca,Polska,Pomorze,CITY,52,1995-06-06,RlgvFqGEm,K
+255,Męcimir,Kiepski,7481.68,2004-04-29,81883020060,ODDZ__083,Mlodszy sprzedawca,Polska,Tatry,CITY,20,1998-06-28,DnJD82OS5,M
+256,Konrad,Kiepski,2005.22,2012-02-08,01224819222,ODDZ__071,Mlodszy sprzedawca,Francja,Burgundia,CITY,14,1997-03-14,f4eq6dqMF,M
+257,Świętomir,Krawczyk,3077.57,2006-02-27,94281350470,ODDZ__053,Glowny sprzedawca,Polska,Bieszczady,CITY,10,1979-01-02,5LF00icnw,M
+258,Herminia,Nowak,5937.32,2009-11-20,76485570605,ODDZ__081,Sprzedawca,Polska,Pomorze,CITY,12,1983-01-17,TdJVEyLCs,K
+259,Carmen,Jopek,4117.37,2008-10-31,85030177831,ODDZ__067,Sprzedawca,Polska,Pomorze,CITY,51,1988-03-31,gHkEYketH,K
+260,Zula,Krawczyk,8496.90,2017-01-01,99833113194,ODDZ__056,Mlodszy sprzedawca,Polska,Mazury,CITY,7,1986-12-31,wjjDu8fOd,K
+261,Ksawery,Krawczyk,1721.42,2002-04-16,23865845054,ODDZ__075,Glowny sprzedawca,Hiszpania,Madryt,CITY,4,1980-05-09,spq7VlkMW,M
+262,Mirogniew,Kowalski,1846.39,2009-03-18,16752392291,ODDZ__098,Sprzedawca,Francja,Owernia,CITY,51,1985-09-13,Ef6mFPh4G,M
+263,Romuald,Krawczyk,8501.19,2015-04-27,52382728197,ODDZ__087,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,23,1995-01-25,WsgVKkigl,M
+264,Zbigniewa,Kiepski,6372.09,2012-02-10,85903930567,ODDZ__030,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,33,1984-09-17,XYFNpV85K,K
+265,Sulimierz,Kowalski,6852.33,2007-02-26,45247733996,ODDZ__045,Mlodszy sprzedawca,Polska,Mazury,CITY,48,1995-12-23,DrEfiJBL2,M
+266,Chociesław,Kiepski,8891.00,2017-04-08,68054534260,ODDZ__052,Sprzedawca,Francja,Akwitania,CITY,17,1983-02-01,WHGKGMjC7,M
+267,Ewdokia,Nowak,2902.67,2008-06-06,76047945245,ODDZ__014,Glowny sprzedawca,Hiszpania,Murcja,CITY,42,1983-03-03,ElpbG7NvI,K
+268,Bożywoj,Krawczyk,5050.50,2005-08-18,75396550598,ODDZ__073,Glowny sprzedawca,Hiszpania,Murcja,CITY,5,1973-02-14,gk8vkvi4c,M
+269,Erast,Jopek,4413.89,2014-01-22,05809829913,ODDZ__076,Sprzedawca,Francja,Burgundia,CITY,53,1977-11-02,DG5BRxkUd,M
+270,Beatrycze,Kowalski,2944.29,2008-02-27,61458432588,ODDZ__037,Mlodszy sprzedawca,Polska,Pomorze,CITY,15,1973-05-25,rFTURMtpy,K
+271,Żegota,Jopek,8811.47,2002-03-24,63074451552,ODDZ__074,Glowny sprzedawca,Hiszpania,Nawarra,CITY,10,1993-11-25,Qsbyt5YHB,K
+272,Zenobiusz,Krawczyk,5519.93,2005-01-15,11728604206,ODDZ__031,Sprzedawca,Francja,Akwitania,CITY,49,1981-11-21,SSTtEmvbg,M
+273,Serafina,Nowak,3268.73,2011-05-23,06271909525,ODDZ__014,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,33,1996-05-21,T7pCFWwSB,K
+274,Tomira,Kiepski,9881.14,2004-01-06,65035791826,ODDZ__040,Mlodszy sprzedawca,Polska,Mazury,CITY,44,1997-11-23,KyBWTrXBG,K
+275,Antonin,Krawczyk,5089.46,2015-03-21,05827841051,ODDZ__099,Sprzedawca,Hiszpania,Nawarra,CITY,39,1976-09-10,jj3pWqwSv,M
+276,Dalila,Jopek,2688.46,2015-11-17,00875049659,ODDZ__00,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,12,1985-01-04,T0sSxrqk0,K
+277,Festus,Krawczyk,2045.82,2002-01-31,81904202775,ODDZ__052,Glowny sprzedawca,Polska,Bieszczady,CITY,24,1974-02-05,5vNJRuN6G,M
+278,Urlyk,Kowalski,2125.43,2003-01-17,96222239473,ODDZ__027,Sprzedawca,Francja,Akwitania,CITY,24,1975-05-07,mDOdig41l,M
+279,Gabriela,Nowak,4110.12,2006-04-24,44074953837,ODDZ__034,Sprzedawca,Hiszpania,Kantabria,CITY,5,1978-09-18,OiyLSUnTv,K
+280,Czechasz,Krawczyk,4608.58,2006-01-25,65756852891,ODDZ__096,Mlodszy sprzedawca,Polska,Tatry,CITY,14,1983-07-29,0Jk2WIYBM,M
+281,Czcibora,Kiepski,6250.80,2011-10-31,30096576522,ODDZ__050,Glowny sprzedawca,Francja,Owernia,CITY,2,1975-04-06,s14sku2TQ,K
+282,Odilla,Kowalski,9950.78,2010-03-23,25416921169,ODDZ__097,Glowny sprzedawca,Hiszpania,Murcja,CITY,38,1976-07-25,bb5iTbBDX,K
+283,Fides,Kowalski,7324.91,2000-06-16,49666629062,ODDZ__051,Glowny sprzedawca,Hiszpania,Madryt,CITY,55,1987-05-12,6CH63YIkN,M
+284,Boguchwała,Kowalski,8399.13,2000-03-20,08701920385,ODDZ__086,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,59,1983-03-18,7p5E616lE,K
+285,Orfeusz,Krawczyk,4589.56,2009-10-23,11949783625,ODDZ__087,Glowny sprzedawca,Polska,Tatry,CITY,19,1993-07-30,c0T8PemhU,M
+286,Zbisław,Kiepski,7406.76,2000-02-10,20128372068,ODDZ__043,Sprzedawca,Polska,Mazury,CITY,32,1994-03-13,C7RwPI4YJ,M
+287,Mira,Nowak,7916.04,2008-08-03,79621853694,ODDZ__048,Mlodszy sprzedawca,Polska,Tatry,CITY,39,1975-03-14,0YelRyxvr,K
+288,Artus,Krawczyk,5992.33,2011-07-16,55941651308,ODDZ__089,Sprzedawca,Hiszpania,Madryt,CITY,35,1998-05-05,VPmHSCpyB,M
+289,Geraldyna,Kowalski,9328.80,2012-04-13,09036385715,ODDZ__019,Sprzedawca,Hiszpania,Nawarra,CITY,26,1978-03-21,TevodHpFp,K
+290,Potencjana,Kowalski,2188.53,2009-11-30,75252559141,ODDZ__064,Mlodszy sprzedawca,Polska,Bieszczady,CITY,48,1988-10-18,PWPKX6knm,K
+291,Wisława,Nowak,5201.39,2009-02-04,68232819774,ODDZ__041,Mlodszy sprzedawca,Polska,Bieszczady,CITY,40,1971-04-24,rdRJHfmfV,K
+292,Chwalisław,Kowalski,9787.42,2006-01-03,56378535833,ODDZ__00,Sprzedawca,Hiszpania,Murcja,CITY,35,1995-09-02,54TJ08tk6,M
+293,Bronimir,Kowalski,7293.93,2002-12-12,30897660592,ODDZ__095,Sprzedawca,Hiszpania,Barcelona,CITY,26,1984-11-08,3riVFj7Cw,M
+294,Bohusz,Krawczyk,8902.49,2013-12-06,25404764011,ODDZ__070,Sprzedawca,Hiszpania,Murcja,CITY,15,1998-02-01,rOI7F0n5l,M
+295,Kastor,Jopek,9477.82,2009-12-22,03894795035,ODDZ__040,Mlodszy sprzedawca,Francja,Akwitania,CITY,16,1983-10-07,ydsfEu1st,M
+296,Marta,Kowalski,3404.18,2001-06-16,29313136642,ODDZ__051,Sprzedawca,Hiszpania,Madryt,CITY,34,1972-02-03,2yydl84To,K
+297,Wiktoryna,Krawczyk,3423.63,2001-08-12,26211223511,ODDZ__069,Glowny sprzedawca,Polska,Mazury,CITY,20,1975-10-30,8FewwUJcL,K
+298,Metoda,Jopek,8559.92,2010-03-08,32548709210,ODDZ__08,Glowny sprzedawca,Francja,Akwitania,CITY,15,1979-06-10,tIJ7dvIcu,K
+299,Adela,Jopek,3729.02,2017-05-08,78102283102,ODDZ__016,Sprzedawca,Hiszpania,Madryt,CITY,26,1970-10-01,oyPRfGjjP,K
+300,Nehemiasz,Jopek,2696.42,2015-05-15,38338439915,ODDZ__061,Mlodszy sprzedawca,Francja,Akwitania,CITY,4,1979-01-02,ETDerQvEE,M
+301,Naum,Kowalski,5485.73,2013-06-09,66840350620,ODDZ__030,Glowny sprzedawca,Polska,Bieszczady,CITY,59,1996-10-19,y4b0T8qH4,M
+302,Dobrogost,Kowalski,5887.68,2006-12-28,87858762391,ODDZ__04,Sprzedawca,Hiszpania,Nawarra,CITY,59,1975-06-21,81yfqJoFP,M
+303,Ali,Nowak,5279.11,2007-03-11,15192414168,ODDZ__088,Sprzedawca,Polska,Mazury,CITY,18,1985-08-16,I2JwJRjLp,M
+304,Herbert,Kiepski,7561.92,2001-05-21,70313759217,ODDZ__053,Mlodszy sprzedawca,Hiszpania,Barcelona,CITY,38,1992-01-23,ny6qDoOmg,M
+305,Konrada,Kiepski,8418.32,2017-06-12,49185777014,ODDZ__041,Mlodszy sprzedawca,Francja,Akwitania,CITY,21,1993-01-29,TGlh5eEn6,K
+306,Borzywoj,Jopek,2907.64,2008-09-17,73426801203,ODDZ__081,Glowny sprzedawca,Francja,Owernia,CITY,41,1986-07-23,0Six2f8r8,M
+307,Niezamysł,Kiepski,3445.77,2013-01-29,03852757348,ODDZ__059,Sprzedawca,Hiszpania,Murcja,CITY,60,1978-01-28,uDKmBuYME,M
+308,Herbert,Kowalski,8552.77,2002-06-22,33274280047,ODDZ__031,Glowny sprzedawca,Francja,Akwitania,CITY,47,1997-10-03,ENTGCYIs2,M
+309,Zelmira,Kiepski,2999.46,2000-10-12,62193570157,ODDZ__023,Glowny sprzedawca,Polska,Pomorze,CITY,9,1998-09-24,1xI3COS5h,K
+310,Ingeborga,Krawczyk,5220.90,2005-06-13,75137545630,ODDZ__011,Sprzedawca,Polska,Pomorze,CITY,29,1993-09-16,mTK7nJFSN,K
+311,Wiaczesław,Kowalski,9127.38,2015-11-25,29826528088,ODDZ__047,Mlodszy sprzedawca,Francja,Burgundia,CITY,5,1986-08-12,OE20nv5I3,M
+312,Otniel,Nowak,6376.19,2000-04-16,45001802189,ODDZ__042,Sprzedawca,Francja,Burgundia,CITY,35,1972-01-13,kl3nmjfcd,M
+313,Antoni,Kiepski,2353.75,2007-08-20,44509736365,ODDZ__027,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,12,1992-04-21,Iwm8uLGL6,M
+314,Wolimir,Jopek,4669.36,2003-04-17,13888427477,ODDZ__051,Glowny sprzedawca,Polska,Bieszczady,CITY,18,1998-03-01,JgyuBT7ln,M
+315,JÃ³zefa,Kiepski,4584.62,2001-02-28,04491584924,ODDZ__079,Mlodszy sprzedawca,Francja,Burgundia,CITY,31,1970-12-28,2k3PhE1VJ,K
+316,Cyriaka,Jopek,8148.83,2017-04-07,76067908682,ODDZ__045,Glowny sprzedawca,Hiszpania,Madryt,CITY,54,1989-05-30,cY7f6RXrs,K
+317,Adrian,Jopek,3423.82,2010-11-30,58620899725,ODDZ__061,Sprzedawca,Francja,Burgundia,CITY,9,1979-10-10,bnQTXb6yN,M
+318,Ewdokia,Krawczyk,8084.46,2004-08-15,66350815563,ODDZ__022,Sprzedawca,Polska,Tatry,CITY,22,1978-05-03,2u1tUB2jM,K
+319,Sulimir,Nowak,7793.85,2005-07-03,12004558562,ODDZ__038,Mlodszy sprzedawca,Francja,Akwitania,CITY,38,1974-03-21,Ik1mSp2DW,M
+320,Zbisław,Nowak,7739.10,2000-09-16,00751137479,ODDZ__052,Glowny sprzedawca,Polska,Tatry,CITY,7,1993-04-01,xb2WvQM3U,M
+321,Daria,Kowalski,7787.43,2014-04-20,12125792321,ODDZ__00,Glowny sprzedawca,Polska,Bieszczady,CITY,14,1976-02-01,XRs6u3q0R,K
+322,Gustaw,Jopek,9839.55,2012-02-27,30467776480,ODDZ__034,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,33,1979-08-05,7CrGWVXWs,M
+323,Sławoj,Krawczyk,4448.36,2001-04-23,34818488592,ODDZ__032,Sprzedawca,Polska,Bieszczady,CITY,4,1972-09-14,wJ4etl4Bp,M
+324,Przybyczest,Kowalski,3741.88,2012-05-20,26337433941,ODDZ__098,Glowny sprzedawca,Polska,Tatry,CITY,32,1987-02-10,2uLwPHEVR,M
+325,Areta,Nowak,4313.73,2001-01-18,16046347376,ODDZ__021,Mlodszy sprzedawca,Francja,Burgundia,CITY,13,1970-10-28,j2PCKOoFF,K
+326,Otniel,Kiepski,3525.64,2003-06-23,47832484995,ODDZ__070,Sprzedawca,Polska,Bieszczady,CITY,4,1981-01-10,Ko7sKWIR1,M
+327,Wiera,Kowalski,1562.11,2010-03-27,05146759422,ODDZ__05,Mlodszy sprzedawca,Polska,Tatry,CITY,30,1982-04-13,8PXyPmXDC,K
+328,Leokadia,Kowalski,4003.48,2012-10-23,18444638625,ODDZ__057,Glowny sprzedawca,Francja,Akwitania,CITY,52,1989-08-01,g01xX7jOT,K
+329,Witalian,Kiepski,3621.60,2000-12-12,29656220727,ODDZ__027,Glowny sprzedawca,Hiszpania,Kantabria,CITY,24,1977-09-10,E8dHfHUTm,M
+330,Męcimir,Jopek,8097.38,2008-02-13,12780036665,ODDZ__04,Sprzedawca,Hiszpania,Nawarra,CITY,9,1990-02-22,1Vchs7bjy,M
+331,Chociemir,Krawczyk,9205.21,2013-03-14,11232985781,ODDZ__035,Glowny sprzedawca,Hiszpania,Barcelona,CITY,29,1992-03-01,oDG5Nvw28,M
+332,Maciej,Nowak,9278.70,2011-08-29,11169440440,ODDZ__031,Glowny sprzedawca,Francja,Akwitania,CITY,47,1988-02-22,XFhMVmt5n,M
+333,Uriasz,Kiepski,2943.26,2004-10-26,87702268009,ODDZ__079,Sprzedawca,Francja,Burgundia,CITY,43,1989-01-10,Fss3tbS0R,M
+334,Czesław,Jopek,5877.03,2009-12-28,99300384122,ODDZ__043,Glowny sprzedawca,Francja,Burgundia,CITY,26,1998-09-14,huJDIjtob,M
+335,Czcisław,Krawczyk,6261.22,2000-11-10,50840041119,ODDZ__046,Glowny sprzedawca,Polska,Tatry,CITY,30,1974-06-29,uVpDVEtLx,M
+336,Loretta,Jopek,5103.55,2008-05-29,85099072107,ODDZ__029,Sprzedawca,Hiszpania,Kantabria,CITY,6,1973-03-26,wn6dpSEX7,K
+337,Bolesław,Jopek,7308.68,2011-03-23,76997994936,ODDZ__027,Glowny sprzedawca,Polska,Tatry,CITY,7,1983-11-25,2f1mHUNWn,M
+338,Cezara,Jopek,8831.27,2014-11-23,75746876862,ODDZ__081,Glowny sprzedawca,Hiszpania,Kantabria,CITY,31,1978-03-03,E14C8uC02,K
+339,Kanty,Kiepski,7080.55,2005-10-26,05601453565,ODDZ__08,Glowny sprzedawca,Francja,Akwitania,CITY,35,1988-03-24,03s1Effku,M
+340,Margot,Jopek,6538.23,2007-01-01,79959458923,ODDZ__080,Sprzedawca,Hiszpania,Nawarra,CITY,11,1979-09-05,XMHCGwT5I,K
+341,Kewin,Jopek,8538.03,2014-01-04,85191316304,ODDZ__048,Sprzedawca,Hiszpania,Murcja,CITY,17,1970-07-27,mi4twoUqF,M
+342,Czesław,Jopek,5210.67,2010-12-18,45857278806,ODDZ__071,Mlodszy sprzedawca,Polska,Pomorze,CITY,49,1998-11-17,LqWh4i23E,M
+343,Władymir,Jopek,8517.44,2011-06-13,60696194287,ODDZ__072,Glowny sprzedawca,Polska,Pomorze,CITY,57,1996-02-14,CCCGnX8Ws,M
+344,Siemomysł,Jopek,7757.00,2002-07-05,44764649191,ODDZ__081,Glowny sprzedawca,Hiszpania,Nawarra,CITY,5,1996-04-15,KNjekgKRE,M
+345,Laza,Nowak,4872.27,2000-05-26,90084008182,ODDZ__058,Mlodszy sprzedawca,Francja,Akwitania,CITY,20,1972-06-02,t6pxvxkfX,K
+346,Edwin,Kowalski,7921.22,2011-03-14,23809294599,ODDZ__049,Sprzedawca,Hiszpania,Murcja,CITY,47,1998-07-13,C12eEi0MQ,M
+347,Edwin,Jopek,5273.52,2005-10-21,39468415821,ODDZ__052,Glowny sprzedawca,Polska,Tatry,CITY,25,1970-07-11,HxgcCj7Kt,M
+348,Boromeusz,Jopek,2136.60,2000-12-19,61009404773,ODDZ__078,Sprzedawca,Francja,Owernia,CITY,56,1997-09-23,dM1sjx3SW,M
+349,Pantaleon,Nowak,5937.02,2017-06-30,37612538519,ODDZ__05,Glowny sprzedawca,Hiszpania,Kantabria,CITY,14,1991-11-03,m2NNs4sg0,M
+350,Biruta,Jopek,8710.94,2010-09-16,82211202440,ODDZ__024,Sprzedawca,Polska,Tatry,CITY,59,1985-12-17,K0qLyBmUe,K
+351,Bronisław,Jopek,4060.00,2003-01-26,97935001625,ODDZ__093,Glowny sprzedawca,Polska,Pomorze,CITY,7,1994-09-16,PxyxbFg8T,M
+352,Benedykta,Krawczyk,8233.41,2007-06-25,11620995170,ODDZ__021,Glowny sprzedawca,Hiszpania,Kantabria,CITY,58,1997-07-27,6XowFvvEL,K
+353,Dziersława,Jopek,4861.36,2017-05-31,26133003688,ODDZ__011,Sprzedawca,Hiszpania,Nawarra,CITY,9,1993-02-06,mYXb64HmQ,K
+354,Zorian,Kiepski,8766.73,2003-05-11,81447136951,ODDZ__092,Glowny sprzedawca,Polska,Mazury,CITY,36,1985-12-23,cI5KK5vv4,M
+355,Sława,Kowalski,4262.50,2013-05-13,17052143892,ODDZ__023,Sprzedawca,Francja,Burgundia,CITY,11,1998-08-29,moK55QbfU,K
+356,Jadwiga,Kowalski,2198.35,2006-12-12,88645223236,ODDZ__025,Sprzedawca,Hiszpania,Kantabria,CITY,58,1982-07-01,sJiXev4En,K
+357,Amanda,Kowalski,4753.29,2011-10-03,31375735791,ODDZ__02,Glowny sprzedawca,Polska,Tatry,CITY,15,1995-11-21,nybnYMSgI,K
+358,Kalina,Krawczyk,5516.86,2001-08-01,26165280954,ODDZ__069,Glowny sprzedawca,Polska,Tatry,CITY,28,1993-05-27,gp6HS6YsX,K
+359,Konrad,Jopek,2328.76,2010-04-02,63586065850,ODDZ__07,Glowny sprzedawca,Polska,Bieszczady,CITY,22,1980-03-10,eQe50gDvW,M
+360,Przedwoj,Nowak,2576.32,2000-09-04,35333397778,ODDZ__078,Mlodszy sprzedawca,Hiszpania,Barcelona,CITY,60,1975-03-20,vwiLBSU0i,M
+361,Chrystian,Krawczyk,3817.09,2006-02-18,10897900525,ODDZ__084,Glowny sprzedawca,Hiszpania,Murcja,CITY,33,1976-11-07,eTyV8jKvP,M
+362,Pola,Jopek,7209.69,2004-05-06,31731059860,ODDZ__016,Mlodszy sprzedawca,Polska,Tatry,CITY,39,1988-02-07,cXiCYuFst,K
+363,Wielisław,Kiepski,2159.95,2008-07-23,31163657731,ODDZ__010,Sprzedawca,Polska,Bieszczady,CITY,51,1997-11-01,s6RWSnJsg,M
+364,Zygfryd,Kiepski,5186.23,2002-04-11,67738637340,ODDZ__095,Sprzedawca,Polska,Bieszczady,CITY,50,1979-09-30,7PS7cFmdR,M
+365,Aisza,Nowak,5801.50,2003-10-05,22889370314,ODDZ__010,Sprzedawca,Francja,Akwitania,CITY,32,1973-11-13,D73nPTUW4,K
+366,Wiera,Kiepski,3700.25,2009-03-20,43244319527,ODDZ__089,Glowny sprzedawca,Hiszpania,Kantabria,CITY,22,1987-08-25,5mEf7GfKy,K
+367,Oda,Nowak,7277.86,2006-03-10,34485887619,ODDZ__042,Sprzedawca,Hiszpania,Kantabria,CITY,44,1983-11-03,crer6Y5LX,K
+368,Jewdocha,Kowalski,2559.36,2013-06-07,99497029312,ODDZ__015,Glowny sprzedawca,Hiszpania,Asturia,CITY,39,1973-02-18,I48cp3EBP,K
+369,Stefan,Jopek,3556.03,2011-05-26,86188707321,ODDZ__075,Mlodszy sprzedawca,Francja,Burgundia,CITY,8,1992-01-10,PjPHL5cr8,M
+370,Gwalbert,Nowak,5448.58,2011-12-26,15012277664,ODDZ__04,Mlodszy sprzedawca,Polska,Pomorze,CITY,41,1984-07-26,KjbkxIWxY,M
+371,Fidelis,Nowak,2993.73,2005-03-29,71966016317,ODDZ__021,Glowny sprzedawca,Hiszpania,Murcja,CITY,25,1998-09-08,LsoIYK35k,M
+372,Trzebisława,Jopek,6267.89,2004-12-01,69456100442,ODDZ__070,Glowny sprzedawca,Hiszpania,Asturia,CITY,8,1979-09-20,BhviEwN3N,K
+373,Krystyna,Jopek,9531.10,2016-10-06,37584178392,ODDZ__08,Mlodszy sprzedawca,Francja,Burgundia,CITY,29,1976-02-03,JsuFwyC26,K
+374,Borys,Kowalski,9008.58,2006-03-12,69488598206,ODDZ__094,Glowny sprzedawca,Francja,Burgundia,CITY,17,1970-05-14,0wf8h7GNx,M
+375,Donat,Nowak,6523.17,2013-05-04,31137783209,ODDZ__042,Sprzedawca,Polska,Mazury,CITY,7,1975-12-24,ykW8gieIX,M
+376,Angelina,Nowak,3015.53,2001-07-26,53544644419,ODDZ__06,Sprzedawca,Polska,Bieszczady,CITY,37,1998-04-30,hleuMG2H5,K
+377,Grzegorz,Krawczyk,3209.73,2013-10-19,17342106490,ODDZ__068,Sprzedawca,Polska,Tatry,CITY,42,1995-06-21,BRWNi3Xwi,M
+378,Kajetan,Krawczyk,8719.54,2004-02-07,84890426164,ODDZ__066,Glowny sprzedawca,Hiszpania,Barcelona,CITY,51,1993-09-15,jUW8mQ6mI,M
+379,Przybysława,Krawczyk,7271.26,2016-11-14,90336870984,ODDZ__010,Sprzedawca,Hiszpania,Madryt,CITY,9,1998-12-11,soVROud06,K
+380,Mauryn,Kiepski,5111.04,2005-07-05,16952727624,ODDZ__057,Mlodszy sprzedawca,Polska,Pomorze,CITY,14,1977-11-28,qgKxdB8Ei,M
+381,Bazylissa,Kiepski,4147.23,2009-06-26,62648386294,ODDZ__03,Glowny sprzedawca,Polska,Mazury,CITY,0,1990-03-15,4uGum86su,K
+382,Zachariasz,Krawczyk,5629.31,2011-12-01,26660930899,ODDZ__034,Glowny sprzedawca,Francja,Owernia,CITY,57,1993-02-13,os5xH8tI8,M
+383,Mateusz,Kiepski,3282.04,2000-02-22,41404577310,ODDZ__00,Mlodszy sprzedawca,Polska,Tatry,CITY,50,1974-03-22,1DgvBSmVw,M
+384,Franciszka,Kowalski,4950.10,2011-01-22,02209912991,ODDZ__099,Mlodszy sprzedawca,Polska,Pomorze,CITY,27,1986-08-09,CJPwKdcfi,K
+385,Sulibor,Jopek,2307.67,2001-06-01,47448522932,ODDZ__053,Mlodszy sprzedawca,Polska,Bieszczady,CITY,49,1985-07-27,xT0wiSJKL,M
+386,Seweryna,Nowak,7456.51,2009-02-23,88435045948,ODDZ__017,Mlodszy sprzedawca,Francja,Owernia,CITY,59,1976-09-19,DseQ6BIQp,K
+387,Kunegunda,Nowak,9533.29,2012-07-17,13541010269,ODDZ__070,Sprzedawca,Hiszpania,Barcelona,CITY,3,1986-05-30,BgeHjogCy,K
+388,Klet,Kiepski,4055.90,2004-07-21,86011789491,ODDZ__030,Glowny sprzedawca,Francja,Owernia,CITY,40,1983-02-23,XkEU73fQp,M
+389,Larysa,Kiepski,6413.47,2002-08-18,16696621861,ODDZ__085,Glowny sprzedawca,Polska,Bieszczady,CITY,24,1979-12-13,UOQ2k3YLc,K
+390,Weronika,Kowalski,2520.95,2005-09-21,78273776232,ODDZ__033,Mlodszy sprzedawca,Polska,Mazury,CITY,18,1983-11-30,bpD4220gd,K
+391,Trzebowit,Nowak,2424.25,2008-05-04,39788915057,ODDZ__094,Sprzedawca,Hiszpania,Murcja,CITY,35,1978-03-18,65eNoKDep,M
+392,Ludwik,Nowak,8104.37,2002-06-29,10708206561,ODDZ__048,Mlodszy sprzedawca,Polska,Bieszczady,CITY,41,1981-09-07,wF5UCv27c,M
+393,Cyrus,Jopek,3974.87,2004-12-23,69140263497,ODDZ__07,Glowny sprzedawca,Polska,Mazury,CITY,32,1991-06-02,7x0LhsjJQ,M
+394,Teodoryka,Kiepski,3710.68,2010-10-07,06548530521,ODDZ__051,Sprzedawca,Polska,Pomorze,CITY,27,1998-10-02,LeWDluk28,K
+395,Bolesław,Kowalski,2376.60,2008-10-04,93800893941,ODDZ__050,Glowny sprzedawca,Francja,Akwitania,CITY,17,1975-03-21,TuYBTlR3w,M
+396,Celestyna,Krawczyk,8234.59,2015-03-20,48774110596,ODDZ__04,Sprzedawca,Polska,Bieszczady,CITY,18,1985-10-04,Fv8dcRodR,K
+397,Adelina,Nowak,7769.89,2002-10-26,50836143762,ODDZ__084,Sprzedawca,Francja,Burgundia,CITY,20,1977-02-06,Re1BCHER3,K
+398,Mścisława,Jopek,3998.99,2003-03-26,35876839516,ODDZ__087,Mlodszy sprzedawca,Francja,Owernia,CITY,46,1985-08-18,6onivwQ58,K
+399,Gwidon,Kiepski,7650.16,2012-12-13,46071927510,ODDZ__065,Sprzedawca,Francja,Akwitania,CITY,14,1989-02-19,XVNyEnToY,M
+400,Lucjol,Nowak,6999.06,2004-05-07,84844760023,ODDZ__094,Sprzedawca,Hiszpania,Kantabria,CITY,58,1995-05-29,LRUj1YppY,M
+401,Więczysław,Kiepski,4324.42,2008-03-17,05216588636,ODDZ__034,Sprzedawca,Francja,Owernia,CITY,6,1989-10-05,Bj8p4KWJj,M
+402,Unisław,Kowalski,9619.02,2004-12-10,91138216316,ODDZ__051,Glowny sprzedawca,Hiszpania,Madryt,CITY,50,1976-01-25,Khu64bvvG,M
+403,Wrócisław,Kowalski,2789.65,2001-08-20,80203157283,ODDZ__091,Sprzedawca,Polska,Bieszczady,CITY,0,1979-11-14,HooFKcLEf,M
+404,Dyzma,Kiepski,9907.71,2007-08-04,35833706916,ODDZ__094,Sprzedawca,Francja,Akwitania,CITY,57,1984-09-21,irsb7hrbc,K
+405,Bożeciecha,Kiepski,7619.04,2000-02-22,03085725535,ODDZ__07,Glowny sprzedawca,Polska,Mazury,CITY,33,1976-10-21,hqXtktwDh,K
+406,Margareta,Kowalski,1940.21,2002-06-18,74704675397,ODDZ__041,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,57,1988-01-23,IQC8jxVTq,K
+407,Łazarz,Nowak,3845.65,2006-09-06,03557973034,ODDZ__093,Glowny sprzedawca,Hiszpania,Murcja,CITY,15,1973-10-22,jSfniyOkm,M
+408,Gotfryd,Kowalski,9453.11,2009-08-26,76312799314,ODDZ__053,Sprzedawca,Francja,Owernia,CITY,15,1974-06-06,oXyU0CH02,M
+409,Bazylissa,Jopek,8344.12,2010-06-02,94927250517,ODDZ__097,Mlodszy sprzedawca,Francja,Owernia,CITY,26,1982-05-04,t2hnfdlxw,K
+410,Patrycjusz,Kiepski,9875.09,2002-12-17,73567964503,ODDZ__075,Mlodszy sprzedawca,Hiszpania,Nawarra,CITY,25,1975-09-27,ndSHHN7yE,M
+411,Bożysław,Jopek,7134.68,2016-09-12,89431017369,ODDZ__020,Sprzedawca,Hiszpania,Asturia,CITY,59,1990-12-03,R4eeO8Js1,M
+412,Szymon,Nowak,8954.38,2001-08-15,25992688385,ODDZ__069,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,45,1998-03-02,i3PgVJ2YQ,M
+413,Dobrowit,Jopek,2387.84,2008-06-12,58372315903,ODDZ__029,Glowny sprzedawca,Francja,Owernia,CITY,43,1980-09-19,RgSLBDF5L,M
+414,Zbylut,Krawczyk,3409.11,2014-08-20,50494712737,ODDZ__036,Glowny sprzedawca,Hiszpania,Nawarra,CITY,8,1987-01-08,qNdpyp277,M
+415,Mansfet,Krawczyk,5746.60,2011-10-02,99109449191,ODDZ__084,Glowny sprzedawca,Hiszpania,Nawarra,CITY,37,1987-03-21,yqwvy6pMO,M
+416,Stronisława,Krawczyk,2064.49,2003-01-26,50664354507,ODDZ__023,Glowny sprzedawca,Polska,Pomorze,CITY,3,1988-05-25,KcFUhVv7d,K
+417,Świętosław,Nowak,2763.61,2012-06-26,90790613317,ODDZ__061,Mlodszy sprzedawca,Francja,Burgundia,CITY,8,1981-01-13,T3NnwDyTp,M
+418,Laurencja,Krawczyk,4099.32,2011-07-16,47135395654,ODDZ__098,Sprzedawca,Francja,Burgundia,CITY,54,1986-09-19,X4hjhWR77,K
+419,Drogosław,Jopek,4967.01,2000-03-08,60849727394,ODDZ__031,Mlodszy sprzedawca,Francja,Akwitania,CITY,27,1988-09-24,qmnw2friE,M
+420,Ernest,Kowalski,9907.39,2005-05-05,62780189554,ODDZ__045,Sprzedawca,Hiszpania,Asturia,CITY,24,1991-03-27,WcVRTlTWR,M
+421,RenÃ©,Nowak,5249.78,2003-06-16,02877239849,ODDZ__03,Sprzedawca,Polska,Pomorze,CITY,17,1997-06-26,M7yhGR5vm,M
+422,Flawian,Krawczyk,7220.81,2005-11-18,69261918331,ODDZ__035,Glowny sprzedawca,Hiszpania,Nawarra,CITY,32,1995-05-23,30yOmePId,M
+423,Zygfryd,Jopek,3041.44,2006-03-30,38628842190,ODDZ__077,Sprzedawca,Francja,Owernia,CITY,38,1988-07-05,nUmoJMQlj,M
+424,Wieńczysław,Kowalski,4462.63,2006-08-08,01547780687,ODDZ__031,Sprzedawca,Hiszpania,Nawarra,CITY,39,1987-10-12,gg7edjIxc,M
+425,Euzebiusz,Jopek,7215.50,2004-06-11,68961841580,ODDZ__025,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,8,1987-10-29,qfmqksdTi,M
+426,Franciszka,Jopek,4095.78,2014-10-22,18493494387,ODDZ__038,Sprzedawca,Polska,Mazury,CITY,52,1982-02-01,8HpU7FxO5,K
+427,Klarysa,Kiepski,2117.67,2011-02-20,11583796285,ODDZ__051,Mlodszy sprzedawca,Polska,Pomorze,CITY,60,1970-03-04,eVRqu0MyJ,K
+428,Urban,Kiepski,8201.93,2005-09-05,17143061613,ODDZ__075,Sprzedawca,Polska,Mazury,CITY,56,1979-09-17,2YJFx8DR3,M
+429,Kallina,Krawczyk,2568.62,2014-01-07,93926106614,ODDZ__09,Mlodszy sprzedawca,Polska,Mazury,CITY,47,1976-11-30,KNjt3VuE5,K
+430,Unisław,Nowak,7257.26,2005-10-23,37828414918,ODDZ__081,Mlodszy sprzedawca,Francja,Akwitania,CITY,35,1981-01-09,YPcIwvGiY,M
+431,Aga,Krawczyk,8758.43,2005-03-07,61357412751,ODDZ__030,Mlodszy sprzedawca,Polska,Pomorze,CITY,55,1985-12-20,Si1ujxK3n,K
+432,Hugo,Kowalski,2831.73,2009-08-03,24388130411,ODDZ__011,Mlodszy sprzedawca,Polska,Pomorze,CITY,23,1986-07-12,d7QcysixN,M
+433,Konstancja,Kiepski,6760.28,2014-04-18,87588891503,ODDZ__068,Glowny sprzedawca,Hiszpania,Barcelona,CITY,46,1994-01-10,mCOx5ww4n,K
+434,Jarosław,Nowak,7745.02,2016-10-30,27802331886,ODDZ__070,Sprzedawca,Hiszpania,Barcelona,CITY,27,1977-05-15,BWwUNObD3,M
+435,Witomysł,Jopek,8858.65,2012-04-15,47119058420,ODDZ__042,Sprzedawca,Hiszpania,Murcja,CITY,25,1988-04-23,tnpg0vhrx,M
+436,Zofia,Kowalski,2687.24,2015-09-01,66428709328,ODDZ__047,Mlodszy sprzedawca,Francja,Owernia,CITY,28,1986-11-29,PpuhENFmc,K
+437,Roland,Krawczyk,6357.34,2014-09-23,96404972353,ODDZ__076,Glowny sprzedawca,Francja,Akwitania,CITY,9,1974-04-09,3cNVTTDIG,M
+438,Ramona,Jopek,3877.07,2000-02-22,04969939581,ODDZ__075,Glowny sprzedawca,Francja,Akwitania,CITY,11,1987-08-24,KW6CFPHk7,K
+439,Petronia,Kiepski,5461.94,2003-04-09,31315158227,ODDZ__025,Sprzedawca,Hiszpania,Kantabria,CITY,40,1986-09-29,hS5vOKrV3,K
+440,Bożena,Krawczyk,6840.82,2002-01-19,02649994733,ODDZ__037,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,22,1989-01-17,Rs1wbQHDh,K
+441,Fryderyk,Krawczyk,8832.73,2004-11-24,22301227819,ODDZ__024,Mlodszy sprzedawca,Polska,Bieszczady,CITY,41,1983-03-05,x8NyHrBrn,M
+442,Godzimir,Krawczyk,8788.34,2001-08-24,34671719654,ODDZ__064,Glowny sprzedawca,Francja,Akwitania,CITY,28,1984-08-06,pRe8ii2KT,M
+443,Karol Boromeusz,Kiepski,1615.40,2004-09-21,32832389671,ODDZ__039,Sprzedawca,Polska,Tatry,CITY,32,1991-07-05,me6pxTCK8,M
+444,Aurelian,Kowalski,3485.90,2008-11-04,66231463341,ODDZ__027,Sprzedawca,Polska,Mazury,CITY,51,1982-09-02,KdeVtX7Ku,M
+445,Ramona,Kowalski,6753.50,2003-04-12,52771683778,ODDZ__040,Glowny sprzedawca,Francja,Akwitania,CITY,52,1990-04-20,wB72osut1,K
+446,Wincenty,Jopek,9656.71,2008-01-28,55585634615,ODDZ__062,Sprzedawca,Francja,Owernia,CITY,36,1989-11-15,6KDqQ5ckk,M
+447,Renata,Nowak,4676.63,2012-05-12,41524852979,ODDZ__061,Glowny sprzedawca,Polska,Mazury,CITY,15,1981-12-05,pFGMSLbQR,K
+448,Suliwoj,Jopek,4535.31,2003-04-27,94357932878,ODDZ__081,Glowny sprzedawca,Polska,Tatry,CITY,54,1994-12-20,FsKsmwmoL,M
+449,Marcin,Nowak,5612.94,2016-09-24,50183909404,ODDZ__076,Glowny sprzedawca,Polska,Bieszczady,CITY,17,1972-10-05,G3snP6T6L,M
+450,Konstancjusz,Kowalski,6952.20,2000-07-02,81813512913,ODDZ__015,Sprzedawca,Polska,Bieszczady,CITY,29,1981-05-06,fhhCfuv4H,M
+451,Irena,Krawczyk,8371.77,2013-03-22,31889512965,ODDZ__064,Sprzedawca,Francja,Akwitania,CITY,58,1977-06-07,p0jo8mGLW,K
+452,Igor,Kiepski,2285.01,2007-06-05,75019786006,ODDZ__01,Glowny sprzedawca,Hiszpania,Nawarra,CITY,57,1996-10-17,S3Fhw7bYJ,M
+453,Ezechiel,Nowak,3635.82,2011-11-05,19443773469,ODDZ__011,Mlodszy sprzedawca,Polska,Pomorze,CITY,22,1991-04-21,jSHqwQEsP,M
+454,Uniewit,Kowalski,4532.15,2010-08-20,53365968044,ODDZ__070,Sprzedawca,Francja,Burgundia,CITY,28,1982-11-17,QS6BhIuBo,M
+455,Częstowoj,Nowak,9927.08,2000-03-06,19685847551,ODDZ__073,Sprzedawca,Francja,Burgundia,CITY,1,1971-03-03,IBBr6YlO7,M
+456,Wawrzyn,Kiepski,2763.98,2011-01-27,93103045250,ODDZ__052,Glowny sprzedawca,Hiszpania,Kantabria,CITY,42,1986-03-23,n7rK8FCEf,M
+457,Chwalimir,Kowalski,5380.26,2015-05-09,50465336091,ODDZ__026,Mlodszy sprzedawca,Hiszpania,Barcelona,CITY,44,1977-04-02,eRYBrtT2Q,M
+458,Glikeria,Kiepski,2417.98,2003-01-07,72963159078,ODDZ__081,Glowny sprzedawca,Francja,Akwitania,CITY,24,1972-02-20,uVUkt5jPc,K
+459,Trzebomysł,Nowak,2909.02,2016-01-25,79916371448,ODDZ__032,Mlodszy sprzedawca,Francja,Akwitania,CITY,6,1998-02-03,Thh8hCkWU,M
+460,Probus,Kowalski,2808.46,2010-10-27,34055868019,ODDZ__020,Mlodszy sprzedawca,Francja,Burgundia,CITY,12,1996-09-11,UWKwBJdL7,M
+461,Kir,Jopek,1998.48,2016-07-28,23583120082,ODDZ__064,Sprzedawca,Francja,Owernia,CITY,1,1993-08-21,QsJu3xLQO,M
+462,Bolesław,Krawczyk,4552.96,2012-12-12,40910416144,ODDZ__086,Mlodszy sprzedawca,Francja,Owernia,CITY,50,1974-07-29,Uv1vOEMCe,M
+463,Bożeciech,Jopek,1876.78,2017-03-19,99859020824,ODDZ__094,Sprzedawca,Polska,Bieszczady,CITY,39,1971-11-02,4wso1OrjH,M
+464,Regina,Jopek,4602.23,2005-06-01,68115688933,ODDZ__069,Glowny sprzedawca,Polska,Mazury,CITY,38,1987-08-16,I32FWNFiB,K
+465,Dobrawa,Krawczyk,2837.46,2010-11-11,86902362657,ODDZ__068,Sprzedawca,Polska,Pomorze,CITY,44,1970-01-02,PQIq66l5V,K
+466,Wolfgang,Krawczyk,7524.67,2012-07-24,77623270885,ODDZ__061,Mlodszy sprzedawca,Polska,Pomorze,CITY,37,1980-03-05,fV3iqe75m,M
+467,Tyberiusz,Jopek,7448.87,2005-12-27,64554298070,ODDZ__09,Mlodszy sprzedawca,Francja,Burgundia,CITY,34,1988-08-15,rsjrjGTs8,M
+468,Miromir,Kowalski,7430.05,2005-11-20,45769997392,ODDZ__046,Sprzedawca,Francja,Burgundia,CITY,57,1996-05-26,PMbRCqTYQ,M
+469,Beatus,Jopek,3714.87,2015-03-06,66543428847,ODDZ__048,Glowny sprzedawca,Francja,Owernia,CITY,22,1998-05-25,YQih25g1v,M
+470,Radomiła,Jopek,4796.67,2002-10-13,77014180469,ODDZ__018,Glowny sprzedawca,Francja,Burgundia,CITY,30,1995-04-30,tb24rVgj6,K
+471,Kesja,Kiepski,8477.86,2012-10-10,77065464110,ODDZ__069,Glowny sprzedawca,Polska,Tatry,CITY,57,1972-04-19,cMQCmLBOb,K
+472,Ignacja,Jopek,6664.49,2017-03-11,90994085634,ODDZ__075,Glowny sprzedawca,Francja,Burgundia,CITY,55,1995-06-12,RqTS5uof6,K
+473,Sulimir,Jopek,4903.93,2003-07-09,85272858074,ODDZ__06,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,12,1997-07-08,qtsD4hxNq,M
+474,Gniewosz,Krawczyk,9495.29,2013-07-06,89619280085,ODDZ__021,Mlodszy sprzedawca,Francja,Burgundia,CITY,37,1995-01-29,CwspdJYGc,M
+475,Lewin,Krawczyk,4825.89,2006-01-11,84053808085,ODDZ__026,Mlodszy sprzedawca,Francja,Owernia,CITY,51,1989-07-28,v7pXBNnJ8,M
+476,Mściwój,Kowalski,7862.26,2010-10-16,39939876100,ODDZ__034,Glowny sprzedawca,Hiszpania,Kantabria,CITY,34,1983-01-11,HDUwli7oD,M
+477,Imisława,Kiepski,5201.57,2013-08-13,50969320389,ODDZ__099,Glowny sprzedawca,Hiszpania,Murcja,CITY,23,1979-03-27,enlSpE8VU,K
+478,Świętomira,Kowalski,4245.78,2016-07-30,47288761623,ODDZ__059,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,57,1976-07-11,rc6NE2Bkk,K
+479,Roma,Krawczyk,7078.66,2013-11-28,72140815544,ODDZ__050,Sprzedawca,Polska,Pomorze,CITY,5,1980-04-04,KjFbBuNlT,K
+480,Marcelin,Jopek,1933.10,2001-11-27,58478044105,ODDZ__092,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,51,1993-11-17,idqQ4dNSv,M
+481,Kallina,Jopek,4274.90,2014-06-03,97406973052,ODDZ__070,Glowny sprzedawca,Polska,Bieszczady,CITY,56,1998-04-14,Se7ObkTi0,K
+482,Fryderyk,Nowak,3644.36,2002-08-26,04026496808,ODDZ__087,Glowny sprzedawca,Polska,Tatry,CITY,57,1986-05-14,FnQJQeoCb,M
+483,Urszula,Kowalski,7917.86,2008-02-06,17382010835,ODDZ__045,Mlodszy sprzedawca,Francja,Akwitania,CITY,54,1996-01-24,GT6Jq7351,K
+484,Biruta,Jopek,2906.21,2012-04-02,94449558045,ODDZ__071,Sprzedawca,Hiszpania,Murcja,CITY,11,1980-03-24,Vemgrh7NH,K
+485,Eligia,Krawczyk,2775.28,2000-11-14,51762193387,ODDZ__079,Mlodszy sprzedawca,Polska,Bieszczady,CITY,29,1980-10-18,JDng0DTvt,K
+486,Niemir,Kowalski,8910.67,2006-07-30,03473607949,ODDZ__088,Glowny sprzedawca,Hiszpania,Kantabria,CITY,50,1990-02-24,E5fvwsDbh,M
+487,Lea,Nowak,4428.14,2005-05-17,37215807404,ODDZ__05,Glowny sprzedawca,Francja,Akwitania,CITY,35,1975-06-18,2Huv3Jn6O,K
+488,Wiola,Nowak,6882.77,2009-07-28,56726323296,ODDZ__039,Sprzedawca,Hiszpania,Murcja,CITY,21,1988-08-11,YmnkCptgy,K
+489,Alfreda,Jopek,6298.54,2000-06-12,38129672329,ODDZ__089,Glowny sprzedawca,Polska,Mazury,CITY,3,1993-09-30,5cR1gBlc0,K
+490,Tomił,Nowak,2973.07,2004-11-13,02653904826,ODDZ__075,Sprzedawca,Hiszpania,Nawarra,CITY,24,1989-11-26,73PCYYfkf,M
+491,Ludmiła,Krawczyk,2712.42,2007-12-21,45862608826,ODDZ__041,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,14,1992-01-25,Vm6nUB5wW,K
+492,Demetriusz,Jopek,9975.29,2001-09-12,18733136301,ODDZ__054,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,60,1976-03-30,yESGpOnyD,M
+493,Joachim,Jopek,3436.60,2017-08-25,82783977159,ODDZ__094,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,3,1974-06-28,DbmSL5sk4,M
+494,Kanty,Krawczyk,6693.02,2010-02-01,07372947155,ODDZ__043,Glowny sprzedawca,Polska,Mazury,CITY,11,1984-03-22,PVSX0CeyO,M
+495,Blandyn,Jopek,8298.15,2012-10-30,79925042729,ODDZ__020,Sprzedawca,Hiszpania,Nawarra,CITY,50,1991-02-05,TlVQumqRD,M
+496,Budzisław,Jopek,5640.63,2009-08-18,04846120175,ODDZ__086,Sprzedawca,Hiszpania,Madryt,CITY,9,1988-01-25,xdovN2bsH,M
+497,Bernardyn,Krawczyk,8948.18,2016-08-31,11849142248,ODDZ__067,Mlodszy sprzedawca,Francja,Akwitania,CITY,21,1981-07-05,GLOnMVDIT,M
+498,Emanuel,Jopek,8526.37,2005-06-10,94461438727,ODDZ__071,Sprzedawca,Hiszpania,Murcja,CITY,34,1996-09-06,rjEnyL8FM,M
+499,Wszegniew,Krawczyk,8682.78,2000-04-04,85945079729,ODDZ__033,Sprzedawca,Hiszpania,Barcelona,CITY,14,1993-07-01,kebWM2c6J,M
+500,Gniewosz,Kiepski,8828.63,2013-08-04,60630245353,ODDZ__035,Glowny sprzedawca,Hiszpania,Asturia,CITY,57,1989-12-09,nto46uScW,M
+501,Diomada,Kowalski,7201.57,2009-11-17,50754885920,ODDZ__091,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,26,1976-01-13,8JQy8kwth,K
+502,Rudolfa,Jopek,7099.10,2011-03-19,77285344592,ODDZ__015,Sprzedawca,Hiszpania,Barcelona,CITY,46,1976-01-06,inmUeuTYX,K
+503,Priam,Nowak,4313.26,2007-08-25,86931764882,ODDZ__034,Sprzedawca,Francja,Owernia,CITY,20,1986-03-31,iHnHGPiIJ,M
+504,Bogurad,Krawczyk,9540.66,2004-07-23,45332269798,ODDZ__055,Glowny sprzedawca,Francja,Owernia,CITY,16,1970-06-21,devvW0SqN,M
+505,Porfirion,Nowak,3335.34,2010-06-30,84109668732,ODDZ__039,Mlodszy sprzedawca,Francja,Owernia,CITY,35,1970-06-26,2FrukFs5Y,M
+506,Więcerad,Jopek,6654.70,2006-10-13,38742843650,ODDZ__076,Sprzedawca,Polska,Tatry,CITY,17,1992-01-01,4VG4tneub,M
+507,Dyzma,Jopek,5962.55,2004-08-31,23888330385,ODDZ__086,Sprzedawca,Hiszpania,Barcelona,CITY,2,1978-07-09,FO2bGkFEy,K
+508,Symforiana,Kowalski,7257.03,2000-03-02,58003390883,ODDZ__019,Sprzedawca,Francja,Akwitania,CITY,25,1982-11-16,6Pf5nwDCg,K
+509,Konstanty,Nowak,3142.55,2009-11-25,42450051947,ODDZ__036,Sprzedawca,Polska,Mazury,CITY,52,1993-07-09,XdMu8cq3h,M
+510,Samuela,Jopek,3212.63,2004-09-24,42070869800,ODDZ__027,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,17,1977-08-25,sQvnVh2T0,K
+511,Jagna,Kowalski,5192.13,2007-08-14,55051685938,ODDZ__04,Sprzedawca,Francja,Akwitania,CITY,43,1981-03-07,Jyhvc5bFL,K
+512,Adaukt,Kiepski,9931.08,2003-12-27,21339790394,ODDZ__093,Sprzedawca,Hiszpania,Asturia,CITY,7,1992-08-15,N1qV4WW6O,M
+513,Witolda,Kiepski,8672.40,2011-12-22,59053090459,ODDZ__042,Glowny sprzedawca,Hiszpania,Murcja,CITY,55,1983-02-17,lcUypSfG8,K
+514,Iwon,Krawczyk,2914.97,2012-10-09,23558157097,ODDZ__099,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,14,1992-02-15,t56UwTyXM,M
+515,Laurencja,Kiepski,4653.12,2011-03-26,43501883646,ODDZ__076,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,11,1977-04-19,pHjE60mEd,K
+516,Saul,Kowalski,8651.58,2009-11-04,54608068606,ODDZ__062,Sprzedawca,Hiszpania,Madryt,CITY,19,1972-10-28,3K0yxHR6w,M
+517,Karola,Krawczyk,8724.50,2003-08-29,37309188487,ODDZ__012,Mlodszy sprzedawca,Francja,Akwitania,CITY,4,1991-08-13,CHE7XfPyD,K
+518,Ignacja,Kowalski,7173.17,2009-09-08,89563059607,ODDZ__045,Mlodszy sprzedawca,Hiszpania,Kantabria,CITY,22,1975-10-18,Tecbp3K6O,K
+519,Abdiasz,Nowak,5059.45,2009-09-29,84702247308,ODDZ__022,Sprzedawca,Polska,Mazury,CITY,41,1970-05-11,Fg3RxiBc5,M
+520,Ruta,Kiepski,4189.93,2011-03-28,33073483812,ODDZ__075,Glowny sprzedawca,Polska,Bieszczady,CITY,10,1982-08-12,IwI1NjyHm,K
+521,Lucjusz,Jopek,3897.00,2012-07-16,42454437684,ODDZ__063,Mlodszy sprzedawca,Francja,Burgundia,CITY,48,1990-03-25,vDRCkbM1c,M
+522,Kasper,Kiepski,1732.14,2007-06-08,47032864369,ODDZ__081,Sprzedawca,Francja,Burgundia,CITY,26,1995-11-13,nWxmFGhco,M
+523,Frydolin,Kiepski,5851.01,2007-08-01,71686526512,ODDZ__020,Mlodszy sprzedawca,Polska,Bieszczady,CITY,12,1985-11-06,FyTIsMYqj,M
+524,Bolemysł,Jopek,7350.87,2011-01-03,39777038543,ODDZ__06,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,17,1974-03-25,oUKYK7Eve,M
+525,Domisława,Nowak,7156.12,2014-01-14,04982500324,ODDZ__062,Sprzedawca,Hiszpania,Barcelona,CITY,13,1994-04-24,bMNnf3NXL,K
+526,Hegezyp,Krawczyk,6680.03,2002-07-09,23143997101,ODDZ__031,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,16,1988-11-03,bYqr1bk68,M
+527,Zbigniewa,Jopek,3941.73,2012-11-23,32177788455,ODDZ__022,Glowny sprzedawca,Francja,Owernia,CITY,40,1992-02-12,6FNSTNbHk,K
+528,Siemirad,Jopek,2073.52,2014-10-19,51628703163,ODDZ__019,Glowny sprzedawca,Hiszpania,Madryt,CITY,53,1985-09-20,JOw3yLhCY,M
+529,Selma,Kiepski,9080.38,2000-12-16,58061577925,ODDZ__053,Glowny sprzedawca,Hiszpania,Nawarra,CITY,28,1987-10-30,oVdBJq1mT,K
+530,Święcimir,Kiepski,2369.49,2015-10-07,78503570643,ODDZ__028,Glowny sprzedawca,Hiszpania,Kantabria,CITY,34,1994-02-01,QdgyuGEoS,M
+531,Mauryn,Nowak,3146.86,2008-12-20,86935275011,ODDZ__057,Mlodszy sprzedawca,Polska,Bieszczady,CITY,39,1973-01-16,cWGIkS1qc,M
+532,Radowid,Jopek,9026.57,2016-10-22,83761590837,ODDZ__061,Sprzedawca,Polska,Pomorze,CITY,4,1996-03-05,VwbCPL5Bu,M
+533,Emilian,Nowak,4152.07,2017-04-21,60116519611,ODDZ__092,Mlodszy sprzedawca,Francja,Owernia,CITY,9,1975-09-17,sOKucJQXK,M
+534,Dalemir,Krawczyk,3819.23,2004-07-17,22784288075,ODDZ__057,Mlodszy sprzedawca,Hiszpania,Barcelona,CITY,60,1981-11-08,bG85hCVsn,M
+535,Selma,Jopek,6480.26,2001-07-12,81319040085,ODDZ__095,Glowny sprzedawca,Polska,Bieszczady,CITY,33,1989-01-17,Tsy0BVitD,K
+536,Cezariusz,Jopek,1905.78,2010-01-16,76558767805,ODDZ__024,Glowny sprzedawca,Hiszpania,Asturia,CITY,57,1988-11-08,80wg5G030,M
+537,Tymoteusz,Nowak,9260.41,2009-10-26,42458874392,ODDZ__010,Glowny sprzedawca,Francja,Akwitania,CITY,3,1980-10-05,TfoHYLukr,M
+538,Świeciech,Jopek,6724.57,2001-09-15,19210319901,ODDZ__072,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,11,1972-03-07,q4YrXHtn2,M
+539,Marian,Nowak,2897.75,2007-12-02,64019181044,ODDZ__099,Mlodszy sprzedawca,Francja,Akwitania,CITY,19,1996-11-28,OrRFUGGYy,M
+540,Epifania,Nowak,6263.40,2012-06-16,02865808584,ODDZ__082,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,35,1980-12-09,pwNY2Ty7Q,K
+541,Konstantyn,Krawczyk,2963.77,2016-09-13,61518815472,ODDZ__088,Sprzedawca,Francja,Burgundia,CITY,46,1984-01-02,sO7gFPJTh,M
+542,Miron,Jopek,4489.81,2013-10-02,07637079970,ODDZ__04,Sprzedawca,Francja,Owernia,CITY,36,1989-07-27,jVQ4hbsXc,M
+543,Torpet,Krawczyk,6791.63,2007-03-17,58832513007,ODDZ__095,Sprzedawca,Hiszpania,Nawarra,CITY,30,1995-04-05,QnUcBoSQG,M
+544,Kanty,Kowalski,2782.22,2017-07-30,04405241478,ODDZ__044,Mlodszy sprzedawca,Francja,Owernia,CITY,10,1984-08-21,flUuvshXo,M
+545,Prosper,Jopek,3823.59,2016-08-20,75116346396,ODDZ__081,Mlodszy sprzedawca,Polska,Bieszczady,CITY,52,1996-06-08,xVpEEnsmk,M
+546,Tolisław,Nowak,5345.35,2010-02-03,87309201887,ODDZ__055,Glowny sprzedawca,Francja,Owernia,CITY,20,1998-11-08,ngIpDGKQw,M
+547,Swietłana,Jopek,6307.89,2005-06-24,43695071446,ODDZ__034,Mlodszy sprzedawca,Francja,Akwitania,CITY,29,1981-04-16,1Vy1UiDj7,K
+548,Sędzisław,Jopek,7415.88,2012-08-14,63836444535,ODDZ__083,Sprzedawca,Polska,Mazury,CITY,52,1982-06-05,WSXho0CPX,M
+549,Duszan,Jopek,2686.99,2012-02-24,49665515655,ODDZ__077,Mlodszy sprzedawca,Polska,Pomorze,CITY,50,1975-09-28,s76Y1Il8s,M
+550,Natalis,Kiepski,6478.63,2006-05-06,80151722350,ODDZ__06,Sprzedawca,Hiszpania,Murcja,CITY,41,1998-05-15,M6YG5P2Tm,M
+551,Nieznamir,Kowalski,8100.88,2004-04-20,89379114094,ODDZ__084,Glowny sprzedawca,Francja,Owernia,CITY,33,1974-02-05,UVBexwGoV,M
+552,Wszemiła,Nowak,3701.81,2005-09-22,75581442909,ODDZ__017,Sprzedawca,Hiszpania,Asturia,CITY,10,1976-03-06,iK0oe2LYi,K
+553,Lesław,Kowalski,9477.39,2015-12-02,41956264876,ODDZ__011,Sprzedawca,Francja,Owernia,CITY,24,1995-06-02,MofriHNp4,M
+554,Dzierżymir,Jopek,7623.73,2014-01-14,43576392632,ODDZ__022,Mlodszy sprzedawca,Hiszpania,Barcelona,CITY,6,1982-05-29,ndBL2ohXv,M
+555,Ksawery,Nowak,5429.24,2007-01-19,56683153539,ODDZ__019,Sprzedawca,Francja,Burgundia,CITY,28,1989-04-17,yIJEcR8it,M
+556,Huberta,Kowalski,7447.94,2017-07-13,43137661855,ODDZ__095,Glowny sprzedawca,Francja,Akwitania,CITY,45,1998-09-08,Luq8vh2tD,K
+557,Lewin,Kowalski,1719.39,2000-04-18,99671518726,ODDZ__017,Sprzedawca,Polska,Pomorze,CITY,38,1972-11-11,YEGcWpFrG,M
+558,Roderyk,Nowak,7439.09,2003-07-01,31688428161,ODDZ__084,Sprzedawca,Francja,Akwitania,CITY,5,1972-08-27,0ebknEuqB,M
+559,Aurora,Krawczyk,3515.55,2000-01-19,21067557440,ODDZ__093,Glowny sprzedawca,Hiszpania,Murcja,CITY,39,1984-01-28,B0oFwDHlf,K
+560,Radosława,Jopek,2025.64,2014-06-23,90499772514,ODDZ__047,Mlodszy sprzedawca,Francja,Akwitania,CITY,28,1994-10-25,0NnTbBeBs,K
+561,Scholastyka,Krawczyk,5340.09,2007-08-17,84863410014,ODDZ__09,Glowny sprzedawca,Francja,Burgundia,CITY,9,1991-05-15,QO6D8GKqJ,K
+562,Eulalia,Nowak,7982.00,2001-01-01,51220041524,ODDZ__058,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,26,1971-10-11,QsT041Y0j,K
+563,Ernestyn,Nowak,4056.87,2005-03-19,79606223212,ODDZ__046,Mlodszy sprzedawca,Polska,Pomorze,CITY,20,1988-12-02,b0I6rB0Pl,M
+564,Flawian,Nowak,8215.38,2006-07-02,03680036964,ODDZ__029,Glowny sprzedawca,Hiszpania,Nawarra,CITY,59,1983-01-16,NKsSBsR1h,M
+565,Hiacynta,Jopek,5205.31,2007-01-02,49157419084,ODDZ__028,Sprzedawca,Francja,Owernia,CITY,44,1980-06-21,WWrqmmrhK,K
+566,Przemysław,Kiepski,4478.91,2011-06-09,62511095740,ODDZ__022,Mlodszy sprzedawca,Francja,Burgundia,CITY,40,1984-06-18,Mnf4Hm74R,M
+567,Lubosza,Jopek,4987.04,2016-12-22,17466765196,ODDZ__09,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,52,1989-02-03,1mve0nNRD,K
+568,Sulimierz,Krawczyk,8828.69,2016-10-29,61168990097,ODDZ__087,Mlodszy sprzedawca,Francja,Owernia,CITY,13,1982-05-15,INiMESMxQ,M
+569,Rafaela,Jopek,8477.25,2012-11-14,05855036653,ODDZ__088,Glowny sprzedawca,Hiszpania,Madryt,CITY,30,1998-01-14,flSqc5itN,K
+570,Renat,Kiepski,1859.61,2004-12-29,12008911468,ODDZ__023,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,21,1995-10-20,OVhiPMN4D,M
+571,Malwin,Kowalski,1773.81,2013-08-27,24722139929,ODDZ__036,Glowny sprzedawca,Hiszpania,Madryt,CITY,36,1995-06-06,tBDxp4K4R,M
+572,Rozanna,Nowak,5816.43,2005-12-17,38933283691,ODDZ__042,Mlodszy sprzedawca,Francja,Owernia,CITY,29,1997-08-20,sOdfcGmLI,K
+573,Pompejusz,Kowalski,7298.36,2001-04-10,38045259635,ODDZ__046,Mlodszy sprzedawca,Francja,Akwitania,CITY,51,1983-09-27,WfcfHVMXc,M
+574,Kastor,Krawczyk,2172.65,2005-04-07,45232138186,ODDZ__020,Sprzedawca,Hiszpania,Barcelona,CITY,29,1974-01-08,hIIQW7KWG,M
+575,Edgar,Nowak,7628.33,2000-12-13,47713453870,ODDZ__018,Sprzedawca,Polska,Pomorze,CITY,25,1992-04-22,t0TyLdxdo,M
+576,Parys,Jopek,4338.05,2010-06-01,16240993195,ODDZ__088,Glowny sprzedawca,Francja,Burgundia,CITY,24,1974-07-29,XjRRPeNDR,M
+577,Strzeżywoj,Kowalski,7189.10,2012-09-18,70001365117,ODDZ__022,Mlodszy sprzedawca,Polska,Bieszczady,CITY,35,1990-11-21,rj7crH3HT,M
+578,Błażej,Krawczyk,5735.40,2006-03-14,88369396269,ODDZ__034,Mlodszy sprzedawca,Polska,Mazury,CITY,51,1987-09-12,Lyprj4InW,M
+579,Bartosz,Krawczyk,9532.38,2016-08-19,93846089805,ODDZ__058,Mlodszy sprzedawca,Francja,Akwitania,CITY,4,1995-07-03,d6kdlWpwo,M
+580,Ninogniew,Kowalski,4947.77,2001-02-25,03022209055,ODDZ__02,Glowny sprzedawca,Polska,Tatry,CITY,42,1978-03-15,1yP5U2h54,M
+581,Rufus,Krawczyk,4693.84,2017-04-24,81272180638,ODDZ__088,Glowny sprzedawca,Polska,Tatry,CITY,38,1972-10-31,p2DvFIC5N,M
+582,Konradyn,Kowalski,5361.96,2013-04-12,93728576676,ODDZ__063,Mlodszy sprzedawca,Hiszpania,Madryt,CITY,57,1981-08-24,0PUYx37Yb,M
+583,Teobald,Kiepski,4702.20,2015-05-23,68754050356,ODDZ__042,Glowny sprzedawca,Hiszpania,Nawarra,CITY,36,1988-06-11,sBE5Rln08,M
+584,Job,Krawczyk,3004.98,2008-10-06,44975816353,ODDZ__033,Mlodszy sprzedawca,Hiszpania,Asturia,CITY,13,1995-12-09,yFTrje47F,M
+585,Jakobina,Jopek,4119.24,2005-03-01,91452615639,ODDZ__079,Glowny sprzedawca,Francja,Akwitania,CITY,38,1990-05-04,QYgJxh8Ow,K
+586,Benicjusz,Kiepski,3207.36,2014-07-31,41674698022,ODDZ__031,Sprzedawca,Francja,Burgundia,CITY,23,1993-05-19,MMuqHD7b0,M
+587,Serafina,Krawczyk,3846.83,2015-04-29,78142470658,ODDZ__094,Sprzedawca,Francja,Burgundia,CITY,58,1976-09-21,013kV3jI3,K
+588,Sylwiusz,Jopek,6653.82,2004-11-30,26863075171,ODDZ__066,Mlodszy sprzedawca,Hiszpania,Nawarra,CITY,44,1997-04-12,DgW6pKDm7,M
+589,Budziwoj,Kiepski,9237.86,2007-04-08,87106594933,ODDZ__075,Glowny sprzedawca,Francja,Burgundia,CITY,56,1977-05-14,fHKg7vGVq,M
+590,Zora,Krawczyk,2377.86,2008-03-15,83185699383,ODDZ__031,Glowny sprzedawca,Francja,Owernia,CITY,18,1986-02-04,7dGs4KvJF,K
+591,Racibor,Krawczyk,4345.75,2008-06-06,40810467592,ODDZ__084,Sprzedawca,Polska,Tatry,CITY,52,1971-01-01,MU5yi6wQg,M
+592,Dobrosława,Jopek,5682.33,2005-12-14,18915434812,ODDZ__060,Sprzedawca,Francja,Burgundia,CITY,13,1976-06-24,H7MjkWMj4,K
+593,Wieńczysław,Jopek,5106.81,2011-06-10,51139326423,ODDZ__068,Glowny sprzedawca,Francja,Akwitania,CITY,49,1970-10-30,pH5tSXPB4,M
+594,Lutobor,Jopek,5753.25,2001-04-16,41303001937,ODDZ__039,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,24,1970-09-03,wExs7g4mK,M
+595,Telesfor,Kowalski,2670.17,2009-10-14,91621978061,ODDZ__016,Mlodszy sprzedawca,Polska,Mazury,CITY,33,1996-02-06,dXYdRS5FE,M
+596,Aurelian,Jopek,9538.31,2000-07-23,89162773451,ODDZ__090,Glowny sprzedawca,Francja,Burgundia,CITY,55,1970-02-05,Of5bdwxdP,M
+597,Heliodor,Kiepski,4405.84,2007-12-21,58693674947,ODDZ__026,Mlodszy sprzedawca,Hiszpania,Murcja,CITY,17,1985-05-06,t4v2eIkd5,M
+598,Sulimierz,Jopek,7614.17,2007-11-03,36852692823,ODDZ__026,Mlodszy sprzedawca,Francja,Burgundia,CITY,17,1985-06-21,j6BRlBcKd,M
+599,Jędrzej,Kowalski,4640.86,2013-07-21,32246092133,ODDZ__091,Glowny sprzedawca,Hiszpania,Nawarra,CITY,5,1978-06-29,JCym5EwHX,M

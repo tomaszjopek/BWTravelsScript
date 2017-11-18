@@ -5,18 +5,21 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 import java.util.Random;
 
 public class GenerateFiles {
 
     private final int HOTEL_CSV_RECORDS = 1000;
     private final int HOTELS_COUNT = 100;
+    private final int SALESMEN_COUNT = 500;
 
 
     public static void main(String[] args) {
 
         GenerateFiles generateFiles = new GenerateFiles();
-        generateFiles.generateHotelsCsv();
+        //generateFiles.generateHotelsCsv();
+        generateFiles.generateSalesmenCsv();
 
     }
 
@@ -99,5 +102,54 @@ public class GenerateFiles {
 
         return hotels;
     }
+
+    public void generateSalesmenCsv() {
+        List<String> salesmen = new ArrayList<>();
+
+        Helper.initMaps();
+        Helper.getNames();
+        Helper.getSurnames();
+
+        StringBuilder str = new StringBuilder();
+        Random random = new Random();
+
+        String headerLine = "ID Sprzedawcy, Imie sprzedawcy, Nazwisko Sprzedawcy, Pensja, Data zatrudnienia, Pesel, Oddzial, Stanowisko, Kraj, Region, Miasto, Procent znizki, Data urodzenia, Numer identyfikacyjny, Plec";
+        salesmen.add(headerLine);
+        int id = 100;
+
+        for(int i = 0; i < SALESMEN_COUNT; i++) {
+            str.setLength(0);
+
+            String country = Helper.getCountry();
+            String region = Helper.getRegionForGivenCountry(country);
+            String city = Helper.getCityForGivenRegion(region);
+
+            str
+                    .append(id++).append(",")
+                    .append(Helper.getRandomName()).append(",")
+                    .append(Helper.getRandomSurname()).append(",")
+                    .append(String.format(Locale.ENGLISH, "%.2f", Helper.getWeight())).append(",")
+                    .append(Helper.getRandomDate("2000-01-01", "2017-08-31")).append(",")
+                    .append(Helper.getRandomPesel()).append(",")
+                    .append("ODDZ_").append("_0").append(random.nextInt(100)).append(",")
+                    .append(Helper.getSalesmanPosition()).append(",")
+                    .append(country).append(",")
+                    .append(region).append(",")
+                    .append(city).append(",")
+                    .append(random.nextInt(61)).append(",")
+                    .append(Helper.getRandomDate("1970-01-01", "1998-12-31")).append(",")
+                    .append(Helper.getUniqueIdNumber()).append(",")
+                    .append(Helper.getGender().replace("\"", ""));
+
+            salesmen.add(str.toString());
+        }
+
+        try {
+            Files.write(Paths.get("E:\\workspace\\databasescript\\src\\main\\resources\\results\\sprzedawcy.csv"), salesmen);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
 
 }

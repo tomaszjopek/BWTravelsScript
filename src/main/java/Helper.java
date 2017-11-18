@@ -11,6 +11,7 @@ public class Helper {
     private Logger logger = Logger.getLogger(Helper.class.getName());
 
     private static final String SERIAL_CLASS_VERSION = "HELPER.01";
+    private static final int IDENTIFIER_LENGTH = 9;
 
     private static String[] currencies = {"PLN", "EUR", "USD"};
     private static Random random = new Random();
@@ -19,6 +20,7 @@ public class Helper {
     private static List<String> hotelNames = Arrays.asList("Plaza", "Sheraton", "Mercurial");
     private static List<String> countries = Arrays.asList("Polska", "Hiszpania", "Francja");
     private static List<String> positions = Arrays.asList("Glowny opiekun", "Opiekun", "Przewodnik");
+    private static List<String> salesMenPositions = Arrays.asList("Glowny sprzedawca", "Sprzedawca", "Mlodszy sprzedawca");
     private static Map<String, List<String>> regions;
     private static Map<String, List<String>> cities;
     private static String currentGender;
@@ -72,7 +74,7 @@ public class Helper {
         String[] line = names.get(random.nextInt(names.size())).split(";");
         currentGender = line[2];
 
-        return line[0];
+        return line[0].replace("\"", "");
     }
 
     public static String getRandomSurname() {
@@ -150,5 +152,28 @@ public class Helper {
 
     public static String getRandomPosition() {
         return positions.get(random.nextInt(positions.size()));
+    }
+
+    public static String getRandomPesel() {
+        StringBuilder str = new StringBuilder();
+
+        for (int i = 0; i < 11; i++) {
+            str.append(random.nextInt(10));
+        }
+
+        return str.toString();
+    }
+
+    public static String getSalesmanPosition() {
+        return salesMenPositions.get(random.nextInt(salesMenPositions.size()));
+    }
+
+    public static String getUniqueIdNumber() {
+        return random.ints(48, 122)
+                .filter(i -> (i < 57 || i > 65) && (i < 90 || i > 97))
+                .mapToObj(i -> (char) i)
+                .limit(IDENTIFIER_LENGTH)
+                .collect(StringBuilder::new, StringBuilder::append, StringBuilder::append)
+                .toString();
     }
 }
