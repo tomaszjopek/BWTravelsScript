@@ -1,0 +1,1001 @@
+ID, Nazwa hotelu, Imie wlasciciela, Nazwisko Wlasciciela, Data powstania, Liczba gwiazdek, Liczba personelu, Nazwisko opiekuna, Imie opiekuna, Data urodzenia opiekuna, Plec opiekuna, Oddzial, Stanowisko, Kraj, Region, Miasto, Pensja, Waluta, Data zatrudnienia
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Krawczyk,"Izyda",1978-11-19,"K",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Barcelona,CITY,8129.822992071004,EUR,2000-01-15
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Nowak,"Konstans",1977-05-04,"M",ODDZ_FRA_007,Opiekun,Francja,Akwitania,CITY,9734.042382801037,PLN,2002-02-04
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Kiepski,"Mścisław",1984-03-23,"M",ODDZ_POL_002,Przewodnik,Polska,Mazury,CITY,6643.529291949307,PLN,2004-07-16
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Jopek,"Budzisław",1975-11-19,"M",ODDZ_HIS_001,Przewodnik,Hiszpania,Asturia,CITY,7924.698641767072,EUR,2002-03-10
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Krawczyk,"Budzisław",1978-09-25,"M",ODDZ_FRA_004,Przewodnik,Francja,Owernia,CITY,3302.649099134039,EUR,2007-02-20
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Jopek,"Hildegarda",1982-01-03,"K",ODDZ_HIS_006,Opiekun,Hiszpania,Asturia,CITY,2976.611750891684,USD,2007-01-03
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Krawczyk,"Witosław",1982-07-26,"M",ODDZ_FRA_004,Przewodnik,Francja,Owernia,CITY,9937.144322243588,EUR,2016-11-11
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Kiepski,"Klaudyna",1971-11-26,"K",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Kantabria,CITY,6646.281665822366,EUR,2012-07-27
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Jopek,"Dagmara",1994-10-17,"K",ODDZ_POL_004,Glowny opiekun,Polska,Tatry,CITY,8360.815308828387,USD,2014-02-12
+10060,Plaza,"Racibor",Kiepski,2014-04-05,5,36,Kiepski,"Paulina",1987-01-16,"K",ODDZ_FRA_006,Opiekun,Francja,Burgundia,CITY,4694.004669495438,USD,2014-02-25
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Krawczyk,"Jaśmina",1978-08-12,"K",ODDZ_FRA_003,Przewodnik,Francja,Owernia,CITY,9559.797418016473,EUR,2004-06-06
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Jopek,"Sofia",1988-03-07,"K",ODDZ_FRA_007,Glowny opiekun,Francja,Owernia,CITY,2179.5235985695945,USD,2010-10-08
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Kiepski,"Stefan",1977-05-28,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,6116.828870034527,EUR,2015-11-04
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Nowak,"Kewin",1974-01-22,"M",ODDZ_HIS_007,Opiekun,Hiszpania,Kantabria,CITY,3115.8806286520094,PLN,2013-03-08
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Nowak,"Waldemar",1982-11-18,"M",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Kantabria,CITY,8716.85871481018,PLN,2015-03-03
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Kowalski,"Augustyn",1993-09-27,"M",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,3662.9452746624374,USD,2001-10-02
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Ścibora",1971-05-18,"K",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,2727.6933544308067,EUR,2008-03-04
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Kowalski,"Augusta",1991-11-03,"K",ODDZ_POL_002,Opiekun,Polska,Pomorze,CITY,9636.518209139183,EUR,2001-09-20
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Kowalski,"Telimena",1996-06-09,"K",ODDZ_POL_006,Opiekun,Polska,Mazury,CITY,2299.564158906227,EUR,2009-04-25
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Kiepski,"Unimir",1979-10-04,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,5883.121270953428,USD,2012-02-02
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Jopek,"Metody",1993-01-11,"M",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,8275.537528110708,USD,2005-07-31
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Nowak,"Gaudencja",1979-10-09,"K",ODDZ_POL_009,Glowny opiekun,Polska,Pomorze,CITY,9898.967281145562,PLN,2017-06-13
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kiepski,"Selma",1996-09-27,"K",ODDZ_HIS_007,Opiekun,Hiszpania,Barcelona,CITY,5379.568497131746,EUR,2009-11-11
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Kowalski,"Augusta",1986-06-30,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Burgundia,CITY,1704.1548199383722,USD,2005-02-06
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Krawczyk,"Sędziwoj",1979-11-23,"M",ODDZ_HIS_004,Przewodnik,Hiszpania,Nawarra,CITY,2054.4801445344774,EUR,2015-11-29
+10061,Plaza,"Renat",Jopek,1992-03-13,1,138,Kiepski,"Władysława",1988-04-04,"K",ODDZ_POL_008,Glowny opiekun,Polska,Bieszczady,CITY,7237.8561603886765,PLN,2001-03-05
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Krawczyk,"Malwin",1974-05-18,"M",ODDZ_POL_004,Przewodnik,Polska,Mazury,CITY,8945.544532269803,USD,2004-09-13
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Nowak,"Otto",1972-05-04,"M",ODDZ_POL_001,Przewodnik,Polska,Tatry,CITY,6096.228359797713,PLN,2008-05-14
+10015,Plaza,"Miromir",Krawczyk,1993-04-02,1,192,Krawczyk,"Trzebisława",1987-02-07,"K",ODDZ_POL_009,Opiekun,Polska,Mazury,CITY,5150.771378736205,EUR,2008-11-01
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Nowak,"Wendelin",1988-11-21,"M",ODDZ_HIS_005,Opiekun,Hiszpania,Asturia,CITY,4411.853955606266,USD,2014-09-24
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Kiepski,"Żytomir",1992-06-21,"M",ODDZ_HIS_003,Przewodnik,Hiszpania,Murcja,CITY,8825.527524969104,USD,2000-01-05
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Nowak,"Innocenty",1994-05-09,"M",ODDZ_POL_001,Glowny opiekun,Polska,Mazury,CITY,3942.000018415946,EUR,2009-01-09
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Jopek,"Natanael",1987-03-23,"M",ODDZ_HIS_005,Przewodnik,Hiszpania,Nawarra,CITY,4905.276183401838,USD,2013-07-31
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Kowalski,"Juliusz",1997-10-24,"M",ODDZ_POL_006,Glowny opiekun,Polska,Pomorze,CITY,2639.5343782287837,PLN,2003-01-13
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Jopek,"Bartolomea",1970-11-14,"K",ODDZ_HIS_001,Przewodnik,Hiszpania,Madryt,CITY,7453.676485543702,USD,2001-12-05
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Krawczyk,"Lechosława",1989-08-20,"K",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Asturia,CITY,9094.418611738405,PLN,2013-11-24
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Nowak,"Genowefa",1973-06-09,"K",ODDZ_FRA_004,Przewodnik,Francja,Akwitania,CITY,5876.661075332809,PLN,2017-03-24
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Krawczyk,"Manuela",1991-08-02,"K",ODDZ_POL_001,Glowny opiekun,Polska,Mazury,CITY,2445.615152601841,USD,2009-11-29
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Krawczyk,"Suliwoj",1987-10-20,"M",ODDZ_POL_009,Przewodnik,Polska,Mazury,CITY,7114.613160021164,USD,2008-01-18
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Kowalski,"Strzeżysława",1980-09-28,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Kantabria,CITY,7022.054339698681,EUR,2013-12-04
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Nowak,"Przybywoj",1980-11-15,"M",ODDZ_POL_003,Przewodnik,Polska,Pomorze,CITY,3801.513679592201,EUR,2007-12-15
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Kiepski,"Ryszarda",1974-07-16,"K",ODDZ_POL_002,Opiekun,Polska,Mazury,CITY,4103.985676331929,EUR,2005-10-11
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Krawczyk,"Rościgniew",1976-01-03,"M",ODDZ_POL_005,Opiekun,Polska,Mazury,CITY,8347.726439208156,PLN,2009-01-26
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Kiepski,"Irma",1995-05-25,"K",ODDZ_POL_002,Glowny opiekun,Polska,Mazury,CITY,5563.775293553218,USD,2001-08-11
+10002,Plaza,"Marita",Kowalski,1937-02-16,3,76,Jopek,"Mariusz",1990-12-22,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Akwitania,CITY,9517.123657259475,USD,2016-05-10
+10027,Mercurial,"Emanuela",Krawczyk,1993-12-31,3,221,Kiepski,"Albaniusz",1985-11-26,"M",ODDZ_POL_005,Opiekun,Polska,Mazury,CITY,3924.4152967687455,USD,2016-11-29
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Jopek,"Luiza",1975-03-20,"K",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,5554.967112344194,EUR,2012-12-19
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Jopek,"Sylwin",1975-03-18,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Akwitania,CITY,5092.234099348592,EUR,2001-11-20
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Kiepski,"Iwa",1992-07-16,"K",ODDZ_POL_007,Przewodnik,Polska,Pomorze,CITY,9931.49974685297,USD,2003-05-13
+10066,Sheraton,"Kazimiera",Kowalski,1974-10-16,1,152,Krawczyk,"Glikeria",1989-03-08,"K",ODDZ_FRA_006,Opiekun,Francja,Owernia,CITY,4274.494644945825,PLN,2002-09-23
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Kiepski,"Sawa",1989-10-07,"K",ODDZ_POL_003,Opiekun,Polska,Pomorze,CITY,4871.090622124611,PLN,2012-12-08
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Kiepski,"Dobrochna",1974-11-10,"K",ODDZ_POL_004,Przewodnik,Polska,Bieszczady,CITY,4418.591494852819,PLN,2015-01-10
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Krawczyk,"Sozant",1994-09-03,"M",ODDZ_POL_009,Glowny opiekun,Polska,Mazury,CITY,8786.594324883768,PLN,2016-12-20
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Kowalski,"Luiza",1995-04-02,"K",ODDZ_POL_002,Glowny opiekun,Polska,Pomorze,CITY,7888.742597500052,EUR,2006-09-11
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Jopek,"Radzisław",1977-05-12,"M",ODDZ_FRA_005,Przewodnik,Francja,Owernia,CITY,6451.876521963001,EUR,2001-09-29
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Jopek,"Monika",1975-03-19,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,7967.775613787246,PLN,2000-12-14
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Kiepski,"Bean",1989-10-02,"M",ODDZ_HIS_001,Glowny opiekun,Hiszpania,Barcelona,CITY,8084.274071027238,PLN,2005-01-16
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Kiepski,"Kamilla",1981-08-17,"K",ODDZ_POL_007,Glowny opiekun,Polska,Mazury,CITY,7587.644510189871,USD,2011-03-11
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Kiepski,"Lutomir",1979-08-23,"M",ODDZ_HIS_003,Przewodnik,Hiszpania,Kantabria,CITY,2848.491084716626,USD,2017-03-01
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Nowak,"Rajnold",1972-08-22,"M",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,3378.4051362775917,USD,2014-06-19
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Nowak,"Rozalia",1971-03-28,"K",ODDZ_HIS_009,Przewodnik,Hiszpania,Barcelona,CITY,5042.841823110844,EUR,2012-10-27
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Kiepski,"Ludomiła",1974-12-31,"K",ODDZ_HIS_006,Przewodnik,Hiszpania,Nawarra,CITY,3499.287902566016,EUR,2001-03-05
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Kiepski,"Cezaryna",1988-04-05,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,4859.3063653581585,PLN,2004-04-24
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Nowak,"Bożebor",1977-06-03,"M",ODDZ_POL_004,Przewodnik,Polska,Tatry,CITY,4905.601163979804,USD,2009-02-17
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Nowak,"Namysław",1983-07-02,"M",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Barcelona,CITY,9793.499769062355,USD,2006-04-04
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Nowak,"Alojzy",1998-06-22,"M",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,7521.831054890086,EUR,2005-12-22
+10037,Sheraton,"Cieszymir",Nowak,1934-10-01,2,147,Kiepski,"Daniel",1977-11-05,"M",ODDZ_FRA_006,Opiekun,Francja,Burgundia,CITY,4987.524242903291,USD,2001-12-21
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Krawczyk,"Jerosława",1981-03-29,"K",ODDZ_POL_003,Przewodnik,Polska,Pomorze,CITY,3787.447076533281,PLN,2002-07-29
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Jopek,"Eustachiusz",1991-12-16,"M",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,9523.964453351991,USD,2005-03-19
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Kowalski,"Eudoksja",1976-01-27,"K",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,9459.89071560264,PLN,2016-05-11
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Kowalski,"Kalina",1978-03-03,"K",ODDZ_HIS_009,Opiekun,Hiszpania,Asturia,CITY,8205.815219257769,PLN,2016-01-25
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Krawczyk,"Pius",1992-06-28,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Burgundia,CITY,9118.700719167073,PLN,2005-04-14
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Kowalski,"Wyszesław",1998-10-16,"M",ODDZ_POL_007,Przewodnik,Polska,Bieszczady,CITY,4963.3950554539415,EUR,2010-03-11
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Jopek,"Teobald",1985-06-16,"M",ODDZ_POL_005,Opiekun,Polska,Pomorze,CITY,4292.040149266472,EUR,2010-11-09
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Krawczyk,"Sydonia",1987-05-18,"K",ODDZ_POL_002,Opiekun,Polska,Tatry,CITY,2447.1052835303312,EUR,2009-09-28
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Jopek,"Piotr",1986-12-14,"M",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Kantabria,CITY,3838.269844212344,PLN,2015-11-14
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Kowalski,"Budzisz",1988-12-24,"M",ODDZ_HIS_006,Opiekun,Hiszpania,Kantabria,CITY,6114.118244253613,EUR,2005-09-24
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Krawczyk,"Stojgniew",1971-12-26,"M",ODDZ_POL_002,Opiekun,Polska,Pomorze,CITY,9557.303615949899,USD,2000-10-11
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Krawczyk,"Ozanna",1986-09-21,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Madryt,CITY,7477.715134657986,USD,2009-09-11
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Jopek,"Adaukt",1992-11-13,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Nawarra,CITY,7458.720108202927,USD,2004-12-31
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Kiepski,"Joel",1989-10-05,"M",ODDZ_FRA_002,Przewodnik,Francja,Owernia,CITY,6898.306133101895,USD,2017-07-25
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Nowak,"Mścibor",1996-05-05,"M",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,9205.865719266643,PLN,2012-10-18
+10004,Sheraton,"Patrycja",Jopek,1952-02-04,3,216,Kiepski,"Borysław",1978-08-26,"M",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Madryt,CITY,6241.526707089277,USD,2010-01-01
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Krawczyk,"Namysław",1993-09-10,"M",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,3436.730817411281,EUR,2013-12-18
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Jopek,"Lewin",1978-08-06,"M",ODDZ_POL_004,Glowny opiekun,Polska,Pomorze,CITY,3187.317941907292,USD,2016-05-06
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Nowak,"Arleta",1977-12-19,"K",ODDZ_POL_001,Opiekun,Polska,Mazury,CITY,6693.093060335417,USD,2001-10-25
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Kiepski,"Jozafat",1977-12-07,"M",ODDZ_POL_007,Przewodnik,Polska,Mazury,CITY,9869.65579514945,USD,2008-11-22
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Nowak,"Godzisław",1994-02-21,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Asturia,CITY,7859.560537010779,PLN,2015-06-17
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Kowalski,"Pamela",1989-07-02,"K",ODDZ_POL_009,Glowny opiekun,Polska,Bieszczady,CITY,2956.433784825135,USD,2012-11-13
+10097,Plaza,"Julita",Kiepski,1954-11-08,5,218,Kowalski,"Klementyna",1998-08-25,"K",ODDZ_POL_002,Przewodnik,Polska,Pomorze,CITY,3101.75184397281,EUR,2005-10-08
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Kowalski,"Jan Chryzostom",1997-07-20,"M",ODDZ_POL_009,Opiekun,Polska,Pomorze,CITY,8150.516630053374,USD,2012-02-09
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Jopek,"Bernadeta",1982-12-27,"K",ODDZ_POL_006,Przewodnik,Polska,Bieszczady,CITY,8454.7710640845,USD,2014-02-07
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Krawczyk,"Batszeba",1989-03-24,"M",ODDZ_POL_009,Przewodnik,Polska,Tatry,CITY,2635.5835369039833,PLN,2003-11-06
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Kiepski,"Odo",1988-08-08,"M",ODDZ_HIS_009,Opiekun,Hiszpania,Barcelona,CITY,4162.787312454776,PLN,2016-11-08
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Kiepski,"Stefania",1977-01-11,"K",ODDZ_POL_003,Opiekun,Polska,Tatry,CITY,7570.724614311689,EUR,2003-10-11
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Kowalski,"Ilza",1971-07-03,"K",ODDZ_POL_002,Przewodnik,Polska,Tatry,CITY,8026.829929927293,PLN,2008-07-07
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Kiepski,"Minodora",1983-04-29,"K",ODDZ_FRA_007,Glowny opiekun,Francja,Akwitania,CITY,4321.098949428473,EUR,2002-01-15
+10047,Sheraton,"Zelmira",Kowalski,1949-12-07,1,175,Krawczyk,"Alma",1991-10-22,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Barcelona,CITY,6204.930454294677,PLN,2008-03-12
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Jopek,"Czechoń",1996-01-21,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,1605.9648017370057,PLN,2010-03-25
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Nowak,"Domicjan",1977-07-07,"M",ODDZ_FRA_007,Przewodnik,Francja,Owernia,CITY,4303.936100659428,PLN,2007-05-01
+10069,Mercurial,"Irena",Krawczyk,1933-12-17,4,158,Krawczyk,"Gracjana",1979-03-10,"K",ODDZ_HIS_006,Przewodnik,Hiszpania,Asturia,CITY,7582.13273704854,USD,2010-06-20
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Kowalski,"Reinhold",1990-08-13,"M",ODDZ_POL_007,Opiekun,Polska,Tatry,CITY,8253.831972414322,PLN,2009-09-22
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Nowak,"Sylwia",1974-10-06,"K",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,9284.794535531006,EUR,2014-11-25
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Krawczyk,"Alan",1986-11-14,"M",ODDZ_POL_004,Przewodnik,Polska,Tatry,CITY,3398.514636312374,USD,2012-08-02
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Jopek,"Władysława",1987-09-20,"K",ODDZ_HIS_009,Przewodnik,Hiszpania,Madryt,CITY,6398.892605948224,USD,2013-10-01
+10002,Plaza,"Marita",Kowalski,1937-02-16,3,76,Kowalski,"Patryk",1981-03-15,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Akwitania,CITY,8656.173930011482,EUR,2004-02-26
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Kiepski,"Teofila",1979-08-28,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Burgundia,CITY,2104.8021494575373,USD,2014-12-04
+10057,Sheraton,"Idzi",Nowak,1983-04-21,1,130,Nowak,"Innocenty",1986-03-25,"M",ODDZ_POL_002,Przewodnik,Polska,Tatry,CITY,6794.562427989,PLN,2003-08-25
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Jopek,"Wincenty",1986-09-21,"M",ODDZ_POL_005,Glowny opiekun,Polska,Pomorze,CITY,7139.2944283922925,USD,2009-06-13
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Kiepski,"Imisława",1986-10-29,"K",ODDZ_POL_002,Opiekun,Polska,Pomorze,CITY,3749.795125505044,EUR,2008-01-05
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Kiepski,"Kasper",1997-02-01,"M",ODDZ_HIS_007,Opiekun,Hiszpania,Barcelona,CITY,4083.9584255746686,USD,2016-05-12
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Jopek,"Gaudenty",1970-11-30,"M",ODDZ_POL_006,Opiekun,Polska,Pomorze,CITY,8149.612041215521,PLN,2000-02-17
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Jopek,"Ksawery",1997-06-22,"M",ODDZ_POL_002,Przewodnik,Polska,Bieszczady,CITY,5135.608122827347,USD,2009-05-05
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Jopek,"Urban",1976-05-21,"M",ODDZ_POL_001,Glowny opiekun,Polska,Mazury,CITY,2562.2353036605227,PLN,2007-09-11
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Krawczyk,"Oda",1983-07-19,"K",ODDZ_POL_007,Opiekun,Polska,Mazury,CITY,4081.41033624265,USD,2004-08-29
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Jopek,"Dionizy",1977-01-15,"M",ODDZ_FRA_005,Przewodnik,Francja,Burgundia,CITY,8200.577704959152,EUR,2008-05-19
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Nowak,"Radomysł",1997-08-06,"M",ODDZ_HIS_001,Opiekun,Hiszpania,Kantabria,CITY,4893.462499968939,EUR,2002-04-09
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Krawczyk,"Wojsława",1971-09-12,"K",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,4587.3194820977005,USD,2002-08-21
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Kowalski,"Tolimir",1984-09-02,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,2557.826400641517,USD,2005-04-09
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Kiepski,"Radomysł",1997-02-09,"M",ODDZ_POL_009,Przewodnik,Polska,Pomorze,CITY,5046.374147017055,PLN,2008-01-22
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Krawczyk,"Godzisława",1986-09-05,"K",ODDZ_HIS_001,Opiekun,Hiszpania,Nawarra,CITY,7130.165042802597,USD,2002-03-21
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Kiepski,"Jerosława",1984-05-15,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,2549.7197239166408,EUR,2006-06-15
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kowalski,"Sara",1972-03-23,"K",ODDZ_HIS_005,Opiekun,Hiszpania,Nawarra,CITY,7854.27416694636,EUR,2016-05-05
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Kiepski,"Sulirad",1990-05-05,"M",ODDZ_POL_004,Opiekun,Polska,Tatry,CITY,9118.430122268102,USD,2011-07-20
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Jopek,"Natan",1978-07-14,"M",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,7845.802958117971,PLN,2000-10-13
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Krawczyk,"Lubomiła",1987-05-27,"K",ODDZ_POL_001,Opiekun,Polska,Bieszczady,CITY,3978.353575693524,USD,2006-07-28
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Krawczyk,"Domosława",1971-12-28,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,3571.009126337536,USD,2000-08-28
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Kiepski,"Marcelin",1995-07-08,"M",ODDZ_POL_002,Opiekun,Polska,Tatry,CITY,8331.64326289218,EUR,2008-09-05
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Krawczyk,"Maksym",1977-03-06,"M",ODDZ_HIS_007,Opiekun,Hiszpania,Asturia,CITY,1503.8551904920905,USD,2014-09-28
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Krawczyk,"Borzysława",1975-12-15,"K",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Nawarra,CITY,7417.624452892862,EUR,2017-03-30
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Krawczyk,"Ismena",1995-03-17,"K",ODDZ_FRA_001,Glowny opiekun,Francja,Burgundia,CITY,3201.031940300544,PLN,2012-05-23
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Kowalski,"Machabeusz",1992-02-08,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,6984.071177418446,PLN,2004-01-17
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Kowalski,"Ganda",1974-04-27,"K",ODDZ_POL_009,Przewodnik,Polska,Mazury,CITY,3581.114823024576,EUR,2002-09-01
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Kiepski,"Spirydion",1984-12-06,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Kantabria,CITY,2480.7211393671782,PLN,2011-10-10
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Kiepski,"Kwiatosława",1998-10-14,"K",ODDZ_POL_006,Glowny opiekun,Polska,Mazury,CITY,8430.490729344114,PLN,2010-10-13
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Nowak,"Amelia",1971-04-29,"K",ODDZ_HIS_005,Przewodnik,Hiszpania,Asturia,CITY,4854.006105058605,EUR,2003-06-30
+10002,Plaza,"Marita",Kowalski,1937-02-16,3,76,Kowalski,"Justyn",1983-12-10,"M",ODDZ_FRA_008,Opiekun,Francja,Akwitania,CITY,7739.6109564584285,USD,2013-01-12
+10097,Plaza,"Julita",Kiepski,1954-11-08,5,218,Jopek,"Beda",1992-09-24,"K",ODDZ_POL_006,Glowny opiekun,Polska,Pomorze,CITY,2580.223517463038,PLN,2011-06-04
+10072,Mercurial,"Remigiusz",Krawczyk,1949-01-04,3,72,Jopek,"Alojza",1971-04-13,"K",ODDZ_HIS_004,Opiekun,Hiszpania,Murcja,CITY,6202.52483769265,EUR,2010-03-11
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Jopek,"Fides",1993-09-08,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,8975.452075913792,PLN,2014-12-08
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Kowalski,"Boguchwał",1990-01-14,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Kantabria,CITY,6736.055753631423,PLN,2009-08-17
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Nowak,"Lubomiła",1975-01-05,"K",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,2510.3940412713196,PLN,2007-06-03
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Kiepski,"Kunegunda",1970-01-30,"K",ODDZ_POL_002,Opiekun,Polska,Bieszczady,CITY,2346.694541109059,USD,2016-10-26
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Kiepski,"Lilian",1970-09-24,"M",ODDZ_HIS_005,Przewodnik,Hiszpania,Barcelona,CITY,6598.072194874953,USD,2016-02-03
+10061,Plaza,"Renat",Jopek,1992-03-13,1,138,Krawczyk,"Telimena",1993-07-07,"K",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,7033.005393580248,PLN,2014-03-29
+10096,Mercurial,"Zenon",Kowalski,1983-10-19,5,183,Nowak,"Miron",1993-01-07,"M",ODDZ_POL_002,Glowny opiekun,Polska,Pomorze,CITY,5058.802188997719,PLN,2013-08-17
+10085,Sheraton,"Małgorzata",Jopek,1970-02-16,4,113,Krawczyk,"Karena",1973-08-29,"K",ODDZ_HIS_007,Opiekun,Hiszpania,Madryt,CITY,6905.82116930446,USD,2004-01-28
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Nowak,"Arnold",1973-09-13,"M",ODDZ_POL_009,Glowny opiekun,Polska,Tatry,CITY,7956.30488124122,USD,2006-05-27
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Kowalski,"Eufemia",1984-03-03,"K",ODDZ_POL_001,Glowny opiekun,Polska,Mazury,CITY,5278.321767430398,USD,2002-06-29
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Krawczyk,"Rupert",1973-11-16,"M",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,5908.377209274012,USD,2009-10-06
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kiepski,"WrÃ³cimir",1991-12-10,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Barcelona,CITY,6957.822771071395,PLN,2013-03-16
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Kiepski,"Stojsław",1983-07-08,"M",ODDZ_FRA_007,Przewodnik,Francja,Burgundia,CITY,2852.421800083246,EUR,2015-12-17
+10037,Sheraton,"Cieszymir",Nowak,1934-10-01,2,147,Kowalski,"DobrowÃ³j",1973-04-18,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Burgundia,CITY,2613.0965746179318,USD,2012-03-20
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Jopek,"Ewdokia",1985-05-19,"K",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,5137.700352318881,USD,2006-04-08
+10066,Sheraton,"Kazimiera",Kowalski,1974-10-16,1,152,Kiepski,"Lena",1997-03-26,"K",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,5415.880378558574,PLN,2007-07-23
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Nowak,"Herkules",1975-05-25,"M",ODDZ_HIS_007,Przewodnik,Hiszpania,Asturia,CITY,4812.605390425257,PLN,2010-03-19
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Nowak,"Dobromiła",1986-04-27,"K",ODDZ_POL_003,Opiekun,Polska,Bieszczady,CITY,3793.2645340117238,PLN,2011-07-29
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Jopek,"Beatryks",1980-05-04,"M",ODDZ_HIS_001,Opiekun,Hiszpania,Asturia,CITY,4021.7436256846395,EUR,2001-08-30
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Kowalski,"Wszegniew",1994-04-27,"M",ODDZ_POL_005,Glowny opiekun,Polska,Pomorze,CITY,6364.3705881482,USD,2008-05-16
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Nowak,"Kaliksta",1997-10-24,"K",ODDZ_HIS_005,Przewodnik,Hiszpania,Asturia,CITY,9688.586148049206,PLN,2014-03-21
+10037,Sheraton,"Cieszymir",Nowak,1934-10-01,2,147,Kiepski,"Żytomir",1998-12-09,"M",ODDZ_FRA_007,Przewodnik,Francja,Burgundia,CITY,9991.324730086748,PLN,2002-08-20
+10093,Sheraton,"Efrem",Krawczyk,1955-02-08,4,208,Nowak,"Robert",1992-04-21,"M",ODDZ_POL_009,Glowny opiekun,Polska,Tatry,CITY,9761.91524110045,USD,2015-11-08
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Nowak,"Dorian",1974-09-20,"M",ODDZ_POL_009,Glowny opiekun,Polska,Bieszczady,CITY,6429.78895563356,USD,2010-08-20
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Kowalski,"Modesta",1994-06-12,"K",ODDZ_POL_006,Przewodnik,Polska,Pomorze,CITY,8653.616590750255,PLN,2004-11-17
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Kowalski,"Wawrzyn",1980-09-15,"M",ODDZ_HIS_009,Opiekun,Hiszpania,Nawarra,CITY,8030.086093718183,EUR,2017-05-30
+10065,Sheraton,"Odo",Jopek,1949-06-12,3,228,Krawczyk,"Sądzimir",1988-05-13,"M",ODDZ_HIS_007,Opiekun,Hiszpania,Madryt,CITY,7906.004520599147,EUR,2016-03-02
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Nowak,"Wirgiliusz",1970-07-07,"M",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,9130.831140336953,PLN,2012-05-19
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Krawczyk,"Olech",1971-06-16,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Barcelona,CITY,3004.3206084645863,EUR,2008-10-13
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Nowak,"Bogumiła",1976-04-23,"K",ODDZ_HIS_007,Przewodnik,Hiszpania,Barcelona,CITY,9647.762548752235,USD,2003-01-07
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Krawczyk,"Izydor",1998-02-03,"M",ODDZ_POL_008,Opiekun,Polska,Tatry,CITY,9800.443760254944,USD,2013-01-01
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Kowalski,"Anatolia",1971-01-31,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Akwitania,CITY,4284.954698642627,EUR,2003-05-03
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Krawczyk,"Albina",1977-06-21,"K",ODDZ_FRA_002,Opiekun,Francja,Burgundia,CITY,1727.6186450723508,USD,2007-02-12
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Jopek,"Mokij",1995-05-25,"M",ODDZ_FRA_003,Przewodnik,Francja,Owernia,CITY,9387.16227930742,EUR,2000-09-29
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Kiepski,"Suliwoj",1995-05-27,"M",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Asturia,CITY,2579.576457920706,PLN,2012-07-28
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kiepski,"Faustyn",1991-01-06,"M",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Nawarra,CITY,2886.067789885149,USD,2000-04-10
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Kiepski,"Larysa",1998-09-27,"K",ODDZ_POL_002,Opiekun,Polska,Tatry,CITY,9689.322477213116,PLN,2003-11-11
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Jopek,"Matron",1980-09-11,"M",ODDZ_POL_003,Opiekun,Polska,Pomorze,CITY,7734.08868636486,PLN,2012-03-10
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Krawczyk,"Kilian",1987-06-04,"M",ODDZ_HIS_002,Przewodnik,Hiszpania,Barcelona,CITY,2282.9007734071492,PLN,2000-10-16
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Jopek,"Chociebor",1998-09-27,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,3268.870063747012,USD,2001-04-04
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Kiepski,"Albin",1998-10-31,"M",ODDZ_POL_007,Przewodnik,Polska,Bieszczady,CITY,7307.867854709191,PLN,2000-05-15
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Nowak,"Demetriusz",1986-07-14,"M",ODDZ_FRA_001,Glowny opiekun,Francja,Burgundia,CITY,9763.999008664561,USD,2015-01-29
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Krawczyk,"Enema",1998-07-21,"K",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Nawarra,CITY,9126.447516921964,EUR,2011-03-02
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Jopek,"Domawit",1991-01-21,"M",ODDZ_FRA_005,Przewodnik,Francja,Owernia,CITY,4617.639566904952,PLN,2002-08-28
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Kiepski,"Męcimir",1970-04-15,"M",ODDZ_HIS_005,Opiekun,Hiszpania,Kantabria,CITY,4597.505675858258,EUR,2010-03-07
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Nowak,"Zenobiusz",1988-05-15,"M",ODDZ_FRA_007,Przewodnik,Francja,Owernia,CITY,4422.433532679107,USD,2015-04-10
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Kowalski,"Rodryk",1996-01-27,"M",ODDZ_POL_006,Glowny opiekun,Polska,Tatry,CITY,7870.409579215152,PLN,2014-02-11
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Krawczyk,"Materna",1989-12-15,"K",ODDZ_HIS_009,Przewodnik,Hiszpania,Barcelona,CITY,4961.240588719125,PLN,2012-08-21
+10093,Sheraton,"Efrem",Krawczyk,1955-02-08,4,208,Kowalski,"Oleg",1994-04-18,"M",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,9825.388573127104,EUR,2014-10-12
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Krawczyk,"Larysa",1990-09-10,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,8123.676447775026,PLN,2000-08-15
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Kiepski,"Sądomir",1997-07-11,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Asturia,CITY,2948.130164987917,PLN,2010-05-20
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Krawczyk,"Świętosława",1981-07-01,"K",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,6023.50016076146,EUR,2012-11-18
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Krawczyk,"Strzeżysław",1992-03-18,"M",ODDZ_HIS_007,Przewodnik,Hiszpania,Nawarra,CITY,5365.832146164308,USD,2003-10-21
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Jopek,"Pantaleon",1990-09-03,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Murcja,CITY,8144.575892621193,EUR,2017-02-12
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Kiepski,"Bogumił",1975-07-17,"M",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Kantabria,CITY,4895.38082046751,USD,2014-10-21
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Kowalski,"Sylwiusz",1988-09-30,"M",ODDZ_POL_008,Opiekun,Polska,Bieszczady,CITY,6039.667068254099,EUR,2006-09-22
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Jopek,"Modesta",1979-01-03,"K",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Barcelona,CITY,7032.101740863684,EUR,2015-12-23
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Kowalski,"Błażej",1977-11-10,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,1895.3223565435176,EUR,2009-06-17
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Kiepski,"Miłosława",1972-09-05,"K",ODDZ_POL_006,Przewodnik,Polska,Mazury,CITY,8779.925385991879,PLN,2010-11-05
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Nowak,"Ludomił",1973-05-26,"M",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Barcelona,CITY,8504.244152545489,USD,2001-01-27
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Kiepski,"Sewerian",1992-02-22,"M",ODDZ_FRA_009,Opiekun,Francja,Burgundia,CITY,2884.0168931751887,PLN,2014-04-01
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Jopek,"Kirył",1990-10-14,"M",ODDZ_HIS_001,Opiekun,Hiszpania,Barcelona,CITY,8909.837437715316,USD,2013-02-13
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Jopek,"Izydor",1970-09-11,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,8481.24179385824,EUR,2004-07-26
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Kowalski,"Ditta",1998-04-29,"K",ODDZ_POL_006,Przewodnik,Polska,Bieszczady,CITY,9822.745176718026,EUR,2016-06-08
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Kowalski,"Herminia",1988-03-20,"K",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,4007.804465091088,USD,2006-02-25
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Jopek,"Feliksa",1995-08-05,"K",ODDZ_HIS_009,Przewodnik,Hiszpania,Barcelona,CITY,6006.524542405347,PLN,2011-03-03
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Kiepski,"Ariadna",1989-08-07,"K",ODDZ_POL_008,Opiekun,Polska,Pomorze,CITY,2158.242079026022,USD,2006-12-27
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Jopek,"Maksym",1976-03-14,"M",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,8120.098484905408,EUR,2010-01-02
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Jopek,"Roderyk",1975-02-10,"M",ODDZ_FRA_001,Przewodnik,Francja,Burgundia,CITY,4577.595817404084,USD,2002-05-22
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Kowalski,"Bartolomea",1970-06-04,"K",ODDZ_HIS_007,Przewodnik,Hiszpania,Kantabria,CITY,4055.8023199038266,PLN,2004-07-21
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Kiepski,"Anastazja",1985-06-30,"K",ODDZ_FRA_001,Przewodnik,Francja,Burgundia,CITY,7758.501010479189,EUR,2006-12-31
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Krawczyk,"Klaudyna",1996-06-11,"K",ODDZ_POL_005,Opiekun,Polska,Pomorze,CITY,3415.681285898248,USD,2011-08-02
+10046,Sheraton,"Wiaczesław",Nowak,2003-08-31,2,84,Nowak,"Krystyn",1995-02-26,"M",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,9427.719295807328,PLN,2013-01-20
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Krawczyk,"Rafał",1974-01-18,"M",ODDZ_POL_003,Przewodnik,Polska,Tatry,CITY,8550.669243700924,PLN,2002-11-05
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Nowak,"Waldemar",1976-02-11,"M",ODDZ_POL_003,Przewodnik,Polska,Tatry,CITY,8452.16198086511,EUR,2004-04-10
+10029,Mercurial,"Konstantyn",Nowak,1955-03-13,2,197,Krawczyk,"Bernardeta",1985-03-04,"K",ODDZ_FRA_001,Glowny opiekun,Francja,Owernia,CITY,4274.182647618385,USD,2002-12-14
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Jopek,"Marina",1974-07-27,"K",ODDZ_POL_008,Przewodnik,Polska,Pomorze,CITY,2555.953259730981,USD,2017-02-08
+10037,Sheraton,"Cieszymir",Nowak,1934-10-01,2,147,Kiepski,"Bazyli",1974-08-09,"M",ODDZ_FRA_004,Przewodnik,Francja,Burgundia,CITY,9913.239153646851,USD,2004-09-12
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Kiepski,"Jan Gwalbert",1979-06-17,"M",ODDZ_POL_001,Glowny opiekun,Polska,Bieszczady,CITY,9785.744768760216,USD,2010-08-27
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Kiepski,"Bazyli",1993-04-23,"M",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,4566.491210119097,EUR,2011-08-25
+10037,Sheraton,"Cieszymir",Nowak,1934-10-01,2,147,Nowak,"Bronisława",1978-08-01,"K",ODDZ_FRA_006,Przewodnik,Francja,Burgundia,CITY,2827.3361129446794,EUR,2015-09-05
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Teofila",1972-05-12,"K",ODDZ_POL_002,Opiekun,Polska,Bieszczady,CITY,3492.8130812719746,EUR,2016-07-24
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Jopek,"Odon",1974-12-08,"M",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,5043.7650112098445,PLN,2012-03-06
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Jopek,"Jacław",1972-06-17,"M",ODDZ_FRA_002,Przewodnik,Francja,Owernia,CITY,8031.5366315613355,EUR,2003-11-03
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Kowalski,"Jan",1995-06-01,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Owernia,CITY,8543.037360547976,USD,2007-08-17
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Krawczyk,"Dobromił",1980-12-23,"M",ODDZ_POL_007,Opiekun,Polska,Bieszczady,CITY,4985.989658504899,PLN,2016-05-28
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Nowak,"Łucja",1980-04-27,"K",ODDZ_HIS_006,Przewodnik,Hiszpania,Kantabria,CITY,8134.3456849682625,EUR,2017-03-19
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Krawczyk,"Aisza",1980-04-03,"K",ODDZ_POL_002,Opiekun,Polska,Tatry,CITY,9298.679378377812,EUR,2003-05-10
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Kowalski,"Oskar",1986-01-16,"M",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,1596.5838090801687,EUR,2013-03-05
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Krawczyk,"Donald",1980-06-09,"M",ODDZ_POL_007,Opiekun,Polska,Pomorze,CITY,4268.297726553019,PLN,2005-10-20
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Jopek,"Jarema",1996-10-27,"K",ODDZ_POL_005,Glowny opiekun,Polska,Pomorze,CITY,4098.677878517827,EUR,2017-01-09
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Krawczyk,"Walter",1970-04-18,"M",ODDZ_POL_005,Przewodnik,Polska,Tatry,CITY,6516.426596904954,USD,2006-09-16
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Kowalski,"Świętochna",1986-06-10,"K",ODDZ_FRA_006,Opiekun,Francja,Burgundia,CITY,3264.258530299223,USD,2011-03-23
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Jopek,"Emanuel",1996-05-29,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,8012.7988465927265,USD,2017-07-26
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Nowak,"Neomiła",1991-03-11,"K",ODDZ_HIS_002,Opiekun,Hiszpania,Kantabria,CITY,8021.725351838516,PLN,2006-07-06
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Jopek,"Czesemir",1985-02-20,"M",ODDZ_POL_006,Przewodnik,Polska,Tatry,CITY,8154.432711537976,PLN,2007-04-23
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Kowalski,"Tamara",1994-08-27,"K",ODDZ_FRA_007,Przewodnik,Francja,Akwitania,CITY,2292.1646783385195,USD,2002-09-22
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Krawczyk,"Aneta",1989-11-17,"K",ODDZ_FRA_001,Glowny opiekun,Francja,Owernia,CITY,4843.0651635008835,EUR,2017-06-06
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Nowak,"Anatol",1994-11-19,"M",ODDZ_POL_001,Przewodnik,Polska,Bieszczady,CITY,4195.357987129983,USD,2009-09-29
+10066,Sheraton,"Kazimiera",Kowalski,1974-10-16,1,152,Nowak,"Amalia",1976-12-03,"K",ODDZ_FRA_007,Przewodnik,Francja,Owernia,CITY,4218.825018732778,PLN,2016-12-03
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Nowak,"RenÃ©",1986-08-06,"M",ODDZ_HIS_009,Opiekun,Hiszpania,Nawarra,CITY,1920.1076558878851,EUR,2003-10-14
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Kowalski,"Ksenia",1980-12-04,"K",ODDZ_HIS_001,Glowny opiekun,Hiszpania,Kantabria,CITY,3902.2639042764304,EUR,2005-02-24
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Krawczyk,"Aureli",1998-02-23,"M",ODDZ_POL_007,Glowny opiekun,Polska,Tatry,CITY,2017.850622583183,USD,2014-02-09
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Krawczyk,"Klaudyna",1994-09-10,"K",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,1780.2437664896638,USD,2002-12-13
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Kiepski,"Erast",1972-07-11,"M",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,2346.3651930120013,EUR,2002-07-06
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Kiepski,"Melania",1986-01-21,"K",ODDZ_POL_006,Przewodnik,Polska,Pomorze,CITY,7117.714268521482,PLN,2011-05-14
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Kiepski,"Pryska",1984-01-10,"K",ODDZ_POL_001,Glowny opiekun,Polska,Mazury,CITY,5761.565534128384,EUR,2000-04-08
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Nowak,"Leonida",1985-07-11,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,2600.7002335959514,PLN,2001-09-28
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Kiepski,"Niegosława",1998-04-02,"K",ODDZ_HIS_004,Przewodnik,Hiszpania,Murcja,CITY,7046.699408543283,PLN,2009-10-30
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Nowak,"Rena",1979-09-16,"K",ODDZ_POL_003,Przewodnik,Polska,Tatry,CITY,5427.908603410693,EUR,2010-08-26
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Kowalski,"Dzierżykraj",1992-02-14,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,4807.138775275085,EUR,2009-06-11
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Kowalski,"Achilles",1974-11-06,"M",ODDZ_HIS_004,Przewodnik,Hiszpania,Kantabria,CITY,6180.891294979634,EUR,2000-04-23
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Kowalski,"Bjorn",1980-11-03,"M",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,6836.767572949003,USD,2008-09-01
+10015,Plaza,"Miromir",Krawczyk,1993-04-02,1,192,Nowak,"Bogusąd",1980-06-09,"M",ODDZ_POL_005,Przewodnik,Polska,Mazury,CITY,3790.5704353294273,USD,2000-02-09
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Jopek,"Miron",1970-03-05,"M",ODDZ_FRA_002,Przewodnik,Francja,Akwitania,CITY,2057.9336127167076,PLN,2007-03-10
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Krawczyk,"Lew",1994-05-26,"M",ODDZ_HIS_009,Przewodnik,Hiszpania,Barcelona,CITY,2132.8744929886416,PLN,2007-04-14
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Kiepski,"Uniewit",1975-03-16,"M",ODDZ_FRA_002,Przewodnik,Francja,Owernia,CITY,3294.6517438696656,EUR,2007-07-31
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Jopek,"Margot",1990-01-31,"K",ODDZ_FRA_004,Przewodnik,Francja,Burgundia,CITY,9806.796519130938,PLN,2014-02-28
+10027,Mercurial,"Emanuela",Krawczyk,1993-12-31,3,221,Jopek,"Paschalis",1988-06-17,"M",ODDZ_POL_008,Glowny opiekun,Polska,Mazury,CITY,8085.1650921400815,EUR,2000-12-11
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Wolfgang",1993-11-11,"M",ODDZ_POL_007,Przewodnik,Polska,Bieszczady,CITY,3956.4628501557795,PLN,2004-08-06
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Jopek,"Godfryd",1989-05-31,"M",ODDZ_POL_002,Przewodnik,Polska,Bieszczady,CITY,7824.621833911659,EUR,2005-11-07
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Jopek,"Huberta",1975-10-30,"K",ODDZ_HIS_007,Przewodnik,Hiszpania,Nawarra,CITY,4236.429211713844,USD,2011-09-26
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Krawczyk,"Serwacy",1990-03-15,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,6962.65077592817,USD,2005-10-23
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Kowalski,"Arleta",1988-01-11,"K",ODDZ_HIS_009,Opiekun,Hiszpania,Madryt,CITY,9483.856174996861,EUR,2007-03-07
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Kiepski,"Domisława",1975-07-17,"K",ODDZ_FRA_005,Opiekun,Francja,Burgundia,CITY,9449.202422254475,PLN,2011-08-02
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Jopek,"Lew",1993-06-27,"M",ODDZ_POL_002,Opiekun,Polska,Bieszczady,CITY,2987.1167317416425,EUR,2005-02-02
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Krawczyk,"Olaf",1995-09-29,"M",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Asturia,CITY,3856.1934891270366,EUR,2001-08-04
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Kowalski,"Pius",1988-03-25,"M",ODDZ_POL_002,Glowny opiekun,Polska,Mazury,CITY,7028.426939062606,USD,2003-04-07
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Krawczyk,"Sewera",1981-12-29,"K",ODDZ_POL_005,Przewodnik,Polska,Bieszczady,CITY,1823.6715532609464,PLN,2007-03-24
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Krawczyk,"Magdalena",1971-12-14,"K",ODDZ_POL_006,Glowny opiekun,Polska,Mazury,CITY,7888.797417739661,PLN,2000-08-03
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Jopek,"Wadim",1976-11-04,"M",ODDZ_POL_005,Opiekun,Polska,Mazury,CITY,5597.5714885123825,PLN,2000-06-12
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Krawczyk,"Marian",1983-05-07,"M",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,5859.382132205216,PLN,2004-01-13
+10096,Mercurial,"Zenon",Kowalski,1983-10-19,5,183,Kowalski,"Gardenia",1986-10-12,"K",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,6067.525688981996,USD,2012-05-25
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Krawczyk,"Aurora",1986-12-17,"K",ODDZ_FRA_008,Przewodnik,Francja,Akwitania,CITY,5931.440154725114,USD,2011-11-14
+10046,Sheraton,"Wiaczesław",Nowak,2003-08-31,2,84,Nowak,"Paula",1983-12-22,"K",ODDZ_POL_007,Opiekun,Polska,Tatry,CITY,6223.575384984279,USD,2000-06-05
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Kowalski,"Manuela",1994-09-23,"K",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Kantabria,CITY,8117.180173796986,USD,2002-11-17
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Jopek,"Gracjan",1979-03-01,"M",ODDZ_POL_009,Przewodnik,Polska,Tatry,CITY,7263.632175461392,EUR,2014-04-27
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Jopek,"Radogost",1986-07-20,"M",ODDZ_FRA_002,Przewodnik,Francja,Burgundia,CITY,3026.512277943819,EUR,2004-05-16
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Nowak,"Wszebora",1985-03-07,"K",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Nawarra,CITY,5315.833982906577,EUR,2010-06-10
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Krawczyk,"Alan",1983-06-22,"M",ODDZ_FRA_007,Glowny opiekun,Francja,Akwitania,CITY,9841.090900729196,PLN,2003-10-10
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kiepski,"Lilla",1998-02-05,"K",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Barcelona,CITY,2427.6996301119243,USD,2012-05-01
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Nowak,"Patrycjusz",1983-11-13,"M",ODDZ_POL_001,Przewodnik,Polska,Tatry,CITY,2190.5181571119833,PLN,2010-11-19
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Jopek,"Narcyza",1983-01-19,"K",ODDZ_POL_006,Glowny opiekun,Polska,Bieszczady,CITY,8101.030808413449,USD,2013-04-20
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Nowak,"Włościbor",1997-05-11,"M",ODDZ_HIS_004,Przewodnik,Hiszpania,Nawarra,CITY,3100.6698715215716,EUR,2017-08-11
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Krawczyk,"Hubert",1984-09-05,"M",ODDZ_FRA_005,Opiekun,Francja,Burgundia,CITY,6478.440275117633,EUR,2014-09-07
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Krawczyk,"Marta",1991-01-31,"K",ODDZ_HIS_009,Opiekun,Hiszpania,Nawarra,CITY,1768.7340450535812,USD,2017-07-27
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Kowalski,"Wiola",1975-05-08,"K",ODDZ_POL_009,Przewodnik,Polska,Bieszczady,CITY,6134.752933133638,USD,2011-01-31
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Jopek,"Arnold",1974-05-17,"M",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,4666.847105976852,USD,2011-03-14
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kiepski,"Sulisław",1979-07-18,"M",ODDZ_HIS_002,Opiekun,Hiszpania,Barcelona,CITY,8311.449213511478,USD,2014-08-08
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Budzisz",1984-12-11,"M",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,5423.130931186015,USD,2016-04-04
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Jopek,"Eutropiusz",1995-07-17,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,9334.354712107364,USD,2006-10-05
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Krawczyk,"Kanizjusz",1990-12-19,"M",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,6675.637651558117,EUR,2017-07-24
+10004,Sheraton,"Patrycja",Jopek,1952-02-04,3,216,Kiepski,"Marcjal",1975-02-09,"M",ODDZ_HIS_002,Przewodnik,Hiszpania,Madryt,CITY,2946.0993656010787,USD,2012-04-26
+10072,Mercurial,"Remigiusz",Krawczyk,1949-01-04,3,72,Kowalski,"Sylwia",1998-04-14,"K",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Murcja,CITY,5414.974438881601,EUR,2005-04-08
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Nowak,"Zenobia",1998-04-18,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,5484.938740290454,USD,2007-11-28
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Jopek,"Myślimir",1996-04-25,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Akwitania,CITY,3452.317141867311,EUR,2004-05-30
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Krawczyk,"Ada",1981-03-20,"K",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,8533.42769101539,EUR,2010-10-06
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Nowak,"Humbert",1970-02-02,"M",ODDZ_FRA_008,Opiekun,Francja,Burgundia,CITY,4370.753194194745,PLN,2012-10-26
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Kiepski,"Niegosława",1988-10-05,"K",ODDZ_HIS_009,Przewodnik,Hiszpania,Madryt,CITY,2760.310175173221,PLN,2014-09-07
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Kowalski,"Kajus",1977-09-07,"M",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,4677.178566918816,EUR,2004-07-07
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Kowalski,"Euchariusz",1975-05-19,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,3487.190774105512,EUR,2016-04-30
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Nowak,"Irina",1988-01-20,"K",ODDZ_POL_001,Glowny opiekun,Polska,Pomorze,CITY,5090.782921969894,USD,2002-07-05
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Kiepski,"Balcer",1974-04-17,"M",ODDZ_POL_006,Glowny opiekun,Polska,Pomorze,CITY,6374.877483533065,USD,2003-03-03
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Jopek,"Tolisława",1986-07-03,"K",ODDZ_POL_009,Przewodnik,Polska,Pomorze,CITY,6411.94719211642,USD,2016-05-30
+10004,Sheraton,"Patrycja",Jopek,1952-02-04,3,216,Krawczyk,"Jowita",1974-07-06,"K",ODDZ_HIS_001,Opiekun,Hiszpania,Madryt,CITY,4096.847022783168,USD,2016-05-26
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Jopek,"Miłosława",1988-08-09,"K",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,4247.476206504194,PLN,2014-03-07
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Krawczyk,"Sędziwoj",1972-10-18,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,4813.90983151791,USD,2011-08-08
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Krawczyk,"Baltazar",1981-10-22,"M",ODDZ_FRA_004,Przewodnik,Francja,Burgundia,CITY,5143.793426513708,PLN,2011-03-03
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Kowalski,"Hipolita",1992-10-24,"K",ODDZ_POL_008,Glowny opiekun,Polska,Mazury,CITY,6381.655535743066,USD,2016-02-05
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Nowak,"Mikołaj",1976-07-16,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,9942.813904855037,EUR,2016-11-18
+10006,Plaza,"Abdiasz",Kiepski,1933-07-28,4,154,Jopek,"Bończa",1980-05-18,"K",ODDZ_POL_002,Glowny opiekun,Polska,Bieszczady,CITY,7538.789525977721,EUR,2015-05-20
+10061,Plaza,"Renat",Jopek,1992-03-13,1,138,Kiepski,"Arleta",1993-06-05,"K",ODDZ_POL_005,Przewodnik,Polska,Bieszczady,CITY,8255.15652024689,PLN,2000-06-23
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Krawczyk,"Afanazy",1998-10-28,"M",ODDZ_HIS_004,Przewodnik,Hiszpania,Nawarra,CITY,4748.937227808323,PLN,2008-03-13
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Krawczyk,"Wilhelmina",1976-05-08,"K",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,6571.1128278382075,PLN,2017-07-21
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Jopek,"Szczęsny",1991-09-23,"M",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,4761.202031618169,USD,2004-10-26
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Jopek,"Addar",1976-05-19,"M",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,9317.41286301937,USD,2014-03-17
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Kowalski,"Krzywosąd",1986-06-07,"M",ODDZ_POL_001,Glowny opiekun,Polska,Pomorze,CITY,9031.135938600899,EUR,2011-03-19
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Nowak,"Ligia",1983-05-05,"K",ODDZ_FRA_001,Glowny opiekun,Francja,Owernia,CITY,9548.434396113498,USD,2016-06-14
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Krawczyk,"WrÃ³cimir",1973-12-16,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,4264.170711024984,PLN,2015-04-02
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Krawczyk,"Marika",1993-01-14,"K",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,5763.216878146747,PLN,2014-12-19
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kowalski,"Ignacja",1973-09-12,"K",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Barcelona,CITY,9030.262829584972,USD,2004-07-19
+10002,Plaza,"Marita",Kowalski,1937-02-16,3,76,Kiepski,"Kwiryna",1983-09-11,"K",ODDZ_FRA_004,Przewodnik,Francja,Akwitania,CITY,8201.051551234494,USD,2011-05-11
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Kowalski,"Zbylut",1988-06-10,"M",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Nawarra,CITY,2321.389616448267,USD,2014-06-15
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Krawczyk,"Teofila",1974-07-08,"K",ODDZ_POL_002,Opiekun,Polska,Mazury,CITY,2102.2705465900326,EUR,2017-03-14
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Kiepski,"Domamir",1995-08-02,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,6080.745308274206,USD,2000-06-25
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Kiepski,"Potencjana",1993-05-14,"K",ODDZ_FRA_004,Glowny opiekun,Francja,Burgundia,CITY,4155.78582166382,EUR,2002-02-24
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Kiepski,"Siestrzewit",1990-01-02,"M",ODDZ_HIS_006,Opiekun,Hiszpania,Asturia,CITY,5609.159603907133,PLN,2012-01-26
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Kowalski,"Apollo",1994-01-13,"M",ODDZ_HIS_003,Opiekun,Hiszpania,Asturia,CITY,2539.594541589843,EUR,2011-11-08
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Krawczyk,"Marcjal",1976-09-12,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,5665.907932467093,USD,2002-03-07
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Nowak,"Erwina",1975-02-02,"K",ODDZ_POL_004,Opiekun,Polska,Mazury,CITY,2332.411144209851,PLN,2001-05-02
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Kowalski,"Arletta",1982-11-05,"K",ODDZ_POL_008,Przewodnik,Polska,Mazury,CITY,9323.813193058748,PLN,2014-11-13
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Nowak,"Arletta",1985-10-07,"K",ODDZ_POL_006,Glowny opiekun,Polska,Tatry,CITY,7696.466747433893,USD,2011-11-21
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Kiepski,"Wespazjan",1976-11-07,"M",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,1942.5741845217067,PLN,2015-04-16
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Kowalski,"Stojsław",1992-07-25,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Murcja,CITY,5779.169241521296,EUR,2005-02-26
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Kowalski,"Ksenofont",1982-06-09,"M",ODDZ_HIS_006,Opiekun,Hiszpania,Nawarra,CITY,9651.270355161425,USD,2011-02-10
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Kiepski,"Szczepan",1970-01-12,"M",ODDZ_FRA_005,Opiekun,Francja,Akwitania,CITY,7638.401519023929,USD,2015-09-20
+10093,Sheraton,"Efrem",Krawczyk,1955-02-08,4,208,Jopek,"Tęgomir",1990-05-02,"M",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,8043.107466078092,PLN,2011-09-28
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Nowak,"Arnolf",1976-02-14,"M",ODDZ_HIS_001,Opiekun,Hiszpania,Kantabria,CITY,3458.0074799159156,PLN,2001-05-09
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Kiepski,"Marek",1975-04-02,"M",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Barcelona,CITY,4663.880677918639,PLN,2001-03-28
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Nowak,"Goliat",1997-05-12,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,2192.0470889838457,USD,2000-10-15
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Kowalski,"Teodozja",1996-09-08,"K",ODDZ_FRA_009,Przewodnik,Francja,Burgundia,CITY,5684.688401581063,EUR,2013-12-03
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Kiepski,"Zbygniew",1970-11-26,"M",ODDZ_POL_003,Glowny opiekun,Polska,Mazury,CITY,7995.143198078357,PLN,2008-06-26
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Kowalski,"Makary",1996-05-04,"M",ODDZ_HIS_008,Opiekun,Hiszpania,Nawarra,CITY,7814.494446211139,PLN,2004-05-20
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Jopek,"Dobrowiest",1974-05-18,"M",ODDZ_POL_003,Przewodnik,Polska,Mazury,CITY,9064.633736268956,USD,2011-05-17
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Jopek,"Tomira",1988-10-26,"K",ODDZ_POL_004,Przewodnik,Polska,Mazury,CITY,8666.098657588504,USD,2009-05-01
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Jopek,"Ulryk",1975-12-05,"M",ODDZ_HIS_006,Przewodnik,Hiszpania,Nawarra,CITY,6111.890230101443,EUR,2005-10-15
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Jopek,"Torpet",1992-05-22,"M",ODDZ_POL_002,Glowny opiekun,Polska,Pomorze,CITY,1860.6876903219552,USD,2008-04-01
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Nowak,"Bernard",1979-05-18,"M",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,1813.2398648790809,EUR,2003-09-13
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Jopek,"Machabeusz",1978-01-10,"M",ODDZ_FRA_004,Przewodnik,Francja,Burgundia,CITY,9774.521004587372,EUR,2005-02-06
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Kowalski,"Eugenia",1984-05-05,"K",ODDZ_HIS_007,Przewodnik,Hiszpania,Asturia,CITY,7810.686190083849,USD,2005-03-03
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Kowalski,"Liza",1970-08-11,"K",ODDZ_FRA_004,Przewodnik,Francja,Owernia,CITY,1785.6426737977379,USD,2000-02-08
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Nowak,"Sędziwoj",1998-03-12,"M",ODDZ_POL_005,Glowny opiekun,Polska,Mazury,CITY,6570.4543379180595,EUR,2008-05-17
+10085,Sheraton,"Małgorzata",Jopek,1970-02-16,4,113,Kiepski,"Torpet",1987-01-05,"M",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Madryt,CITY,7107.165256807338,EUR,2012-09-23
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Krawczyk,"Roberta",1986-08-25,"K",ODDZ_FRA_007,Glowny opiekun,Francja,Burgundia,CITY,5277.69029503709,PLN,2013-01-01
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Kiepski,"Radomysł",1983-12-22,"M",ODDZ_POL_007,Przewodnik,Polska,Pomorze,CITY,8024.297635570733,EUR,2013-06-16
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Kowalski,"Sylwiusz",1979-03-08,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,3039.508406154513,PLN,2001-02-03
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Jopek,"Lech",1978-08-01,"M",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Madryt,CITY,8561.690950964088,PLN,2004-06-14
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Jopek,"Odila",1998-01-17,"K",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Kantabria,CITY,8838.369313616522,EUR,2014-09-17
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Nowak,"Beatrycze",1992-03-15,"K",ODDZ_POL_002,Glowny opiekun,Polska,Pomorze,CITY,5366.641710018585,PLN,2005-01-01
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Kiepski,"Stronisława",1983-11-17,"K",ODDZ_POL_008,Glowny opiekun,Polska,Mazury,CITY,8046.902290607287,PLN,2007-05-25
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Kowalski,"Prakseda",1985-08-25,"K",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Nawarra,CITY,9891.797136252128,PLN,2011-02-20
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Krawczyk,"Niemira",1996-06-02,"K",ODDZ_POL_004,Przewodnik,Polska,Pomorze,CITY,8188.153742009213,USD,2012-07-16
+10004,Sheraton,"Patrycja",Jopek,1952-02-04,3,216,Kiepski,"Saul",1992-02-11,"M",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Madryt,CITY,1907.604785834253,EUR,2013-01-24
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Nowak,"Aga",1994-01-06,"K",ODDZ_FRA_001,Przewodnik,Francja,Burgundia,CITY,7497.018373512297,USD,2001-01-12
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Krawczyk,"Igor",1977-07-06,"M",ODDZ_HIS_009,Przewodnik,Hiszpania,Nawarra,CITY,8085.706503934236,USD,2015-04-25
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Kowalski,"Tymoteusz",1980-07-03,"M",ODDZ_FRA_007,Glowny opiekun,Francja,Burgundia,CITY,4428.78619433695,PLN,2004-07-04
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Kiepski,"Fides",1982-11-13,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Akwitania,CITY,7753.834457704646,USD,2017-03-25
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Jopek,"Fryderyk",1980-11-27,"M",ODDZ_HIS_001,Opiekun,Hiszpania,Kantabria,CITY,1639.7922896639586,USD,2001-03-24
+10066,Sheraton,"Kazimiera",Kowalski,1974-10-16,1,152,Krawczyk,"Humbert",1976-02-17,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,3064.7200905147592,PLN,2008-09-02
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Benignus",1977-03-18,"M",ODDZ_FRA_001,Przewodnik,Francja,Burgundia,CITY,9763.786156303075,USD,2004-10-27
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Krawczyk,"Bratumiła",1981-07-29,"K",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,3395.7694552388884,EUR,2007-11-05
+10046,Sheraton,"Wiaczesław",Nowak,2003-08-31,2,84,Kowalski,"Sławosz",1994-09-06,"M",ODDZ_POL_005,Opiekun,Polska,Tatry,CITY,5542.076414756279,USD,2007-01-09
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Nowak,"Donald",1972-09-28,"M",ODDZ_FRA_003,Opiekun,Francja,Burgundia,CITY,2290.6801545257485,USD,2010-09-19
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Jopek,"Marina",1982-03-07,"K",ODDZ_FRA_001,Przewodnik,Francja,Owernia,CITY,6105.5431939028185,EUR,2016-06-27
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Krawczyk,"Idalia",1994-12-03,"K",ODDZ_POL_003,Opiekun,Polska,Tatry,CITY,4229.7547655628,PLN,2015-04-30
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Nowak,"Sądosław",1986-06-17,"M",ODDZ_POL_001,Przewodnik,Polska,Mazury,CITY,5502.234346751358,PLN,2000-05-12
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Nowak,"Michał",1998-01-18,"M",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Nawarra,CITY,4826.655358592057,USD,2000-06-24
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Jopek,"Barbara",1975-01-23,"K",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,3911.8400502822124,USD,2000-03-06
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Kowalski,"Alojzy",1991-04-05,"M",ODDZ_FRA_001,Opiekun,Francja,Akwitania,CITY,6628.595278960894,EUR,2009-12-03
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Krawczyk,"Radomiła",1975-10-13,"K",ODDZ_POL_007,Opiekun,Polska,Bieszczady,CITY,6754.825257167649,USD,2001-08-30
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Jopek,"Oriana",1974-05-01,"K",ODDZ_POL_004,Glowny opiekun,Polska,Pomorze,CITY,9547.14677943419,USD,2016-11-24
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Krawczyk,"Budzisława",1995-04-02,"K",ODDZ_HIS_009,Opiekun,Hiszpania,Kantabria,CITY,9119.847509259285,USD,2003-08-08
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Jopek,"Mamert",1974-10-13,"M",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,9122.663038493862,USD,2001-01-19
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Kiepski,"Wszebor",1995-08-09,"M",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,6606.275985183099,USD,2003-05-18
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Kiepski,"Roman",1974-02-16,"M",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,9287.017254597959,USD,2017-02-09
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Kiepski,"Flawia",1982-06-24,"K",ODDZ_FRA_006,Przewodnik,Francja,Akwitania,CITY,5342.899225379818,USD,2014-11-24
+10097,Plaza,"Julita",Kiepski,1954-11-08,5,218,Kowalski,"Salwator",1989-12-31,"M",ODDZ_POL_005,Przewodnik,Polska,Pomorze,CITY,4752.776644560493,PLN,2002-08-04
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Nowak,"Wanda",1981-11-11,"K",ODDZ_FRA_009,Przewodnik,Francja,Akwitania,CITY,9093.18096793022,EUR,2007-06-23
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Krawczyk,"Sieciesław",1986-10-11,"M",ODDZ_POL_003,Opiekun,Polska,Bieszczady,CITY,5407.663632819544,USD,2011-07-13
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Kiepski,"Klaus",1983-08-14,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Owernia,CITY,1970.5287172331598,USD,2011-03-20
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Nowak,"Erwina",1974-01-18,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Madryt,CITY,2884.545824340358,EUR,2010-06-16
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Krawczyk,"Przemysława",1988-01-19,"K",ODDZ_HIS_005,Opiekun,Hiszpania,Kantabria,CITY,7949.353053300402,EUR,2008-11-11
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Jopek,"Racisław",1988-11-23,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,5495.696138953838,EUR,2003-05-29
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Kowalski,"Minodora",1998-12-05,"K",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,1501.7619336816408,EUR,2009-06-06
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Krawczyk,"Sandra",1983-06-21,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,6591.717004661235,USD,2017-04-05
+10046,Sheraton,"Wiaczesław",Nowak,2003-08-31,2,84,Krawczyk,"Helena",1981-03-17,"K",ODDZ_POL_009,Opiekun,Polska,Tatry,CITY,9519.883856170425,USD,2003-06-07
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Krawczyk,"JÃ³zefa",1996-08-18,"K",ODDZ_POL_001,Glowny opiekun,Polska,Pomorze,CITY,7990.634435497426,USD,2002-07-22
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Kowalski,"Rudolfina",1970-06-04,"K",ODDZ_POL_002,Glowny opiekun,Polska,Mazury,CITY,4469.753937114288,PLN,2013-12-26
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Kiepski,"Urszula",1994-07-14,"K",ODDZ_HIS_006,Przewodnik,Hiszpania,Barcelona,CITY,6863.272324568644,PLN,2009-10-14
+10047,Sheraton,"Zelmira",Kowalski,1949-12-07,1,175,Jopek,"Chwalimira",1971-04-18,"K",ODDZ_HIS_003,Przewodnik,Hiszpania,Barcelona,CITY,6213.436808531513,EUR,2005-10-18
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Kiepski,"Gajusz",1978-03-01,"M",ODDZ_FRA_007,Opiekun,Francja,Akwitania,CITY,4491.6012968059895,EUR,2002-12-01
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Nowak,"Witosław",1984-02-13,"M",ODDZ_POL_001,Przewodnik,Polska,Tatry,CITY,2989.5510532908743,USD,2017-05-25
+10097,Plaza,"Julita",Kiepski,1954-11-08,5,218,Kowalski,"Dionizja",1972-01-26,"K",ODDZ_POL_007,Glowny opiekun,Polska,Pomorze,CITY,6046.047254254865,USD,2012-10-20
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Kowalski,"Borysław",1973-12-31,"M",ODDZ_POL_005,Glowny opiekun,Polska,Pomorze,CITY,8952.679610761803,EUR,2005-01-18
+10060,Plaza,"Racibor",Kiepski,2014-04-05,5,36,Krawczyk,"Galla",1986-05-11,"K",ODDZ_FRA_009,Opiekun,Francja,Burgundia,CITY,9880.423959651098,EUR,2016-08-24
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Krawczyk,"Ariela",1982-04-20,"K",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,6234.149060201371,USD,2009-02-07
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Nowak,"Wojsława",1989-09-07,"K",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,4346.473528348748,USD,2015-01-20
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Jopek,"Rudolf",1997-07-16,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Burgundia,CITY,4818.832918273735,USD,2005-03-26
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Nowak,"Grodzisław",1970-12-14,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,8805.510665280905,PLN,2007-07-20
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Jopek,"Miligost",1998-01-30,"M",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Asturia,CITY,3603.9729842309353,EUR,2003-03-16
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Kowalski,"Ewdokia",1998-02-01,"K",ODDZ_HIS_007,Opiekun,Hiszpania,Kantabria,CITY,9343.339253161412,USD,2002-03-28
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Kiepski,"Dobromił",1993-07-21,"M",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,2494.2697656762043,PLN,2000-01-20
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Krawczyk,"Klara",1980-11-18,"K",ODDZ_FRA_009,Glowny opiekun,Francja,Akwitania,CITY,2677.549136447442,USD,2012-02-04
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Krawczyk,"Racisław",1982-02-05,"M",ODDZ_POL_001,Opiekun,Polska,Bieszczady,CITY,6273.28004278152,EUR,2010-06-01
+10029,Mercurial,"Konstantyn",Nowak,1955-03-13,2,197,Kiepski,"Miligost",1991-07-12,"M",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,8033.60079246912,USD,2015-09-11
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Boromeusz",1976-10-31,"M",ODDZ_POL_003,Przewodnik,Polska,Bieszczady,CITY,4269.694231291996,EUR,2013-03-25
+10029,Mercurial,"Konstantyn",Nowak,1955-03-13,2,197,Kiepski,"Siemiodrog",1993-02-16,"M",ODDZ_FRA_003,Przewodnik,Francja,Owernia,CITY,4286.167520277539,EUR,2015-03-17
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Nowak,"Ciechomir",1985-03-03,"M",ODDZ_FRA_008,Przewodnik,Francja,Burgundia,CITY,6563.761491764803,USD,2015-08-30
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Krawczyk,"Domosław",1972-03-20,"M",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Madryt,CITY,4041.763031779136,PLN,2007-09-15
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Nowak,"Pęcisław",1971-05-14,"M",ODDZ_POL_004,Glowny opiekun,Polska,Mazury,CITY,4057.8715596996904,USD,2010-06-14
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Kowalski,"Natanael",1992-09-14,"M",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,5947.170367609884,PLN,2009-04-04
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Kiepski,"Lea",1996-10-11,"K",ODDZ_POL_003,Opiekun,Polska,Mazury,CITY,4721.4137522682395,USD,2015-08-16
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Jopek,"Gaspar",1995-05-22,"M",ODDZ_POL_001,Glowny opiekun,Polska,Bieszczady,CITY,8539.994857562371,PLN,2005-09-17
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kiepski,"Augustyn",1982-08-19,"M",ODDZ_HIS_007,Opiekun,Hiszpania,Barcelona,CITY,1934.6248873674108,USD,2008-12-22
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Kiepski,"Drogosława",1976-09-15,"K",ODDZ_FRA_004,Glowny opiekun,Francja,Burgundia,CITY,3141.1925909875645,PLN,2007-02-18
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Krawczyk,"Teofil",1987-11-30,"M",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,7616.445004007587,USD,2016-03-28
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Nowak,"Otto",1973-05-01,"M",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,6599.926040174828,EUR,2006-06-04
+10015,Plaza,"Miromir",Krawczyk,1993-04-02,1,192,Krawczyk,"Władysław",1970-07-25,"M",ODDZ_POL_005,Przewodnik,Polska,Mazury,CITY,7262.210129147847,USD,2009-06-15
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Kowalski,"Czesława",1989-02-01,"K",ODDZ_POL_008,Opiekun,Polska,Mazury,CITY,3273.612372437976,USD,2010-11-10
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Jopek,"Budzisław",1978-01-20,"M",ODDZ_POL_002,Przewodnik,Polska,Pomorze,CITY,2339.819859653915,USD,2014-03-22
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Kiepski,"Hermenegilda",1975-02-26,"K",ODDZ_POL_003,Opiekun,Polska,Mazury,CITY,7961.530852365835,PLN,2003-05-14
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Krawczyk,"Miłorad",1995-04-14,"M",ODDZ_POL_009,Glowny opiekun,Polska,Bieszczady,CITY,5284.296963935081,EUR,2004-06-07
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Jopek,"Cezaryna",1995-06-07,"K",ODDZ_POL_004,Glowny opiekun,Polska,Tatry,CITY,9542.19414643072,PLN,2017-07-02
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Nowak,"Ludwik",1993-06-11,"M",ODDZ_POL_002,Opiekun,Polska,Tatry,CITY,2834.4678931223566,USD,2001-06-03
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Jopek,"Jagoda",1987-09-25,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,6859.165142591707,USD,2011-04-11
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Jopek,"Amos",1978-03-26,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Nawarra,CITY,9247.166415976535,PLN,2016-11-09
+10002,Plaza,"Marita",Kowalski,1937-02-16,3,76,Nowak,"Będzimir",1998-03-08,"M",ODDZ_FRA_009,Przewodnik,Francja,Akwitania,CITY,4754.122568777204,USD,2007-07-17
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Nowak,"Julia",1989-10-08,"K",ODDZ_FRA_009,Opiekun,Francja,Akwitania,CITY,2014.486366065145,PLN,2003-03-17
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Kiepski,"Lubogost",1995-06-03,"M",ODDZ_FRA_001,Przewodnik,Francja,Burgundia,CITY,6501.134499546684,EUR,2009-10-11
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Krawczyk,"Bożysława",1976-11-25,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Kantabria,CITY,6903.939454028912,PLN,2001-08-10
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Nowak,"Ofelia",1975-06-26,"K",ODDZ_POL_009,Glowny opiekun,Polska,Pomorze,CITY,2403.137271437033,USD,2007-02-13
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Kowalski,"Częstobor",1978-08-18,"M",ODDZ_FRA_006,Opiekun,Francja,Owernia,CITY,6376.373618812179,PLN,2011-09-27
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Jopek,"Skarbimir",1990-12-29,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Burgundia,CITY,8688.08581090119,EUR,2009-11-13
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Krawczyk,"Więcemir",1978-12-31,"M",ODDZ_HIS_009,Przewodnik,Hiszpania,Madryt,CITY,8936.788130237914,USD,2012-06-14
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Nowak,"Marcel",1989-11-21,"M",ODDZ_POL_009,Glowny opiekun,Polska,Pomorze,CITY,4333.570035346448,PLN,2009-07-10
+10060,Plaza,"Racibor",Kiepski,2014-04-05,5,36,Kowalski,"Heloiza",1994-09-05,"K",ODDZ_FRA_006,Przewodnik,Francja,Burgundia,CITY,3851.45487934609,PLN,2006-10-13
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Kiepski,"Eliga",1981-02-18,"K",ODDZ_HIS_002,Przewodnik,Hiszpania,Kantabria,CITY,6069.266988561181,EUR,2016-10-29
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Nowak,"Eustachy",1973-10-27,"M",ODDZ_POL_006,Glowny opiekun,Polska,Pomorze,CITY,4468.6333467816585,USD,2013-07-20
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Jopek,"Wiwanna",1970-12-28,"K",ODDZ_POL_007,Przewodnik,Polska,Pomorze,CITY,5098.602593750158,USD,2012-10-19
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kiepski,"Gotard",1988-05-21,"M",ODDZ_HIS_008,Opiekun,Hiszpania,Barcelona,CITY,9297.58346689276,EUR,2009-03-17
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Nowak,"Iryda",1976-09-07,"K",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Kantabria,CITY,4494.009320422654,USD,2011-01-04
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Kiepski,"Aureliusz",1977-04-07,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,5592.1269101247835,PLN,2009-04-09
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Kiepski,"Ilia",1978-04-15,"K",ODDZ_HIS_004,Przewodnik,Hiszpania,Nawarra,CITY,2549.2289517883637,EUR,2012-12-26
+10047,Sheraton,"Zelmira",Kowalski,1949-12-07,1,175,Kowalski,"Wyszemir",1984-11-07,"M",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Barcelona,CITY,8127.729999224096,USD,2014-04-05
+10046,Sheraton,"Wiaczesław",Nowak,2003-08-31,2,84,Nowak,"Kurt",1986-05-23,"M",ODDZ_POL_006,Opiekun,Polska,Tatry,CITY,1860.1629103982343,PLN,2013-09-11
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Kiepski,"Nestor",1983-11-03,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,9679.035686836089,PLN,2016-04-03
+10002,Plaza,"Marita",Kowalski,1937-02-16,3,76,Jopek,"Orfeusz",1986-08-31,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Akwitania,CITY,8935.323247377592,EUR,2003-10-14
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Nowak,"Ali",1970-01-07,"M",ODDZ_FRA_008,Opiekun,Francja,Akwitania,CITY,3130.971745611665,PLN,2010-09-26
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Kowalski,"Amadeusz",1995-04-20,"M",ODDZ_POL_002,Glowny opiekun,Polska,Mazury,CITY,6714.214803327672,USD,2009-02-04
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Kowalski,"Gertruda",1976-11-07,"K",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,7440.148608252761,PLN,2014-01-10
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Kowalski,"Dobromił",1987-12-04,"M",ODDZ_POL_006,Opiekun,Polska,Mazury,CITY,7224.5138527244835,USD,2000-05-27
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Kiepski,"Przecław",1990-06-15,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Owernia,CITY,5861.011542023699,USD,2009-07-14
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Nowak,"Jacek",1995-08-30,"M",ODDZ_POL_005,Opiekun,Polska,Bieszczady,CITY,6957.946596386501,EUR,2016-02-08
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Nowak,"Ozeasz",1972-07-02,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Akwitania,CITY,3486.609654326732,PLN,2016-06-19
+10006,Plaza,"Abdiasz",Kiepski,1933-07-28,4,154,Jopek,"Ludomira",1993-08-01,"K",ODDZ_POL_001,Przewodnik,Polska,Bieszczady,CITY,4105.337114300999,PLN,2003-02-12
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Jopek,"Imisław",1989-09-30,"M",ODDZ_HIS_008,Opiekun,Hiszpania,Kantabria,CITY,2008.635917681791,EUR,2001-09-19
+10041,Mercurial,"Hermenia",Kowalski,1989-12-22,5,104,Kowalski,"Martyn",1984-06-05,"M",ODDZ_POL_006,Przewodnik,Polska,Pomorze,CITY,8659.471319246153,PLN,2011-10-20
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Krawczyk,"Witolda",1977-02-10,"K",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Nawarra,CITY,8965.759706291557,EUR,2006-02-04
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Jopek,"Apolinary",1991-08-28,"M",ODDZ_POL_002,Przewodnik,Polska,Pomorze,CITY,3368.719688372217,USD,2006-01-29
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Kowalski,"Hermina",1989-10-24,"K",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Barcelona,CITY,6321.0625693138345,EUR,2005-11-18
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Kiepski,"Odilla",1987-02-25,"K",ODDZ_HIS_001,Opiekun,Hiszpania,Barcelona,CITY,4081.6219879904083,USD,2013-12-05
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Kowalski,"Lubogost",1974-02-11,"M",ODDZ_POL_001,Opiekun,Polska,Mazury,CITY,6246.669314278079,USD,2014-03-28
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Kowalski,"Ruta",1978-12-29,"K",ODDZ_HIS_003,Opiekun,Hiszpania,Nawarra,CITY,7338.126987519994,PLN,2011-12-08
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Kiepski,"Pia",1975-05-26,"K",ODDZ_POL_009,Glowny opiekun,Polska,Bieszczady,CITY,6575.864700112364,USD,2015-08-24
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Krawczyk,"Darosław",1972-08-22,"M",ODDZ_POL_005,Opiekun,Polska,Pomorze,CITY,3004.869787990312,PLN,2010-04-23
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Kiepski,"Renata",1998-09-30,"K",ODDZ_POL_004,Glowny opiekun,Polska,Tatry,CITY,8429.138927341948,PLN,2013-04-13
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Nowak,"Sierosława",1975-06-26,"K",ODDZ_POL_006,Glowny opiekun,Polska,Pomorze,CITY,3209.451663920479,USD,2012-06-25
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Krawczyk,"Lubomierz",1973-05-23,"M",ODDZ_FRA_001,Opiekun,Francja,Owernia,CITY,4049.3770438609017,PLN,2012-02-20
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Jopek,"Karol Boromeusz",1988-08-19,"M",ODDZ_POL_005,Glowny opiekun,Polska,Bieszczady,CITY,9598.641740922722,PLN,2000-11-02
+10093,Sheraton,"Efrem",Krawczyk,1955-02-08,4,208,Kiepski,"Świętomira",1983-01-31,"K",ODDZ_POL_003,Opiekun,Polska,Tatry,CITY,5971.6244512919375,EUR,2009-03-16
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Nowak,"Rudolfa",1983-11-14,"K",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Barcelona,CITY,2673.6334164325453,PLN,2013-04-01
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Jopek,"Wielisław",1992-05-30,"M",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Madryt,CITY,7925.979830836862,USD,2009-07-16
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Nowak,"Sewer",1997-01-05,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Barcelona,CITY,1712.1981056708087,PLN,2003-05-18
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Nowak,"Leopold",1993-07-10,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,2607.3155171393737,PLN,2011-08-23
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Jopek,"Tolimir",1978-03-09,"M",ODDZ_FRA_001,Glowny opiekun,Francja,Akwitania,CITY,2093.1182874749284,EUR,2006-10-17
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Nowak,"Radowid",1987-05-24,"M",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Barcelona,CITY,3618.2350165906573,EUR,2002-09-15
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Nowak,"Wasyl",1972-11-30,"M",ODDZ_POL_007,Opiekun,Polska,Mazury,CITY,2963.8571663299804,PLN,2001-09-05
+10097,Plaza,"Julita",Kiepski,1954-11-08,5,218,Jopek,"Wiaczesław",1993-09-08,"M",ODDZ_POL_006,Przewodnik,Polska,Pomorze,CITY,8127.815365082375,USD,2006-11-22
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Nowak,"Dobisława",1973-03-19,"K",ODDZ_FRA_004,Przewodnik,Francja,Burgundia,CITY,7996.629183233474,EUR,2015-01-20
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Kowalski,"Ludmiła",1982-11-13,"K",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,3720.3156552709943,USD,2012-02-13
+10057,Sheraton,"Idzi",Nowak,1983-04-21,1,130,Kowalski,"Jacenty",1980-01-26,"M",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,5515.304690411509,EUR,2006-12-15
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Nowak,"Fortunata",1975-05-17,"K",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,3851.0997333266537,PLN,2008-09-22
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Krawczyk,"Ligia",1995-05-08,"K",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Barcelona,CITY,9276.436288432866,USD,2000-07-11
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Kiepski,"Marlena",1972-04-18,"K",ODDZ_POL_008,Przewodnik,Polska,Bieszczady,CITY,6543.248488952539,USD,2013-05-01
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Kowalski,"Kryspina",1986-07-31,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Burgundia,CITY,1753.1367161412077,EUR,2012-11-14
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kowalski,"Albina",1994-08-24,"K",ODDZ_HIS_009,Przewodnik,Hiszpania,Nawarra,CITY,6890.151970028686,EUR,2014-04-03
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Kowalski,"Oda",1973-12-14,"K",ODDZ_FRA_007,Glowny opiekun,Francja,Owernia,CITY,4697.84433909328,EUR,2003-09-27
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Nowak,"Oswald",1981-09-24,"M",ODDZ_HIS_008,Opiekun,Hiszpania,Asturia,CITY,6123.738378368258,PLN,2012-06-16
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Krawczyk,"Grażyna",1994-02-24,"K",ODDZ_POL_003,Przewodnik,Polska,Tatry,CITY,2882.553399567979,PLN,2001-04-05
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Kowalski,"Milenia",1995-05-08,"K",ODDZ_POL_003,Glowny opiekun,Polska,Tatry,CITY,4332.225525066742,EUR,2002-07-17
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Jopek,"Gaudencjusz",1970-02-20,"M",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Nawarra,CITY,5901.540511985996,USD,2004-09-02
+10093,Sheraton,"Efrem",Krawczyk,1955-02-08,4,208,Kiepski,"Jan Gwalbert",1972-05-02,"M",ODDZ_POL_009,Opiekun,Polska,Tatry,CITY,5784.321394305756,USD,2008-10-05
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Kiepski,"Bratumił",1983-05-02,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,3070.849409592412,USD,2001-08-12
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Nowak,"Lewin",1990-09-26,"M",ODDZ_FRA_003,Przewodnik,Francja,Owernia,CITY,5627.987880354558,EUR,2016-08-27
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Jopek,"Marika",1980-04-16,"K",ODDZ_POL_006,Opiekun,Polska,Bieszczady,CITY,7095.247825444542,EUR,2016-02-19
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kiepski,"Bronisław",1975-03-06,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Nawarra,CITY,4703.456838553087,PLN,2013-12-23
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Kowalski,"Tolimir",1992-11-13,"M",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,6110.981151598188,PLN,2013-05-20
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Kiepski,"Rufin",1991-01-27,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,4065.5746216946545,EUR,2000-05-19
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Krawczyk,"Nonna",1971-10-08,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Kantabria,CITY,6305.578625806859,USD,2011-01-03
+10006,Plaza,"Abdiasz",Kiepski,1933-07-28,4,154,Nowak,"Cieszymysł",1989-01-10,"M",ODDZ_POL_007,Glowny opiekun,Polska,Bieszczady,CITY,6646.276914209774,EUR,2016-10-31
+10061,Plaza,"Renat",Jopek,1992-03-13,1,138,Kiepski,"Telimena",1972-05-02,"K",ODDZ_POL_009,Opiekun,Polska,Bieszczady,CITY,6589.906378877227,USD,2001-02-04
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Krawczyk,"Sawa",1971-01-19,"K",ODDZ_POL_008,Przewodnik,Polska,Pomorze,CITY,3985.2022826232665,EUR,2014-01-16
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Kowalski,"Lutosław",1974-08-06,"M",ODDZ_HIS_002,Opiekun,Hiszpania,Barcelona,CITY,3972.736805318053,PLN,2005-09-27
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Kowalski,"Cyprian",1977-06-26,"M",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,5752.7068587876765,EUR,2005-09-04
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Krawczyk,"Spycimir",1990-12-10,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,2259.789909946849,USD,2002-08-26
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Jopek,"Arletta",1983-03-31,"K",ODDZ_HIS_001,Przewodnik,Hiszpania,Barcelona,CITY,7578.297171020864,USD,2017-02-19
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Jopek,"Trzebimir",1995-05-04,"M",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,3038.647094701175,USD,2007-04-25
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Nowak,"Grzymisław",1997-11-11,"M",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,5464.756024539618,USD,2015-08-26
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Kiepski,"Rudolfa",1987-04-08,"K",ODDZ_HIS_001,Glowny opiekun,Hiszpania,Asturia,CITY,8331.562247947177,EUR,2008-11-08
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Jopek,"Adolfina",1987-12-19,"K",ODDZ_POL_009,Opiekun,Polska,Mazury,CITY,5806.742495720738,EUR,2001-05-21
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Krawczyk,"Burchard",1995-05-30,"M",ODDZ_FRA_008,Opiekun,Francja,Akwitania,CITY,4540.966815158084,USD,2011-04-04
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Kowalski,"Artus",1971-04-21,"M",ODDZ_HIS_006,Opiekun,Hiszpania,Barcelona,CITY,5065.599877264996,EUR,2008-05-01
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Jopek,"Eudoksjusz",1994-01-30,"M",ODDZ_POL_002,Opiekun,Polska,Bieszczady,CITY,2731.276169194595,PLN,2013-05-09
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Jopek,"Wszeciech",1986-07-28,"M",ODDZ_POL_008,Opiekun,Polska,Tatry,CITY,3096.3058338137207,PLN,2008-12-11
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Kowalski,"Dina",1970-04-12,"K",ODDZ_POL_009,Glowny opiekun,Polska,Bieszczady,CITY,3527.6263998623076,PLN,2006-06-12
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Jopek,"Leopold",1978-10-21,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Burgundia,CITY,7551.759484094746,PLN,2015-10-17
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Kowalski,"Pryscylla",1985-08-16,"K",ODDZ_POL_001,Opiekun,Polska,Pomorze,CITY,6250.764226380396,EUR,2006-02-05
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Jopek,"Korneli",1988-03-27,"M",ODDZ_POL_001,Przewodnik,Polska,Mazury,CITY,9214.851700585225,USD,2007-07-22
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Kiepski,"January",1996-03-15,"M",ODDZ_POL_006,Opiekun,Polska,Bieszczady,CITY,5662.491489324673,EUR,2004-01-16
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Jopek,"Alina",1970-09-15,"K",ODDZ_FRA_009,Przewodnik,Francja,Burgundia,CITY,9322.429358761896,EUR,2001-10-06
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Jopek,"Sylwin",1978-02-07,"M",ODDZ_POL_004,Glowny opiekun,Polska,Pomorze,CITY,9709.701820914874,USD,2015-01-01
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Nowak,"Uriasz",1977-10-12,"M",ODDZ_HIS_009,Przewodnik,Hiszpania,Asturia,CITY,9860.772015299917,PLN,2015-03-07
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Kowalski,"Pulcheria",1979-10-04,"K",ODDZ_HIS_008,Opiekun,Hiszpania,Madryt,CITY,4746.293292539482,PLN,2011-05-11
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Nowak,"Helena",1988-04-15,"K",ODDZ_HIS_001,Opiekun,Hiszpania,Barcelona,CITY,8985.383398812304,EUR,2017-07-02
+10057,Sheraton,"Idzi",Nowak,1983-04-21,1,130,Kiepski,"Sylwery",1987-03-02,"M",ODDZ_POL_009,Opiekun,Polska,Tatry,CITY,5863.333544354018,PLN,2016-06-18
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Kowalski,"Lamberta",1996-04-22,"K",ODDZ_POL_007,Glowny opiekun,Polska,Mazury,CITY,8297.095844919444,PLN,2006-10-30
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Nowak,"Ali",1979-10-11,"M",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Nawarra,CITY,5717.016866126129,USD,2010-03-29
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Kowalski,"Świeciech",1987-09-04,"M",ODDZ_POL_003,Przewodnik,Polska,Mazury,CITY,8167.808160639912,EUR,2014-07-01
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Jopek,"Ozeasz",1990-07-29,"M",ODDZ_POL_004,Przewodnik,Polska,Tatry,CITY,9275.191965915936,USD,2016-06-19
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Krawczyk,"Włodzisław",1985-07-16,"M",ODDZ_HIS_005,Przewodnik,Hiszpania,Asturia,CITY,5674.186140305732,EUR,2004-09-03
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kiepski,"Oskar",1996-04-02,"M",ODDZ_HIS_003,Opiekun,Hiszpania,Nawarra,CITY,9277.993989302358,USD,2001-06-09
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Jopek,"Lidia",1984-02-27,"K",ODDZ_POL_005,Opiekun,Polska,Tatry,CITY,7782.924186143487,PLN,2002-12-26
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Jopek,"Adam",1973-08-19,"M",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,2809.1413794820373,USD,2012-07-25
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Kiepski,"Ditta",1979-09-16,"K",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,5148.501705947881,USD,2011-02-20
+10073,Plaza,"Toligniew",Jopek,2002-04-29,5,218,Krawczyk,"Zawisza",1992-08-23,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Burgundia,CITY,2880.3642992512832,EUR,2007-05-09
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Jopek,"Gniewosz",1994-11-30,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,7143.6148968354455,PLN,2004-08-04
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Kowalski,"Bertrand",1994-08-25,"M",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,5350.55543212453,EUR,2017-06-01
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Jopek,"Zyta",1991-06-10,"K",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Kantabria,CITY,2641.6932609198584,EUR,2000-01-16
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Krawczyk,"Mamert",1975-01-03,"M",ODDZ_POL_003,Glowny opiekun,Polska,Tatry,CITY,4075.5827529219546,EUR,2003-08-23
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Nowak,"Dagna",1993-11-07,"K",ODDZ_POL_009,Opiekun,Polska,Tatry,CITY,4450.903333151122,PLN,2015-04-11
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Kowalski,"Racisław",1985-11-27,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Nawarra,CITY,4387.471096178006,EUR,2009-09-27
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Jopek,"Kamelia",1991-10-01,"K",ODDZ_FRA_008,Przewodnik,Francja,Akwitania,CITY,9538.625428784875,USD,2016-06-17
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Kowalski,"Ligia",1989-06-20,"K",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,5867.702293100878,PLN,2015-10-01
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Nowak,"Joachim",1986-02-06,"M",ODDZ_FRA_002,Opiekun,Francja,Burgundia,CITY,5044.187328835933,USD,2008-05-28
+10037,Sheraton,"Cieszymir",Nowak,1934-10-01,2,147,Kowalski,"Berno",1993-06-05,"M",ODDZ_FRA_003,Opiekun,Francja,Burgundia,CITY,9347.354892550415,PLN,2011-12-28
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Krawczyk,"Edwarda",1970-08-05,"K",ODDZ_FRA_002,Przewodnik,Francja,Owernia,CITY,2718.2027943401727,USD,2010-12-30
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Krawczyk,"Afanazy",1989-01-27,"M",ODDZ_POL_003,Opiekun,Polska,Tatry,CITY,9497.823637816104,USD,2016-03-16
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Krawczyk,"Siemisław",1975-06-20,"M",ODDZ_POL_005,Przewodnik,Polska,Bieszczady,CITY,5532.153895647003,EUR,2005-01-19
+10066,Sheraton,"Kazimiera",Kowalski,1974-10-16,1,152,Kowalski,"Judasz",1983-08-24,"M",ODDZ_FRA_001,Opiekun,Francja,Owernia,CITY,9990.572684517918,PLN,2016-01-19
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Jopek,"Boguta",1998-05-11,"K",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,8336.698296030074,USD,2005-03-08
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Kiepski,"Lutomysł",1976-05-17,"M",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,7343.179812821815,EUR,2006-10-27
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Kiepski,"Benignus",1970-05-10,"M",ODDZ_POL_008,Opiekun,Polska,Mazury,CITY,9968.504495455178,USD,2008-03-01
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Kowalski,"Sydonia",1970-04-17,"K",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Kantabria,CITY,6896.2020588153555,PLN,2012-11-30
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Kowalski,"Rufin",1995-10-08,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,3266.879469374258,EUR,2015-04-17
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Kiepski,"Siemomysł",1983-01-30,"M",ODDZ_FRA_002,Opiekun,Francja,Akwitania,CITY,7726.652652195335,PLN,2007-12-21
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Jopek,"Judasz",1994-09-03,"M",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,3994.9259557317937,USD,2010-12-28
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Kiepski,"Radzimir",1996-08-30,"M",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,6505.366380756019,USD,2017-07-09
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Kowalski,"Eustachy",1980-03-19,"M",ODDZ_POL_004,Przewodnik,Polska,Pomorze,CITY,7710.733337057665,EUR,2012-10-11
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Nowak,"Eliasz",1976-07-12,"M",ODDZ_POL_009,Glowny opiekun,Polska,Pomorze,CITY,6303.804282730714,PLN,2014-03-16
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Kiepski,"Szarlota",1995-12-03,"K",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,7043.590230519509,PLN,2013-09-13
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Nowak,"Włodziwoj",1986-09-18,"M",ODDZ_FRA_001,Opiekun,Francja,Akwitania,CITY,9295.117153774832,PLN,2013-07-16
+10072,Mercurial,"Remigiusz",Krawczyk,1949-01-04,3,72,Nowak,"Waleria",1986-09-24,"K",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Murcja,CITY,7480.794843179478,EUR,2012-04-12
+10051,Mercurial,"Olaf",Kowalski,2005-12-11,4,115,Kiepski,"Karol",1991-08-27,"M",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,9967.71357408923,EUR,2006-03-29
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Nowak,"Diana",1997-10-07,"K",ODDZ_POL_009,Glowny opiekun,Polska,Tatry,CITY,9148.610066163288,PLN,2000-10-22
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Nowak,"Toma",1989-09-01,"K",ODDZ_FRA_007,Opiekun,Francja,Burgundia,CITY,8618.704420982216,EUR,2004-08-14
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Kowalski,"Włodziwoj",1984-08-04,"M",ODDZ_POL_006,Opiekun,Polska,Mazury,CITY,6951.9979230288345,EUR,2002-12-17
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Jopek,"Warcisław",1984-10-03,"M",ODDZ_HIS_004,Przewodnik,Hiszpania,Kantabria,CITY,5144.247690408006,EUR,2016-09-24
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Kowalski,"Rudolfa",1984-02-23,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,7235.007610761281,USD,2003-01-20
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Kiepski,"Narcyz",1981-10-01,"M",ODDZ_FRA_007,Przewodnik,Francja,Owernia,CITY,4613.240218208728,EUR,2012-05-05
+10069,Mercurial,"Irena",Krawczyk,1933-12-17,4,158,Kiepski,"Dobronieg",1994-10-05,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Asturia,CITY,7299.329028962137,USD,2016-11-20
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Nowak,"Władysława",1991-04-24,"K",ODDZ_HIS_005,Opiekun,Hiszpania,Barcelona,CITY,4123.794537270433,PLN,2003-10-20
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Nowak,"Saturnina",1996-10-25,"K",ODDZ_FRA_009,Opiekun,Francja,Burgundia,CITY,4812.380804547464,USD,2008-12-09
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Jopek,"Prosper",1974-06-29,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Owernia,CITY,3009.342310270944,PLN,2006-04-21
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Kiepski,"Laurencjusz",1970-05-10,"M",ODDZ_POL_001,Opiekun,Polska,Pomorze,CITY,3785.522563005144,EUR,2000-02-29
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Jopek,"Fryderyka",1975-06-29,"K",ODDZ_POL_002,Glowny opiekun,Polska,Bieszczady,CITY,6500.630225696904,USD,2013-08-22
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Kowalski,"Tacjusz",1985-10-20,"M",ODDZ_POL_005,Opiekun,Polska,Tatry,CITY,7159.67390223127,USD,2005-05-03
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Kowalski,"Kunegunda",1986-10-25,"K",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Asturia,CITY,2951.6088707638983,PLN,2000-08-12
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kiepski,"Karol",1981-03-20,"M",ODDZ_HIS_005,Przewodnik,Hiszpania,Barcelona,CITY,7552.115851840858,EUR,2001-09-23
+10085,Sheraton,"Małgorzata",Jopek,1970-02-16,4,113,Kowalski,"Agaton",1991-01-27,"M",ODDZ_HIS_006,Przewodnik,Hiszpania,Madryt,CITY,7883.809253755031,PLN,2015-06-07
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Krawczyk,"Ubald",1986-03-09,"M",ODDZ_FRA_009,Przewodnik,Francja,Akwitania,CITY,8145.130110528158,USD,2005-06-09
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Krawczyk,"Niemir",1979-04-03,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,2043.093386269883,EUR,2013-06-09
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Kiepski,"Jaśmina",1988-12-02,"K",ODDZ_POL_007,Opiekun,Polska,Mazury,CITY,2322.015607183295,PLN,2011-04-14
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Kiepski,"Ozanna",1985-08-28,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,3286.9393794350894,USD,2003-08-04
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Krawczyk,"Wielisława",1989-01-25,"K",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,6982.834921405243,USD,2006-09-08
+10027,Mercurial,"Emanuela",Krawczyk,1993-12-31,3,221,Krawczyk,"Wolfgang",1997-04-30,"M",ODDZ_POL_002,Glowny opiekun,Polska,Mazury,CITY,8596.656425963687,USD,2003-09-24
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Jopek,"Cyrus",1978-09-08,"M",ODDZ_POL_004,Przewodnik,Polska,Mazury,CITY,9281.087704587044,USD,2007-12-16
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Krawczyk,"Szczęsny",1984-01-31,"M",ODDZ_HIS_001,Przewodnik,Hiszpania,Murcja,CITY,5024.850811107866,USD,2013-11-29
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Kowalski,"Antoni",1982-10-11,"M",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Asturia,CITY,8747.09598904142,EUR,2006-04-23
+10006,Plaza,"Abdiasz",Kiepski,1933-07-28,4,154,Jopek,"Wawrzyniec",1990-02-07,"M",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,8393.442723327427,EUR,2006-11-12
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Jopek,"Cieszybor",1986-08-24,"M",ODDZ_HIS_001,Glowny opiekun,Hiszpania,Kantabria,CITY,9388.328241214196,PLN,2009-10-20
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Krawczyk,"Tymon",1977-06-19,"M",ODDZ_FRA_009,Opiekun,Francja,Burgundia,CITY,3151.73572570541,PLN,2004-06-19
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Nowak,"Elwira",1977-12-13,"K",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,9926.001976550851,USD,2014-04-29
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Jopek,"Herakles",1986-07-11,"M",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,4605.392142717457,PLN,2003-11-28
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Krawczyk,"Manuela",1973-03-26,"K",ODDZ_POL_008,Opiekun,Polska,Mazury,CITY,5449.735325706031,USD,2009-01-01
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kowalski,"Kordelia",1971-04-06,"K",ODDZ_HIS_004,Opiekun,Hiszpania,Barcelona,CITY,2614.667370279368,USD,2005-07-17
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Krawczyk,"Absalon",1975-12-13,"M",ODDZ_HIS_002,Opiekun,Hiszpania,Nawarra,CITY,9204.058015249964,PLN,2003-02-01
+10006,Plaza,"Abdiasz",Kiepski,1933-07-28,4,154,Kiepski,"Nelly",1984-04-22,"M",ODDZ_POL_002,Przewodnik,Polska,Bieszczady,CITY,1623.9795198840702,PLN,2005-06-27
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Kowalski,"Probus",1984-01-12,"M",ODDZ_POL_003,Glowny opiekun,Polska,Pomorze,CITY,3166.9953532261957,USD,2007-10-14
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kiepski,"Sławoj",1993-05-08,"M",ODDZ_HIS_006,Przewodnik,Hiszpania,Barcelona,CITY,4856.233896828362,EUR,2002-08-06
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Krawczyk,"Kordelia",1994-12-28,"K",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,2604.249419240055,PLN,2013-06-26
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Krawczyk,"Czechoń",1990-03-12,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,3587.4871405143194,USD,2013-01-26
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Jopek,"Wiwanna",1970-02-13,"K",ODDZ_FRA_004,Przewodnik,Francja,Owernia,CITY,1550.28489036542,EUR,2012-11-16
+10061,Plaza,"Renat",Jopek,1992-03-13,1,138,Kiepski,"Rufus",1978-01-01,"M",ODDZ_POL_008,Przewodnik,Polska,Bieszczady,CITY,6137.366605317505,PLN,2010-06-20
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Krawczyk,"Pelagiusz",1993-10-09,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,3101.0145601660033,USD,2008-09-21
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Nowak,"Sławomir",1977-05-19,"M",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,3739.488870801742,USD,2014-09-17
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Nowak,"Wielisława",1995-06-24,"K",ODDZ_POL_001,Przewodnik,Polska,Pomorze,CITY,8404.011604841791,USD,2013-07-18
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Jopek,"Unisław",1985-01-05,"M",ODDZ_POL_007,Przewodnik,Polska,Tatry,CITY,3531.0516436574585,PLN,2002-11-29
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Nowak,"Lechosław",1987-06-18,"M",ODDZ_FRA_009,Przewodnik,Francja,Burgundia,CITY,1880.134787875174,EUR,2010-09-16
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Jopek,"Cecyliusz",1977-04-20,"M",ODDZ_FRA_001,Opiekun,Francja,Burgundia,CITY,2055.5670261441596,PLN,2017-05-10
+10096,Mercurial,"Zenon",Kowalski,1983-10-19,5,183,Jopek,"Hermenegilda",1994-12-13,"K",ODDZ_POL_002,Glowny opiekun,Polska,Pomorze,CITY,2082.4971754886515,EUR,2003-09-20
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Nowak,"Nadbor",1980-11-28,"M",ODDZ_FRA_001,Opiekun,Francja,Burgundia,CITY,5526.850964600442,USD,2014-06-30
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Krawczyk,"Sulisław",1988-08-27,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Burgundia,CITY,4565.49251160842,USD,2010-01-06
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Kowalski,"Kalistrat",1996-06-06,"M",ODDZ_HIS_002,Przewodnik,Hiszpania,Madryt,CITY,8390.299265631638,USD,2003-01-09
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Kiepski,"Kondrad",1992-09-20,"M",ODDZ_POL_005,Glowny opiekun,Polska,Pomorze,CITY,1644.2290586733727,PLN,2004-04-30
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Kiepski,"Scholastyka",1997-11-17,"K",ODDZ_POL_008,Opiekun,Polska,Mazury,CITY,3717.5224441525647,PLN,2016-12-16
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Kwiryn",1974-01-02,"M",ODDZ_FRA_008,Opiekun,Francja,Burgundia,CITY,2289.393786823817,USD,2004-08-01
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Krawczyk,"Doris",1976-03-07,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Asturia,CITY,6098.151767379244,EUR,2008-05-22
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Kowalski,"Dzierżymir",1992-02-29,"M",ODDZ_POL_008,Glowny opiekun,Polska,Mazury,CITY,2009.2595720768497,EUR,2015-05-19
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Nowak,"Malwina",1993-09-21,"K",ODDZ_FRA_001,Opiekun,Francja,Owernia,CITY,9957.440097864383,USD,2008-11-14
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Kowalski,"Marcjan",1989-09-03,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,3861.97571019211,EUR,2000-01-17
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Jopek,"Malina",1984-01-23,"K",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Nawarra,CITY,9594.896005503917,USD,2016-01-30
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Kowalski,"Ita",1976-01-28,"K",ODDZ_POL_006,Przewodnik,Polska,Tatry,CITY,7453.691309665757,USD,2013-09-04
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Krawczyk,"Bogdan",1989-07-09,"M",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Kantabria,CITY,6925.38865760218,PLN,2017-07-20
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Jopek,"Żywia",1973-05-22,"K",ODDZ_FRA_002,Przewodnik,Francja,Akwitania,CITY,7742.320427833737,EUR,2005-07-01
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Kiepski,"Rodryg",1987-03-25,"M",ODDZ_FRA_007,Glowny opiekun,Francja,Owernia,CITY,5926.083707186333,USD,2000-08-03
+10045,Plaza,"Augustyn",Nowak,1946-12-22,1,204,Jopek,"Tyburcjusz",1971-10-04,"M",ODDZ_POL_008,Opiekun,Polska,Mazury,CITY,7273.492411430245,USD,2008-02-17
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Krawczyk,"Janisław",1973-05-07,"M",ODDZ_FRA_007,Glowny opiekun,Francja,Owernia,CITY,7586.77362385151,USD,2009-06-24
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Nowak,"Bożeciech",1986-07-07,"M",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,9837.831970547808,PLN,2003-12-22
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Krawczyk,"Ernest",1980-03-10,"M",ODDZ_HIS_004,Przewodnik,Hiszpania,Nawarra,CITY,2623.472239834249,PLN,2008-10-04
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Nowak,"Leszek",1978-01-09,"M",ODDZ_POL_001,Opiekun,Polska,Bieszczady,CITY,1969.6010541397854,PLN,2003-03-16
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Krawczyk,"Bożysław",1982-04-28,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,1725.9322070396374,PLN,2016-05-05
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Krawczyk,"Epifania",1992-02-08,"K",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,2169.2377394698406,EUR,2000-04-28
+10004,Sheraton,"Patrycja",Jopek,1952-02-04,3,216,Kiepski,"Roland",1971-03-29,"M",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Madryt,CITY,6227.550078369497,USD,2001-01-04
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Kiepski,"Jaropełk",1987-09-22,"M",ODDZ_POL_006,Glowny opiekun,Polska,Tatry,CITY,2388.4606400121497,EUR,2017-01-25
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Krawczyk,"Siestrzemił",1981-09-22,"M",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Murcja,CITY,2663.890394915122,USD,2013-12-15
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Nowak,"Orchidea",1983-03-09,"K",ODDZ_HIS_004,Opiekun,Hiszpania,Kantabria,CITY,9604.222039024819,USD,2007-08-26
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Kowalski,"Helena",1970-12-31,"K",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,4014.4375336677194,PLN,2016-12-21
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Krawczyk,"Marcelina",1986-04-02,"K",ODDZ_FRA_004,Glowny opiekun,Francja,Owernia,CITY,5624.808304389206,EUR,2006-07-28
+10015,Plaza,"Miromir",Krawczyk,1993-04-02,1,192,Kiepski,"Roksana",1991-08-16,"K",ODDZ_POL_003,Glowny opiekun,Polska,Mazury,CITY,8297.86373631551,EUR,2009-07-04
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Kiepski,"Stefania",1975-09-17,"K",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Nawarra,CITY,3135.583460525233,USD,2000-03-16
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kiepski,"Paloma",1971-07-19,"K",ODDZ_HIS_003,Przewodnik,Hiszpania,Nawarra,CITY,9186.10003464607,USD,2008-05-06
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Krawczyk,"Kiejstut",1981-07-30,"M",ODDZ_HIS_002,Przewodnik,Hiszpania,Nawarra,CITY,9840.138332723584,USD,2014-07-25
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Krzesimir",1989-08-05,"M",ODDZ_FRA_004,Przewodnik,Francja,Burgundia,CITY,8561.423245828402,USD,2015-03-11
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Myślibor",1993-03-21,"M",ODDZ_POL_007,Glowny opiekun,Polska,Bieszczady,CITY,9983.865625147062,EUR,2001-08-20
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Krawczyk,"Żywisław",1970-01-17,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Asturia,CITY,2119.7033229576346,PLN,2001-07-04
+10029,Mercurial,"Konstantyn",Nowak,1955-03-13,2,197,Kiepski,"Jerosława",1984-10-28,"K",ODDZ_FRA_006,Opiekun,Francja,Owernia,CITY,8180.9841937441815,PLN,2004-04-16
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Kowalski,"Napoleon",1981-09-07,"M",ODDZ_FRA_004,Przewodnik,Francja,Owernia,CITY,3847.7012583744845,EUR,2000-09-22
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Jopek,"Lubor",1994-01-21,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Nawarra,CITY,8703.742493238355,PLN,2013-11-20
+10066,Sheraton,"Kazimiera",Kowalski,1974-10-16,1,152,Krawczyk,"Henryk",1975-10-10,"M",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,6053.375338263264,USD,2008-02-16
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Jopek,"Eustachiusz",1989-10-21,"M",ODDZ_POL_009,Opiekun,Polska,Bieszczady,CITY,6699.146439305851,EUR,2007-06-10
+10061,Plaza,"Renat",Jopek,1992-03-13,1,138,Kiepski,"Reinhold",1976-01-07,"M",ODDZ_POL_008,Glowny opiekun,Polska,Bieszczady,CITY,1727.3109647989759,PLN,2014-01-14
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Jopek,"Klement",1975-07-10,"M",ODDZ_POL_003,Opiekun,Polska,Tatry,CITY,9350.712419999862,USD,2015-08-18
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Jopek,"Burchard",1997-04-28,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,8041.374176517608,EUR,2004-09-22
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Kiepski,"Kaja",1988-10-10,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Akwitania,CITY,1685.3332864379472,PLN,2015-12-11
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Nowak,"Chwalibóg",1982-02-06,"M",ODDZ_HIS_009,Glowny opiekun,Hiszpania,Barcelona,CITY,2022.2239843168734,USD,2006-04-29
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Kowalski,"Benigna",1991-07-08,"K",ODDZ_POL_002,Przewodnik,Polska,Mazury,CITY,7645.636018762189,USD,2015-03-05
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kowalski,"Asteriusz",1984-12-20,"M",ODDZ_HIS_003,Przewodnik,Hiszpania,Barcelona,CITY,8051.8002318213985,PLN,2004-03-05
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Kowalski,"Więcerad",1984-04-05,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,9032.89673789261,PLN,2006-12-29
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Krawczyk,"Alfred",1990-12-17,"M",ODDZ_POL_006,Przewodnik,Polska,Mazury,CITY,8899.144110593228,USD,2007-09-13
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Nowak,"Parys",1980-06-09,"M",ODDZ_HIS_001,Przewodnik,Hiszpania,Madryt,CITY,9576.945461565334,EUR,2002-03-04
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Nowak,"Honorata",1995-04-15,"K",ODDZ_POL_004,Przewodnik,Polska,Bieszczady,CITY,3074.512085751209,USD,2004-07-10
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Kowalski,"Cyntia",1993-04-22,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Akwitania,CITY,4921.103110261112,USD,2010-12-04
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Kiepski,"Olaf",1971-04-06,"M",ODDZ_HIS_001,Przewodnik,Hiszpania,Nawarra,CITY,8205.094784328496,EUR,2004-03-23
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Jopek,"Nelly",1973-10-29,"M",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Nawarra,CITY,2199.5660533246178,USD,2011-10-01
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Nowak,"Łukasz",1984-05-14,"M",ODDZ_POL_008,Przewodnik,Polska,Pomorze,CITY,7267.580006078864,PLN,2000-12-20
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Kowalski,"Talita",1974-07-28,"K",ODDZ_HIS_003,Przewodnik,Hiszpania,Barcelona,CITY,2513.3296795971696,EUR,2002-01-13
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Kowalski,"Szymon",1971-01-21,"M",ODDZ_POL_009,Glowny opiekun,Polska,Mazury,CITY,1814.5719390462887,EUR,2003-01-21
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Kowalski,"Konradyna",1971-01-24,"K",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,8636.076688763678,EUR,2009-07-02
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kowalski,"Berenika",1978-01-28,"K",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Barcelona,CITY,4732.43078605568,PLN,2000-01-03
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Kowalski,"Anzelm",1976-03-23,"M",ODDZ_POL_006,Przewodnik,Polska,Pomorze,CITY,6597.3026907954745,PLN,2000-04-13
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Kowalski,"Szczepan",1996-01-27,"M",ODDZ_POL_008,Przewodnik,Polska,Bieszczady,CITY,2984.5241763075514,USD,2014-05-01
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Jopek,"Przybyczest",1976-07-18,"M",ODDZ_HIS_006,Opiekun,Hiszpania,Madryt,CITY,4778.588643108546,EUR,2000-08-07
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Nowak,"Strzeżywoj",1990-10-31,"M",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,6251.228827266449,EUR,2012-10-27
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Jopek,"Herakliusz",1990-08-14,"M",ODDZ_HIS_008,Opiekun,Hiszpania,Murcja,CITY,7763.4620245551605,USD,2016-03-30
+10047,Sheraton,"Zelmira",Kowalski,1949-12-07,1,175,Jopek,"Grzymisław",1978-02-19,"M",ODDZ_HIS_003,Opiekun,Hiszpania,Barcelona,CITY,9132.315163658393,USD,2013-01-25
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Nowak,"Sonia",1982-05-22,"K",ODDZ_FRA_006,Przewodnik,Francja,Burgundia,CITY,4514.21096859759,EUR,2008-09-30
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Nowak,"Dobroniega",1980-04-25,"K",ODDZ_FRA_005,Przewodnik,Francja,Owernia,CITY,7786.21894306138,USD,2015-05-20
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Kiepski,"Heliasz",1989-10-16,"M",ODDZ_POL_006,Opiekun,Polska,Tatry,CITY,6653.327699287529,USD,2016-03-03
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Krawczyk,"Fabia",1973-03-07,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Barcelona,CITY,2596.3510149350996,PLN,2005-08-07
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Kowalski,"Daria",1983-04-18,"K",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,9232.762903148112,PLN,2005-10-11
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Jopek,"Lechosława",1975-12-04,"K",ODDZ_FRA_006,Opiekun,Francja,Akwitania,CITY,7224.85559783133,EUR,2014-01-14
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Kiepski,"Bożywoj",1980-05-20,"M",ODDZ_FRA_003,Przewodnik,Francja,Owernia,CITY,2030.6691359877668,EUR,2008-06-17
+10096,Mercurial,"Zenon",Kowalski,1983-10-19,5,183,Jopek,"Kazimiera",1998-11-29,"K",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,2424.9636950007252,EUR,2015-02-12
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Nowak,"Romualda",1991-05-08,"K",ODDZ_POL_005,Przewodnik,Polska,Mazury,CITY,7454.60836592842,EUR,2009-05-16
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Nowak,"Radomysł",1979-02-03,"M",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,8914.615688051521,USD,2006-01-29
+10029,Mercurial,"Konstantyn",Nowak,1955-03-13,2,197,Jopek,"Zygfryd",1997-07-24,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,1824.615201930303,PLN,2006-06-26
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Nowak,"Chryzostom",1976-04-19,"M",ODDZ_POL_003,Glowny opiekun,Polska,Mazury,CITY,8347.88314696135,EUR,2014-05-16
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Kowalski,"Gilbert",1974-06-07,"M",ODDZ_FRA_007,Przewodnik,Francja,Akwitania,CITY,6842.0266065690585,USD,2002-07-17
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Kowalski,"Herakles",1992-07-03,"M",ODDZ_FRA_001,Glowny opiekun,Francja,Owernia,CITY,8280.679058547887,USD,2010-11-05
+10029,Mercurial,"Konstantyn",Nowak,1955-03-13,2,197,Kowalski,"Ludwik",1987-09-04,"M",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,5946.005286868619,PLN,2014-08-23
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Nowak,"Horacjusz",1995-08-18,"M",ODDZ_FRA_002,Przewodnik,Francja,Owernia,CITY,6114.426588683593,USD,2006-07-01
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Nowak,"Margot",1997-09-22,"K",ODDZ_POL_002,Glowny opiekun,Polska,Pomorze,CITY,4338.006619050726,PLN,2003-11-08
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Jopek,"Radek",1972-04-15,"M",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,9385.921224105947,EUR,2009-10-07
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Krawczyk,"Dianna",1989-02-02,"K",ODDZ_FRA_004,Przewodnik,Francja,Burgundia,CITY,8105.005381683393,USD,2005-02-27
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Jopek,"Gościsław",1991-02-12,"M",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,8005.842528212677,USD,2008-03-19
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Kiepski,"Anastazy",1989-08-25,"M",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Kantabria,CITY,8632.887957731626,PLN,2010-04-08
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Kowalski,"Kornelia",1971-11-04,"K",ODDZ_FRA_007,Przewodnik,Francja,Burgundia,CITY,2182.6001102805403,EUR,2010-06-15
+10006,Plaza,"Abdiasz",Kiepski,1933-07-28,4,154,Jopek,"Klaudiusz",1972-09-22,"M",ODDZ_POL_005,Glowny opiekun,Polska,Bieszczady,CITY,4972.986536864055,USD,2008-08-06
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Krawczyk,"Roman",1987-08-16,"M",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,4955.9727738285055,PLN,2011-07-01
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Nowak,"Luba",1970-03-03,"K",ODDZ_POL_003,Opiekun,Polska,Pomorze,CITY,5712.7245118289375,PLN,2005-07-05
+10003,Mercurial,"Ruprecht",Krawczyk,1970-01-13,5,175,Nowak,"Dobromiła",1994-11-02,"K",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,2329.1455753880064,USD,2013-05-04
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Kiepski,"Wirginiusz",1975-05-05,"M",ODDZ_FRA_008,Glowny opiekun,Francja,Owernia,CITY,5943.798356157851,EUR,2003-07-10
+10057,Sheraton,"Idzi",Nowak,1983-04-21,1,130,Jopek,"Racibor",1978-06-07,"M",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,6349.694677739428,EUR,2003-10-12
+10060,Plaza,"Racibor",Kiepski,2014-04-05,5,36,Kowalski,"Diana",1985-05-14,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Burgundia,CITY,8954.91731850477,USD,2000-05-23
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Jopek,"Amanda",1971-10-16,"K",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,2161.7036434023544,PLN,2013-01-12
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Kiepski,"Jarogniew",1997-05-15,"M",ODDZ_POL_002,Przewodnik,Polska,Mazury,CITY,1831.01300895637,EUR,2003-01-17
+10046,Sheraton,"Wiaczesław",Nowak,2003-08-31,2,84,Kowalski,"Blanka",1980-01-22,"K",ODDZ_POL_001,Przewodnik,Polska,Tatry,CITY,4405.180017904437,PLN,2016-12-25
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Jopek,"Feliks",1997-03-01,"M",ODDZ_POL_009,Przewodnik,Polska,Pomorze,CITY,8750.873948653973,EUR,2002-12-04
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Jopek,"Cieszymir",1985-11-20,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Kantabria,CITY,2302.6154525244187,USD,2000-07-31
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Jopek,"Delfin",1970-03-08,"M",ODDZ_POL_007,Opiekun,Polska,Bieszczady,CITY,4069.634999688193,PLN,2008-11-15
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Jopek,"Paula",1981-07-19,"K",ODDZ_FRA_001,Opiekun,Francja,Burgundia,CITY,2174.1533822646584,USD,2009-01-02
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Krawczyk,"Bogusław",1998-05-04,"M",ODDZ_FRA_001,Glowny opiekun,Francja,Akwitania,CITY,8685.448501063107,USD,2006-10-31
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Nowak,"Ernest",1997-10-29,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Asturia,CITY,9794.970090209925,EUR,2014-05-23
+10069,Mercurial,"Irena",Krawczyk,1933-12-17,4,158,Kiepski,"Hortensja",1975-01-27,"K",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Asturia,CITY,6918.3976224201815,PLN,2009-09-19
+10027,Mercurial,"Emanuela",Krawczyk,1993-12-31,3,221,Nowak,"Nina",1989-12-11,"K",ODDZ_POL_005,Opiekun,Polska,Mazury,CITY,6008.989091894631,EUR,2008-06-15
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Kiepski,"Przemysława",1987-01-19,"K",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,1813.7034175045778,USD,2006-01-26
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Jopek,"Hermenegild",1998-09-04,"M",ODDZ_HIS_009,Opiekun,Hiszpania,Murcja,CITY,5076.244760887324,PLN,2007-05-21
+10065,Sheraton,"Odo",Jopek,1949-06-12,3,228,Kowalski,"Dziersława",1994-05-03,"K",ODDZ_HIS_009,Opiekun,Hiszpania,Madryt,CITY,7329.143650319021,USD,2014-09-06
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Julita",1970-11-16,"K",ODDZ_POL_001,Przewodnik,Polska,Bieszczady,CITY,2433.110372473196,EUR,2014-10-27
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Nowak,"Wszemił",1992-09-29,"M",ODDZ_FRA_001,Opiekun,Francja,Owernia,CITY,7225.18723651735,EUR,2015-12-16
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Kiepski,"Kalistrat",1976-11-15,"M",ODDZ_POL_003,Glowny opiekun,Polska,Pomorze,CITY,9496.127260374731,PLN,2004-02-04
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Jopek,"Saul",1992-02-22,"M",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Barcelona,CITY,6184.5796667213035,USD,2008-07-17
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Kowalski,"Nadbor",1998-04-11,"M",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Murcja,CITY,3326.5750769474357,PLN,2013-06-16
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Kowalski,"Rudolf",1970-06-06,"M",ODDZ_POL_004,Glowny opiekun,Polska,Tatry,CITY,3353.7433344499077,USD,2008-07-21
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Nowak,"Bernard",1997-08-27,"M",ODDZ_FRA_006,Opiekun,Francja,Owernia,CITY,7770.631803490667,USD,2011-05-23
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Kiepski,"Asteriusz",1980-06-07,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Madryt,CITY,4281.630703019773,PLN,2014-12-11
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Krawczyk,"Anastazja",1991-05-03,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,6742.602255029111,PLN,2013-05-26
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Kiepski,"Aurelian",1993-03-06,"M",ODDZ_POL_009,Glowny opiekun,Polska,Tatry,CITY,7910.117570184228,PLN,2004-03-24
+10096,Mercurial,"Zenon",Kowalski,1983-10-19,5,183,Kowalski,"Świętopełk",1973-11-19,"M",ODDZ_POL_003,Glowny opiekun,Polska,Pomorze,CITY,7978.9626015696185,PLN,2017-04-09
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Krawczyk,"Olech",1970-11-01,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Burgundia,CITY,4543.711745487294,USD,2005-06-10
+10065,Sheraton,"Odo",Jopek,1949-06-12,3,228,Kowalski,"Dagna",1995-06-09,"K",ODDZ_HIS_003,Przewodnik,Hiszpania,Madryt,CITY,8034.002886881781,EUR,2005-04-02
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Nowak,"Iwona",1984-10-18,"K",ODDZ_POL_005,Przewodnik,Polska,Bieszczady,CITY,4033.8665672368825,PLN,2004-03-26
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Krawczyk,"Cezary",1977-12-25,"M",ODDZ_POL_002,Glowny opiekun,Polska,Mazury,CITY,8216.103693668585,USD,2014-01-26
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Krawczyk,"Przemił",1977-05-29,"M",ODDZ_FRA_002,Opiekun,Francja,Burgundia,CITY,5182.950800537964,EUR,2001-01-10
+10006,Plaza,"Abdiasz",Kiepski,1933-07-28,4,154,Nowak,"Dobrosława",1993-03-20,"K",ODDZ_POL_004,Opiekun,Polska,Bieszczady,CITY,8920.227394049198,PLN,2003-03-20
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Krawczyk,"Włościsław",1992-10-13,"M",ODDZ_FRA_006,Przewodnik,Francja,Akwitania,CITY,9986.678593422761,EUR,2001-03-29
+10060,Plaza,"Racibor",Kiepski,2014-04-05,5,36,Nowak,"Jeremi",1978-01-22,"M",ODDZ_FRA_007,Opiekun,Francja,Burgundia,CITY,4039.0738095236015,USD,2013-04-25
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Nowak,"Pelagiusz",1978-01-17,"M",ODDZ_POL_008,Opiekun,Polska,Tatry,CITY,8816.095868749533,EUR,2008-11-26
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Krawczyk,"Miranda",1997-07-23,"K",ODDZ_FRA_007,Glowny opiekun,Francja,Owernia,CITY,8849.675767926059,EUR,2015-10-11
+10085,Sheraton,"Małgorzata",Jopek,1970-02-16,4,113,Nowak,"Luiza",1978-04-10,"K",ODDZ_HIS_006,Opiekun,Hiszpania,Madryt,CITY,6315.601494627383,USD,2007-10-20
+10047,Sheraton,"Zelmira",Kowalski,1949-12-07,1,175,Nowak,"Gościwit",1978-10-02,"M",ODDZ_HIS_007,Opiekun,Hiszpania,Barcelona,CITY,7340.124798856706,EUR,2017-08-19
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Kiepski,"Sulpicjusz",1976-08-20,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,5685.458292124189,USD,2000-04-24
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Nowak,"Bernadetta",1991-02-14,"K",ODDZ_POL_009,Opiekun,Polska,Pomorze,CITY,7538.9028680308,PLN,2009-10-09
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Kowalski,"Delfina",1979-06-29,"K",ODDZ_HIS_001,Opiekun,Hiszpania,Asturia,CITY,2392.9757316598098,USD,2000-02-01
+10047,Sheraton,"Zelmira",Kowalski,1949-12-07,1,175,Krawczyk,"Mieczysława",1976-08-13,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Barcelona,CITY,6904.09861546688,USD,2009-10-22
+10096,Mercurial,"Zenon",Kowalski,1983-10-19,5,183,Kiepski,"Konstancjusz",1993-03-15,"M",ODDZ_POL_001,Glowny opiekun,Polska,Pomorze,CITY,3756.291439424747,PLN,2006-01-01
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Kowalski,"Joachima",1991-10-24,"K",ODDZ_HIS_006,Opiekun,Hiszpania,Barcelona,CITY,9289.929594668462,USD,2011-08-15
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Jopek,"Imisława",1995-08-05,"K",ODDZ_FRA_001,Glowny opiekun,Francja,Owernia,CITY,7500.674185991184,PLN,2005-03-09
+10069,Mercurial,"Irena",Krawczyk,1933-12-17,4,158,Jopek,"Norberta",1975-08-14,"K",ODDZ_HIS_008,Glowny opiekun,Hiszpania,Asturia,CITY,7073.033162635972,PLN,2007-04-26
+10085,Sheraton,"Małgorzata",Jopek,1970-02-16,4,113,Nowak,"Toligniew",1975-03-24,"M",ODDZ_HIS_005,Przewodnik,Hiszpania,Madryt,CITY,4099.250376898089,PLN,2008-05-15
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Kiepski,"Bryda",1982-03-19,"K",ODDZ_HIS_003,Opiekun,Hiszpania,Barcelona,CITY,6027.9783029827,EUR,2013-08-29
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Nowak,"Olaf",1979-02-11,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,7877.176010956163,EUR,2014-10-30
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Jopek,"Metody",1979-03-18,"M",ODDZ_FRA_001,Przewodnik,Francja,Owernia,CITY,5754.866763314701,PLN,2015-12-19
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Nowak,"Konradyn",1997-11-19,"M",ODDZ_FRA_005,Przewodnik,Francja,Burgundia,CITY,8944.652834551041,USD,2015-04-05
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Nowak,"Angel",1977-03-16,"M",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,6836.50552712007,PLN,2003-11-11
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Kiepski,"Wiesława",1997-10-25,"K",ODDZ_POL_006,Opiekun,Polska,Pomorze,CITY,7966.22461340817,EUR,2011-10-14
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Kowalski,"Stojmir",1980-01-21,"M",ODDZ_POL_002,Opiekun,Polska,Bieszczady,CITY,7707.4754166252715,EUR,2014-02-24
+10057,Sheraton,"Idzi",Nowak,1983-04-21,1,130,Kiepski,"Cyntia",1994-07-02,"K",ODDZ_POL_007,Opiekun,Polska,Tatry,CITY,3005.0004452135163,EUR,2015-02-09
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Nowak,"Pakosław",1997-06-10,"M",ODDZ_FRA_005,Przewodnik,Francja,Owernia,CITY,2072.948295334785,PLN,2007-07-27
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Kiepski,"Patrycja",1980-06-29,"K",ODDZ_POL_008,Glowny opiekun,Polska,Mazury,CITY,3543.5770585367704,USD,2002-02-09
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Kiepski,"Manfreda",1971-04-01,"K",ODDZ_HIS_009,Opiekun,Hiszpania,Asturia,CITY,3778.2673913867866,USD,2017-03-20
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Krawczyk,"Gilbert",1975-10-30,"M",ODDZ_HIS_002,Przewodnik,Hiszpania,Madryt,CITY,7747.908450716263,PLN,2013-09-20
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Kowalski,"Lucja",1991-09-25,"K",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,9515.226137773894,PLN,2016-09-06
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Kowalski,"Wiola",1996-02-15,"K",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Asturia,CITY,9177.075499373683,USD,2007-09-04
+10042,Mercurial,"Jarogniew",Kowalski,1930-04-14,5,155,Nowak,"Remigiusz",1995-02-11,"M",ODDZ_POL_008,Przewodnik,Polska,Mazury,CITY,8940.488943865104,USD,2012-10-05
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Kowalski,"Saba",1995-11-11,"K",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,2021.9397262279622,USD,2011-07-07
+10073,Plaza,"Toligniew",Jopek,2002-04-29,5,218,Kiepski,"Aleksandra",1989-02-24,"K",ODDZ_FRA_006,Przewodnik,Francja,Burgundia,CITY,6535.5971960496345,EUR,2003-04-14
+10096,Mercurial,"Zenon",Kowalski,1983-10-19,5,183,Kiepski,"Aspazja",1987-01-30,"K",ODDZ_POL_007,Opiekun,Polska,Pomorze,CITY,6677.320775250106,PLN,2017-04-07
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Kowalski,"Lucjola",1995-01-16,"K",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,5170.97590122271,PLN,2013-10-11
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Krawczyk,"Cibor",1975-03-23,"M",ODDZ_HIS_005,Przewodnik,Hiszpania,Madryt,CITY,6634.681765381233,EUR,2011-02-05
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Krawczyk,"Zacheusz",1976-03-26,"M",ODDZ_POL_008,Opiekun,Polska,Tatry,CITY,3124.372094273209,EUR,2016-01-17
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Nowak,"Bolemysł",1987-06-05,"M",ODDZ_POL_003,Opiekun,Polska,Bieszczady,CITY,5619.051893941076,EUR,2014-01-11
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Kowalski,"Biernat",1995-12-31,"M",ODDZ_HIS_005,Opiekun,Hiszpania,Kantabria,CITY,6422.155892017576,USD,2014-07-12
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Krawczyk,"Kinga",1988-06-02,"K",ODDZ_POL_007,Opiekun,Polska,Mazury,CITY,2664.666157264487,USD,2000-08-13
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Jopek,"Rupert",1992-12-28,"M",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,7994.579859579101,EUR,2017-01-20
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Jopek,"Eugeniusz",1992-12-21,"M",ODDZ_POL_008,Glowny opiekun,Polska,Mazury,CITY,1964.756808986626,USD,2003-10-06
+10080,Plaza,"Irydion",Kowalski,1989-10-29,2,198,Jopek,"Mira",1978-08-25,"K",ODDZ_HIS_004,Przewodnik,Hiszpania,Barcelona,CITY,7691.646572869009,PLN,2013-02-04
+10027,Mercurial,"Emanuela",Krawczyk,1993-12-31,3,221,Kowalski,"Otton",1996-12-10,"M",ODDZ_POL_004,Opiekun,Polska,Mazury,CITY,8688.315132914206,PLN,2014-04-10
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Nowak,"Więcemił",1987-04-29,"M",ODDZ_FRA_003,Przewodnik,Francja,Akwitania,CITY,7015.598194162271,PLN,2004-02-04
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Kowalski,"Fausta",1982-08-04,"K",ODDZ_POL_006,Przewodnik,Polska,Bieszczady,CITY,9846.542821174078,USD,2010-03-28
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Kowalski,"Iwona",1975-05-13,"K",ODDZ_POL_004,Przewodnik,Polska,Bieszczady,CITY,3077.127040826528,PLN,2002-12-13
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Dobiemir",1979-03-06,"M",ODDZ_FRA_001,Opiekun,Francja,Burgundia,CITY,4253.943594745126,PLN,2005-06-13
+10069,Mercurial,"Irena",Krawczyk,1933-12-17,4,158,Krawczyk,"Kurt",1984-03-05,"M",ODDZ_HIS_002,Przewodnik,Hiszpania,Asturia,CITY,6730.801414407781,EUR,2012-05-06
+10047,Sheraton,"Zelmira",Kowalski,1949-12-07,1,175,Kiepski,"Ismena",1973-03-08,"K",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Barcelona,CITY,1669.914276226997,USD,2009-11-04
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Krawczyk,"Grzegorz",1976-09-16,"M",ODDZ_POL_009,Opiekun,Polska,Bieszczady,CITY,3831.7826807846363,USD,2012-04-25
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Krawczyk,"Asenat",1979-01-15,"M",ODDZ_FRA_005,Glowny opiekun,Francja,Owernia,CITY,4365.41601362334,PLN,2013-11-14
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Krawczyk,"Łękomir",1975-06-20,"M",ODDZ_HIS_006,Przewodnik,Hiszpania,Kantabria,CITY,6784.007159917839,EUR,2011-04-09
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Nowak,"Danisz",1995-08-26,"M",ODDZ_POL_008,Przewodnik,Polska,Tatry,CITY,3092.4539983256145,EUR,2008-12-31
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Kiepski,"Adaukt",1996-09-17,"M",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,8726.274466281273,PLN,2000-11-05
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Kiepski,"Paramon",1993-04-19,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Asturia,CITY,8338.542801164098,USD,2010-09-12
+10009,Plaza,"Wielisława",Nowak,1997-08-20,4,72,Jopek,"Maksymilian",1970-03-10,"M",ODDZ_FRA_001,Opiekun,Francja,Owernia,CITY,6618.585960250791,PLN,2005-02-09
+10015,Plaza,"Miromir",Krawczyk,1993-04-02,1,192,Jopek,"Angelina",1981-12-02,"K",ODDZ_POL_005,Przewodnik,Polska,Mazury,CITY,6219.562977132505,USD,2002-08-25
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Nowak,"Miłowit",1974-05-16,"M",ODDZ_POL_004,Opiekun,Polska,Tatry,CITY,7063.479209040412,USD,2013-06-11
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kiepski,"Edmunda",1970-06-20,"K",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Nawarra,CITY,4135.1347387537135,EUR,2001-12-13
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Kowalski,"Sędzisława",1986-02-17,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,2763.069039757987,EUR,2014-08-27
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Kowalski,"Paulina",1988-08-01,"K",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,8206.205172034439,USD,2006-05-19
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Kowalski,"Dagobert",1987-03-16,"M",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,4407.042968304439,PLN,2006-11-10
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Krawczyk,"Trzebisława",1975-06-29,"K",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Barcelona,CITY,7503.9723254654855,PLN,2004-12-17
+10060,Plaza,"Racibor",Kiepski,2014-04-05,5,36,Nowak,"Wirginiusz",1981-03-29,"M",ODDZ_FRA_007,Przewodnik,Francja,Burgundia,CITY,9417.532493937986,EUR,2011-01-05
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Nowak,"Oktawian",1993-11-14,"M",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,3946.2449049116904,PLN,2002-09-06
+10058,Plaza,"Dobrowiest",Jopek,1948-07-19,1,183,Nowak,"Agatonik",1975-01-18,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Burgundia,CITY,3243.7857427205017,USD,2001-02-08
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Kiepski,"Jurata",1976-03-09,"K",ODDZ_POL_006,Przewodnik,Polska,Mazury,CITY,5888.331733606188,USD,2010-09-21
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Kowalski,"Aniela",1985-01-03,"K",ODDZ_HIS_008,Przewodnik,Hiszpania,Asturia,CITY,9132.078713066165,EUR,2008-04-14
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Jopek,"Edmunda",1971-08-07,"K",ODDZ_POL_004,Przewodnik,Polska,Pomorze,CITY,6557.214400297457,USD,2000-02-21
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Jopek,"Pryscylla",1972-03-09,"K",ODDZ_POL_004,Glowny opiekun,Polska,Bieszczady,CITY,8388.351546117421,USD,2016-10-26
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Nowak,"Boguchwała",1970-04-26,"K",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,1921.232226010723,USD,2008-11-10
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Nowak,"Dalegor",1980-12-02,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,1603.363391738325,PLN,2003-09-27
+10043,Plaza,"Benedykt",Kowalski,2000-02-22,5,216,Jopek,"Włościsława",1980-10-01,"K",ODDZ_POL_008,Przewodnik,Polska,Bieszczady,CITY,2066.9248136006627,USD,2008-01-19
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Krawczyk,"Sylwery",1975-10-06,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Asturia,CITY,1905.9551580625478,PLN,2013-07-13
+10037,Sheraton,"Cieszymir",Nowak,1934-10-01,2,147,Kiepski,"Lutosław",1992-10-20,"M",ODDZ_FRA_002,Przewodnik,Francja,Burgundia,CITY,6720.1812899681845,USD,2003-06-24
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Kowalski,"Konradyn",1998-09-04,"M",ODDZ_POL_006,Opiekun,Polska,Mazury,CITY,2273.389606548987,EUR,2008-05-28
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Jopek,"Gabin",1985-02-07,"M",ODDZ_HIS_003,Opiekun,Hiszpania,Kantabria,CITY,9136.112773225934,PLN,2005-09-05
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Nowak,"Sambor",1983-07-11,"M",ODDZ_FRA_001,Opiekun,Francja,Burgundia,CITY,7132.8212879083785,USD,2010-11-24
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Jopek,"Świętobor",1978-08-15,"M",ODDZ_FRA_003,Przewodnik,Francja,Burgundia,CITY,6159.930817532434,USD,2008-09-18
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Kowalski,"Kasper",1997-04-21,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Asturia,CITY,2972.4420113943843,PLN,2005-03-08
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Narcyza",1984-12-18,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Burgundia,CITY,9577.805452111465,USD,2008-11-19
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Odo",1988-08-08,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Burgundia,CITY,4859.505210543279,USD,2007-05-02
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Krawczyk,"January",1974-03-16,"M",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,4478.148989350206,PLN,2016-08-17
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Nowak,"Jan Nepomucen",1984-09-12,"M",ODDZ_POL_001,Opiekun,Polska,Tatry,CITY,2020.2792470612526,EUR,2006-02-12
+10075,Mercurial,"Ksaweryna",Nowak,1959-08-14,5,154,Kowalski,"Angelina",1978-11-02,"K",ODDZ_POL_004,Przewodnik,Polska,Mazury,CITY,5118.445570010877,PLN,2015-07-22
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Jopek,"Job",1998-06-23,"M",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,5649.666312943211,USD,2016-07-12
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Kowalski,"Ruben",1996-06-23,"M",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,6441.590925073676,EUR,2015-12-12
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Nowak,"Frydolin",1970-08-16,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Akwitania,CITY,6570.789788732186,USD,2000-12-06
+10015,Plaza,"Miromir",Krawczyk,1993-04-02,1,192,Jopek,"Lea",1977-02-22,"K",ODDZ_POL_007,Glowny opiekun,Polska,Mazury,CITY,6978.418356855079,PLN,2002-08-17
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Nowak,"Lubomira",1991-12-25,"K",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,3937.8807981067844,PLN,2016-10-13
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Krawczyk,"Sędzisława",1977-07-27,"K",ODDZ_POL_004,Glowny opiekun,Polska,Tatry,CITY,9407.975147332552,EUR,2010-11-07
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Kowalski,"Lea",1977-10-21,"K",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,4749.66694066247,PLN,2003-04-23
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Jopek,"Ambroży",1975-07-01,"M",ODDZ_POL_005,Glowny opiekun,Polska,Bieszczady,CITY,5375.857886073637,USD,2008-05-11
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Kiepski,"Karp",1993-06-09,"M",ODDZ_FRA_005,Opiekun,Francja,Burgundia,CITY,3813.649879518846,EUR,2002-10-16
+10017,Mercurial,"Angel",Jopek,1980-04-01,4,132,Jopek,"Beatryks",1992-03-05,"M",ODDZ_FRA_001,Opiekun,Francja,Akwitania,CITY,2350.965234798177,USD,2013-09-01
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Krawczyk,"Przybysław",1971-05-30,"M",ODDZ_POL_001,Glowny opiekun,Polska,Tatry,CITY,8030.662773976487,EUR,2012-03-06
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Jopek,"Przemysł",1980-04-09,"M",ODDZ_POL_003,Glowny opiekun,Polska,Tatry,CITY,3654.5731196036168,USD,2009-07-30
+10055,Plaza,"Grzymisław",Jopek,1991-05-12,4,72,Nowak,"Saturnin",1973-10-27,"M",ODDZ_FRA_006,Przewodnik,Francja,Burgundia,CITY,5379.242009053505,PLN,2010-06-07
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Nowak,"Miłosława",1974-10-03,"K",ODDZ_HIS_004,Glowny opiekun,Hiszpania,Murcja,CITY,6477.925922302816,EUR,2007-02-28
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Kowalski,"Karolin",1971-06-26,"M",ODDZ_HIS_003,Przewodnik,Hiszpania,Kantabria,CITY,5476.948880220265,EUR,2004-12-18
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kiepski,"Bratumiła",1973-01-02,"K",ODDZ_HIS_008,Przewodnik,Hiszpania,Barcelona,CITY,4930.327640813877,USD,2006-05-02
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Kiepski,"Otylia",1995-08-27,"K",ODDZ_HIS_006,Opiekun,Hiszpania,Barcelona,CITY,6257.058261243348,PLN,2016-11-10
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Kowalski,"Wanda",1985-06-16,"K",ODDZ_FRA_004,Glowny opiekun,Francja,Burgundia,CITY,8775.59127126708,EUR,2009-08-09
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Krawczyk,"Jarema",1990-05-25,"K",ODDZ_HIS_005,Przewodnik,Hiszpania,Murcja,CITY,7164.913547456412,EUR,2001-06-25
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Jopek,"Gościsław",1978-09-13,"M",ODDZ_POL_008,Opiekun,Polska,Bieszczady,CITY,6794.294545339113,USD,2000-03-07
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Nowak,"Nadia",1997-02-04,"K",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,2973.489933363928,PLN,2012-08-05
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Jopek,"Sławobor",1987-10-24,"M",ODDZ_POL_006,Opiekun,Polska,Bieszczady,CITY,6879.975559352832,USD,2002-03-08
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Krawczyk,"Miłowan",1982-12-29,"M",ODDZ_POL_009,Glowny opiekun,Polska,Bieszczady,CITY,4336.211801212305,USD,2013-03-15
+10069,Mercurial,"Irena",Krawczyk,1933-12-17,4,158,Kowalski,"Świętosława",1977-08-14,"K",ODDZ_HIS_004,Opiekun,Hiszpania,Asturia,CITY,9787.636634276412,PLN,2004-06-13
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Nowak,"Jacek",1980-11-09,"M",ODDZ_HIS_001,Przewodnik,Hiszpania,Kantabria,CITY,5152.0119884299875,EUR,2001-09-05
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Krawczyk,"Tamara",1987-05-13,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Kantabria,CITY,6562.38432455388,PLN,2010-12-08
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Krawczyk,"Wisław",1983-04-05,"M",ODDZ_POL_006,Opiekun,Polska,Tatry,CITY,6730.610860530568,USD,2012-10-21
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Kiepski,"Angelina",1992-09-04,"K",ODDZ_POL_004,Opiekun,Polska,Pomorze,CITY,6354.745186457617,USD,2015-05-24
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Kiepski,"Oktawian",1986-01-31,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Barcelona,CITY,3361.1313482643154,USD,2001-08-04
+10098,Sheraton,"Dagna",Nowak,1993-07-23,5,137,Kiepski,"Milenia",1997-02-23,"K",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,4173.090608919895,USD,2008-03-28
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Kiepski,"Małgorzata",1977-01-20,"K",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Nawarra,CITY,5295.931818072675,EUR,2003-04-16
+10004,Sheraton,"Patrycja",Jopek,1952-02-04,3,216,Kowalski,"Zefir",1993-03-13,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Madryt,CITY,3289.5493021545344,PLN,2017-08-21
+10007,Sheraton,"Zenobiusz",Jopek,1954-09-13,4,81,Jopek,"Atanazja",1979-06-09,"K",ODDZ_HIS_003,Opiekun,Hiszpania,Nawarra,CITY,6247.196740126402,EUR,2004-05-13
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Kiepski,"Dymitriusz",1997-11-07,"M",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,1502.6482847704385,PLN,2015-10-28
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Kowalski,"Andromeda",1984-01-19,"K",ODDZ_POL_006,Glowny opiekun,Polska,Pomorze,CITY,7430.613844487881,EUR,2011-10-21
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Kiepski,"Marika",1986-07-26,"K",ODDZ_POL_007,Glowny opiekun,Polska,Mazury,CITY,3646.9909487899713,EUR,2003-12-01
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Nowak,"Floryn",1991-09-01,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,3013.8056077797946,EUR,2010-04-10
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Kowalski,"Dionizjusz",1972-02-17,"M",ODDZ_HIS_001,Glowny opiekun,Hiszpania,Barcelona,CITY,1846.000358078977,EUR,2012-08-31
+10099,Sheraton,"Bożywoj",Jopek,1967-08-25,2,186,Jopek,"Euzebia",1982-08-08,"K",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,4328.891390423449,EUR,2015-08-09
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Nowak,"Beda",1988-12-29,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Akwitania,CITY,4322.9008851874405,PLN,2016-04-13
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Jopek,"Liberata",1994-06-24,"K",ODDZ_HIS_008,Przewodnik,Hiszpania,Asturia,CITY,3298.156183551634,PLN,2002-04-08
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Nowak,"Liboriusz",1998-02-01,"M",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,3109.655915858423,PLN,2014-06-01
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Kiepski,"Dina",1984-04-29,"K",ODDZ_FRA_003,Opiekun,Francja,Owernia,CITY,7938.430913319598,EUR,2003-11-03
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Jopek,"Gościmir",1991-07-30,"M",ODDZ_FRA_006,Przewodnik,Francja,Burgundia,CITY,9816.138704825462,USD,2010-05-05
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Kowalski,"Cyntia",1977-07-30,"K",ODDZ_HIS_001,Glowny opiekun,Hiszpania,Kantabria,CITY,9580.678018401723,USD,2010-01-05
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kowalski,"Wilhelm",1971-10-16,"M",ODDZ_HIS_007,Przewodnik,Hiszpania,Nawarra,CITY,8759.794133781794,EUR,2008-01-19
+10081,Mercurial,"Trzebowit",Kiepski,1988-08-25,2,36,Krawczyk,"Sobiesąd",1975-10-06,"M",ODDZ_HIS_004,Opiekun,Hiszpania,Kantabria,CITY,2109.237530646706,USD,2006-08-04
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Jopek,"Wierzchosława",1986-07-15,"K",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Barcelona,CITY,4694.73323687164,PLN,2013-10-17
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Kowalski,"Machabeusz",1996-12-01,"M",ODDZ_POL_008,Glowny opiekun,Polska,Tatry,CITY,5760.505635136182,EUR,2004-09-14
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Nowak,"Wisława",1998-09-12,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,8237.707809002826,EUR,2004-11-25
+10021,Sheraton,"Pius",Jopek,1956-11-25,2,203,Kowalski,"Nina",1991-02-21,"K",ODDZ_POL_007,Glowny opiekun,Polska,Pomorze,CITY,9440.429698354688,PLN,2000-09-26
+10092,Sheraton,"Szczęsna",Kiepski,1998-10-20,4,114,Kowalski,"Sobiesąd",1974-12-10,"M",ODDZ_POL_002,Opiekun,Polska,Bieszczady,CITY,8810.974129485186,EUR,2007-09-03
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Krawczyk,"Ksenofont",1973-12-12,"M",ODDZ_FRA_005,Przewodnik,Francja,Owernia,CITY,7870.080617732881,EUR,2005-07-12
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Kiepski,"Kwiryn",1987-08-19,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,3782.906298870825,EUR,2010-09-10
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Kowalski,"Morzysław",1975-09-23,"M",ODDZ_POL_009,Przewodnik,Polska,Mazury,CITY,3479.7729897204417,PLN,2001-03-25
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Kiepski,"Szczęsna",1998-04-07,"K",ODDZ_POL_008,Glowny opiekun,Polska,Pomorze,CITY,6205.485448445272,PLN,2006-05-07
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Kowalski,"Dobrowit",1994-12-05,"M",ODDZ_FRA_002,Opiekun,Francja,Burgundia,CITY,2662.001437295182,PLN,2009-08-29
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Krawczyk,"Niecisław",1992-11-02,"M",ODDZ_HIS_005,Glowny opiekun,Hiszpania,Nawarra,CITY,5981.565027360365,USD,2000-06-19
+10005,Mercurial,"Romuald",Jopek,1962-07-31,2,170,Krawczyk,"Marika",1976-11-16,"K",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Asturia,CITY,3402.8728271072077,EUR,2008-07-03
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kowalski,"Adriana",1996-07-06,"K",ODDZ_HIS_009,Opiekun,Hiszpania,Nawarra,CITY,7809.705682853481,EUR,2009-10-27
+10027,Mercurial,"Emanuela",Krawczyk,1993-12-31,3,221,Kiepski,"Dobiemiest",1978-01-11,"M",ODDZ_POL_005,Opiekun,Polska,Mazury,CITY,5660.692941674536,USD,2008-08-20
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Kiepski,"Spycigniew",1992-05-21,"M",ODDZ_POL_005,Opiekun,Polska,Bieszczady,CITY,9768.7864003262,EUR,2008-04-19
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Krawczyk,"Franciszka",1974-04-25,"K",ODDZ_POL_008,Opiekun,Polska,Mazury,CITY,2648.4097819082353,PLN,2011-11-02
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Nowak,"Radzim",1974-06-20,"M",ODDZ_POL_006,Opiekun,Polska,Tatry,CITY,5738.498021757562,USD,2010-04-17
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Krawczyk,"Sieciesława",1972-03-03,"K",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,4844.029111273969,USD,2013-04-12
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Kowalski,"Ruta",1972-01-07,"K",ODDZ_POL_007,Opiekun,Polska,Bieszczady,CITY,5955.786118216846,USD,2015-03-30
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Kowalski,"Maurycy",1979-02-10,"M",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,7996.900086413328,USD,2012-09-23
+10034,Mercurial,"Sewer",Kowalski,1941-11-27,4,193,Kowalski,"Ostap",1981-07-02,"M",ODDZ_POL_006,Glowny opiekun,Polska,Mazury,CITY,6713.4820010439835,EUR,2003-12-27
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Jopek,"Epifani",1970-08-11,"M",ODDZ_FRA_001,Przewodnik,Francja,Burgundia,CITY,8136.544899383945,PLN,2001-08-19
+10088,Sheraton,"JÃ³zefat",Kowalski,1971-05-23,3,227,Nowak,"Jozafat",1980-10-01,"M",ODDZ_HIS_007,Opiekun,Hiszpania,Madryt,CITY,1968.3504325337897,EUR,2000-10-29
+10084,Mercurial,"Trzebisław",Nowak,1953-12-15,1,77,Jopek,"Adolfa",1996-05-13,"K",ODDZ_HIS_005,Przewodnik,Hiszpania,Asturia,CITY,8719.021852128655,EUR,2000-05-07
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Jopek,"Dziersław",1970-09-03,"M",ODDZ_HIS_003,Opiekun,Hiszpania,Barcelona,CITY,1633.5767002373443,PLN,2004-01-25
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Jopek,"Irma",1994-09-03,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,8189.347840037597,EUR,2007-01-02
+10061,Plaza,"Renat",Jopek,1992-03-13,1,138,Kowalski,"Wyszemir",1978-07-22,"M",ODDZ_POL_007,Opiekun,Polska,Bieszczady,CITY,6945.583778354631,PLN,2004-01-24
+10072,Mercurial,"Remigiusz",Krawczyk,1949-01-04,3,72,Jopek,"Ubald",1980-07-23,"M",ODDZ_HIS_009,Opiekun,Hiszpania,Murcja,CITY,1975.9986607650096,USD,2010-03-10
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Kowalski,"Bogna",1983-07-26,"K",ODDZ_FRA_005,Opiekun,Francja,Burgundia,CITY,2213.7725231990403,EUR,2001-12-12
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Marcjanna",1991-07-21,"K",ODDZ_FRA_005,Glowny opiekun,Francja,Burgundia,CITY,9077.569282334556,EUR,2016-07-06
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kowalski,"Jakub",1998-01-02,"M",ODDZ_HIS_001,Opiekun,Hiszpania,Barcelona,CITY,8445.696192215592,USD,2003-07-10
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Kiepski,"Trzebisława",1975-07-18,"K",ODDZ_FRA_001,Opiekun,Francja,Burgundia,CITY,3350.823800377235,PLN,2004-05-09
+10090,Sheraton,"Uniedrog",Nowak,2015-08-26,4,225,Nowak,"Afrodyta",1993-05-26,"K",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,2582.5161645172984,EUR,2001-05-29
+10097,Plaza,"Julita",Kiepski,1954-11-08,5,218,Kowalski,"Zygmunt",1998-10-25,"M",ODDZ_POL_008,Opiekun,Polska,Pomorze,CITY,6783.349999521279,EUR,2016-08-25
+10060,Plaza,"Racibor",Kiepski,2014-04-05,5,36,Kowalski,"Kornel",1985-10-24,"M",ODDZ_FRA_004,Opiekun,Francja,Burgundia,CITY,4671.093414364206,EUR,2010-07-03
+10068,Plaza,"Gallina",Krawczyk,1968-06-03,2,154,Kowalski,"Epifani",1977-12-25,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,6529.217407524632,EUR,2010-10-09
+10000,Sheraton,"Abdiasz",Jopek,2009-11-22,3,118,Krawczyk,"Melania",1971-09-19,"K",ODDZ_POL_007,Glowny opiekun,Polska,Pomorze,CITY,8448.353715506317,USD,2017-04-19
+10039,Plaza,"Bohdan",Krawczyk,2005-03-19,1,178,Kowalski,"Ziemowit",1984-09-27,"M",ODDZ_POL_009,Glowny opiekun,Polska,Mazury,CITY,6966.2303796833185,USD,2016-12-10
+10026,Mercurial,"Donat",Kiepski,1944-07-12,2,110,Jopek,"Loda",1989-03-17,"K",ODDZ_HIS_005,Opiekun,Hiszpania,Asturia,CITY,7758.505337121386,USD,2002-05-16
+10010,Plaza,"Bożysława",Kiepski,1980-10-24,4,192,Krawczyk,"Ludmiła",1997-07-05,"K",ODDZ_POL_008,Glowny opiekun,Polska,Tatry,CITY,6288.52685285424,EUR,2013-10-16
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Kowalski,"Witosława",1997-02-08,"K",ODDZ_HIS_005,Opiekun,Hiszpania,Madryt,CITY,3690.823756486635,EUR,2010-08-23
+10036,Sheraton,"Mieczysław",Jopek,1937-03-15,2,168,Kiepski,"Salome",1987-04-01,"K",ODDZ_POL_001,Opiekun,Polska,Bieszczady,CITY,2064.1649734599823,USD,2013-08-06
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Jopek,"Doris",1993-06-01,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Kantabria,CITY,6378.107314621345,EUR,2001-11-10
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Jopek,"Sulpicjusz",1988-01-27,"M",ODDZ_POL_001,Glowny opiekun,Polska,Bieszczady,CITY,9908.955671060306,PLN,2004-07-24
+10054,Plaza,"Waleria",Krawczyk,1994-04-21,2,194,Nowak,"Zbygniew",1997-07-02,"M",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Kantabria,CITY,6821.340377364672,EUR,2001-04-15
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Kiepski,"Dianna",1992-10-10,"K",ODDZ_FRA_004,Opiekun,Francja,Owernia,CITY,5109.260513751147,USD,2010-05-21
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Kiepski,"Zdzimir",1970-05-27,"M",ODDZ_FRA_002,Opiekun,Francja,Owernia,CITY,2792.342618349584,EUR,2010-12-23
+10064,Sheraton,"Sylwester",Jopek,1951-01-25,5,42,Jopek,"Broniwoj",1975-02-16,"M",ODDZ_HIS_008,Przewodnik,Hiszpania,Barcelona,CITY,5585.132860377305,PLN,2001-01-17
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Nowak,"Miła",1982-08-12,"K",ODDZ_HIS_001,Przewodnik,Hiszpania,Nawarra,CITY,1813.289638407795,EUR,2000-11-06
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Kowalski,"Mirosław",1992-10-31,"M",ODDZ_HIS_002,Opiekun,Hiszpania,Barcelona,CITY,9373.930324520905,PLN,2017-01-31
+10079,Mercurial,"Paweł",Jopek,1981-10-02,1,176,Kowalski,"Dajana",1983-10-30,"K",ODDZ_HIS_003,Przewodnik,Hiszpania,Nawarra,CITY,4964.154553654233,PLN,2000-04-23
+10059,Mercurial,"Radociech",Kowalski,1967-05-21,4,82,Kowalski,"Angelina",1982-09-24,"K",ODDZ_POL_006,Opiekun,Polska,Pomorze,CITY,1698.4540598706906,EUR,2013-06-01
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Nowak,"Jazon",1981-09-17,"M",ODDZ_POL_002,Glowny opiekun,Polska,Tatry,CITY,3917.5629766082825,EUR,2003-01-02
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Kowalski,"Roberta",1986-09-28,"K",ODDZ_POL_003,Glowny opiekun,Polska,Tatry,CITY,2233.7274558243043,EUR,2005-10-08
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Kowalski,"Hipolita",1990-02-15,"K",ODDZ_POL_007,Przewodnik,Polska,Mazury,CITY,9953.919430220452,EUR,2008-03-19
+10069,Mercurial,"Irena",Krawczyk,1933-12-17,4,158,Kiepski,"Iwon",1971-07-09,"M",ODDZ_HIS_005,Przewodnik,Hiszpania,Asturia,CITY,1789.266686827959,PLN,2009-11-28
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Kowalski,"Abel",1979-08-26,"M",ODDZ_POL_002,Opiekun,Polska,Tatry,CITY,5173.561932467712,EUR,2016-11-21
+10074,Plaza,"Wincentyna",Kiepski,2009-02-07,1,121,Krawczyk,"Bartolomea",1971-04-21,"K",ODDZ_HIS_007,Przewodnik,Hiszpania,Barcelona,CITY,6423.4161385023,PLN,2004-12-28
+10087,Sheraton,"Ulryka",Nowak,2012-05-21,5,224,Kiepski,"Sergiusz",1977-04-02,"M",ODDZ_POL_005,Glowny opiekun,Polska,Tatry,CITY,3782.0167937609594,USD,2005-04-27
+10086,Sheraton,"Marietta",Krawczyk,1941-12-30,5,165,Nowak,"Gotfryd",1990-09-17,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,7248.532367336626,EUR,2009-03-13
+10035,Sheraton,"Albert",Nowak,2014-04-13,4,216,Kiepski,"Doris",1978-03-02,"M",ODDZ_POL_009,Glowny opiekun,Polska,Tatry,CITY,4884.514321823819,PLN,2005-02-23
+10057,Sheraton,"Idzi",Nowak,1983-04-21,1,130,Krawczyk,"Jan Chryzostom",1972-12-31,"M",ODDZ_POL_006,Glowny opiekun,Polska,Tatry,CITY,7167.10072433036,EUR,2014-11-10
+10091,Sheraton,"Abel",Krawczyk,1991-01-08,4,129,Nowak,"Jagoda",1983-05-09,"K",ODDZ_POL_009,Przewodnik,Polska,Tatry,CITY,7576.678980893723,USD,2011-07-15
+10076,Mercurial,"Lucyna",Nowak,1989-12-27,1,200,Nowak,"Gerald",1983-10-09,"M",ODDZ_FRA_006,Opiekun,Francja,Owernia,CITY,4279.982632404454,USD,2017-02-25
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Kiepski,"Borzymir",1998-09-25,"M",ODDZ_POL_006,Przewodnik,Polska,Tatry,CITY,9777.151190202196,USD,2001-03-25
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Krawczyk,"Krzesisława",1987-08-16,"K",ODDZ_POL_009,Opiekun,Polska,Mazury,CITY,4622.757672149,PLN,2006-09-28
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Nowak,"Aurelia",1978-11-22,"K",ODDZ_POL_002,Glowny opiekun,Polska,Tatry,CITY,5964.543795858626,EUR,2017-05-15
+10093,Sheraton,"Efrem",Krawczyk,1955-02-08,4,208,Jopek,"Wierzchosław",1988-02-01,"M",ODDZ_POL_002,Opiekun,Polska,Tatry,CITY,9009.694162501724,USD,2012-12-21
+10019,Plaza,"Leonarda",Nowak,1972-09-03,5,164,Kiepski,"Dobiegniew",1993-08-16,"M",ODDZ_POL_004,Przewodnik,Polska,Bieszczady,CITY,7407.731871235302,EUR,2000-08-13
+10030,Plaza,"Placydia",Kiepski,1960-01-30,5,176,Nowak,"Przybyczest",1977-09-20,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Burgundia,CITY,8784.102119701334,USD,2012-05-17
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Krawczyk,"Bolemysł",1973-12-17,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,8634.851501024745,EUR,2012-08-25
+10022,Plaza,"Bartosz",Nowak,1998-05-16,1,89,Jopek,"Siestrzemił",1987-02-02,"M",ODDZ_HIS_006,Glowny opiekun,Hiszpania,Barcelona,CITY,6668.390671462556,PLN,2002-04-17
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Krawczyk,"Kazimierz",1977-07-02,"M",ODDZ_POL_006,Opiekun,Polska,Bieszczady,CITY,5268.652043604478,PLN,2010-03-08
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Kiepski,"Brygida",1978-01-26,"K",ODDZ_FRA_007,Opiekun,Francja,Owernia,CITY,9601.186203046342,EUR,2011-11-24
+10024,Sheraton,"Dobrogost",Nowak,1988-10-25,5,152,Kiepski,"Tomasz",1974-10-18,"M",ODDZ_HIS_004,Przewodnik,Hiszpania,Nawarra,CITY,1688.9126964822333,PLN,2010-09-18
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Kiepski,"Dobromierz",1987-11-06,"M",ODDZ_HIS_006,Opiekun,Hiszpania,Barcelona,CITY,7859.5816734530545,PLN,2014-11-06
+10070,Plaza,"Ludwina",Kiepski,1938-10-06,5,108,Krawczyk,"Rajnold",1983-04-09,"M",ODDZ_POL_004,Przewodnik,Polska,Mazury,CITY,9491.9491485768,USD,2008-07-26
+10056,Plaza,"Korneli",Kowalski,1995-09-13,5,156,Nowak,"Laurentyna",1982-05-28,"K",ODDZ_FRA_003,Glowny opiekun,Francja,Akwitania,CITY,4002.833686801555,USD,2001-06-10
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Nowak,"Lamberta",1998-05-31,"K",ODDZ_FRA_009,Przewodnik,Francja,Owernia,CITY,3520.800567028896,PLN,2011-11-23
+10078,Plaza,"Waleriana",Kiepski,1986-05-16,1,81,Jopek,"Odil",1982-07-21,"M",ODDZ_POL_002,Glowny opiekun,Polska,Bieszczady,CITY,5948.182984480436,USD,2009-01-30
+10046,Sheraton,"Wiaczesław",Nowak,2003-08-31,2,84,Nowak,"Emiliusz",1992-10-28,"M",ODDZ_POL_005,Opiekun,Polska,Tatry,CITY,6214.350368040956,USD,2011-10-07
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Kiepski,"Radosław",1992-04-14,"M",ODDZ_FRA_006,Przewodnik,Francja,Owernia,CITY,4639.508713630787,USD,2015-05-18
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Kiepski,"Ulryk",1983-04-19,"M",ODDZ_FRA_005,Przewodnik,Francja,Owernia,CITY,9050.763947759217,EUR,2005-09-06
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Kiepski,"Blanka",1973-12-08,"K",ODDZ_POL_009,Opiekun,Polska,Tatry,CITY,2026.0720944231043,EUR,2012-06-08
+10067,Sheraton,"Samuel",Kowalski,1975-07-07,1,212,Nowak,"Bożysław",1983-04-30,"M",ODDZ_POL_005,Opiekun,Polska,Mazury,CITY,1859.9096700222026,USD,2011-12-14
+10095,Mercurial,"Arletta",Krawczyk,1976-08-28,3,203,Kiepski,"Teresa",1984-11-26,"K",ODDZ_POL_009,Glowny opiekun,Polska,Pomorze,CITY,5685.898068565863,EUR,2009-05-28
+10018,Mercurial,"Otniel",Kiepski,1938-05-28,1,35,Kowalski,"Albin",1973-05-02,"M",ODDZ_FRA_009,Przewodnik,Francja,Burgundia,CITY,9142.081972447395,EUR,2002-06-10
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Krawczyk,"Bratumił",1975-11-27,"M",ODDZ_FRA_008,Opiekun,Francja,Burgundia,CITY,9568.593963352934,USD,2016-10-18
+10028,Sheraton,"Ursyn",Kiepski,1969-06-25,3,224,Krawczyk,"Daniela",1981-01-31,"K",ODDZ_HIS_006,Przewodnik,Hiszpania,Barcelona,CITY,3149.432953686608,USD,2007-01-17
+10008,Plaza,"Jaczewoj",Jopek,1953-10-29,1,111,Jopek,"Ludwik",1974-06-18,"M",ODDZ_POL_008,Glowny opiekun,Polska,Bieszczady,CITY,8525.40595953928,EUR,2010-04-27
+10053,Plaza,"Axel",Nowak,1941-03-30,5,225,Nowak,"Adalbert",1976-11-28,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,7918.324448254565,USD,2001-02-28
+10052,Plaza,"Augustyn",Krawczyk,1987-07-25,1,150,Kowalski,"Sergiusz",1985-09-19,"M",ODDZ_FRA_008,Przewodnik,Francja,Owernia,CITY,9042.991559601718,EUR,2001-02-06
+10063,Plaza,"Hermenegild",Kiepski,1979-09-08,1,124,Kiepski,"Korneli",1994-01-19,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,9175.828899320917,EUR,2010-01-08
+10044,Mercurial,"Radek",Jopek,1997-11-25,1,135,Krawczyk,"Modest",1990-04-30,"M",ODDZ_FRA_001,Glowny opiekun,Francja,Owernia,CITY,4379.453344602813,EUR,2002-05-19
+10085,Sheraton,"Małgorzata",Jopek,1970-02-16,4,113,Kowalski,"Honorat",1994-02-09,"M",ODDZ_HIS_002,Opiekun,Hiszpania,Madryt,CITY,4026.1520148321256,EUR,2016-12-07
+10032,Mercurial,"Kordelia",Kiepski,1949-07-13,4,71,Nowak,"Pola",1970-09-06,"K",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Madryt,CITY,5275.300055845208,EUR,2005-08-06
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Kowalski,"Zbigniewa",1994-09-04,"K",ODDZ_HIS_002,Glowny opiekun,Hiszpania,Kantabria,CITY,9947.453812605607,USD,2014-01-06
+10040,Sheraton,"Przybysław",Krawczyk,1967-11-25,5,199,Kiepski,"Lena",1976-08-14,"K",ODDZ_POL_004,Opiekun,Polska,Tatry,CITY,4893.361583639189,EUR,2001-07-12
+10013,Mercurial,"Wirgiliusz",Kowalski,1979-03-26,1,228,Kowalski,"Waleria",1985-02-13,"K",ODDZ_HIS_007,Glowny opiekun,Hiszpania,Murcja,CITY,2001.4489427092553,USD,2005-12-05
+10038,Plaza,"Gustawa",Kowalski,1937-06-08,2,54,Kiepski,"Platon",1976-04-08,"M",ODDZ_HIS_003,Glowny opiekun,Hiszpania,Kantabria,CITY,7703.3458099217005,PLN,2002-05-25
+10071,Mercurial,"Donata",Kiepski,1943-11-23,3,37,Kowalski,"Prokop",1998-04-26,"M",ODDZ_FRA_001,Glowny opiekun,Francja,Burgundia,CITY,8354.11976765214,PLN,2009-08-16
+10083,Sheraton,"Dobrawa",Kiepski,1949-05-17,3,76,Jopek,"Grzegorz",1971-10-15,"M",ODDZ_FRA_008,Opiekun,Francja,Owernia,CITY,1909.577510305991,USD,2003-12-20
+10023,Mercurial,"Rut",Jopek,1983-04-08,5,186,Kowalski,"Dobrociech",1972-04-14,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Owernia,CITY,9586.44172760769,USD,2016-06-17
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Kiepski,"Joachim",1979-03-15,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,7097.785812729619,PLN,2016-01-14
+10077,Sheraton,"Bazylis",Kiepski,1968-12-24,3,78,Kiepski,"Gościmił",1978-01-27,"M",ODDZ_POL_004,Glowny opiekun,Polska,Tatry,CITY,9042.242414658625,PLN,2003-06-04
+10073,Plaza,"Toligniew",Jopek,2002-04-29,5,218,Krawczyk,"Bończa",1973-10-29,"K",ODDZ_FRA_001,Przewodnik,Francja,Burgundia,CITY,9862.031061679616,EUR,2008-11-09
+10001,Sheraton,"Natasza",Kiepski,1947-04-08,1,79,Jopek,"Hugon",1990-02-26,"M",ODDZ_POL_003,Glowny opiekun,Polska,Pomorze,CITY,3930.8163118995203,PLN,2016-07-23
+10094,Plaza,"Jozue",Kowalski,1931-05-19,4,137,Kiepski,"Miromir",1990-05-11,"M",ODDZ_HIS_001,Przewodnik,Hiszpania,Kantabria,CITY,4534.375804295865,USD,2016-07-27
+10011,Mercurial,"Wiesława",Krawczyk,2004-12-26,5,128,Jopek,"Dąbrówka",1978-10-02,"K",ODDZ_POL_002,Przewodnik,Polska,Tatry,CITY,8606.515867551803,PLN,2005-11-16
+10089,Sheraton,"Ingrid",Krawczyk,1953-06-24,1,97,Jopek,"Lubomysł",1989-10-17,"M",ODDZ_POL_008,Przewodnik,Polska,Pomorze,CITY,7934.304985213017,EUR,2015-02-04
+10082,Mercurial,"Żytomir",Krawczyk,1958-02-04,2,201,Kiepski,"Kazimiera",1982-09-19,"K",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,5720.195267775064,USD,2000-07-04
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Krawczyk,"Iwon",1977-12-24,"M",ODDZ_FRA_009,Opiekun,Francja,Owernia,CITY,9995.198139046719,USD,2003-05-13
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Kiepski,"Talita",1993-08-03,"K",ODDZ_FRA_005,Opiekun,Francja,Owernia,CITY,7204.574604287807,USD,2013-10-14
+10016,Plaza,"Tomir",Nowak,1968-09-01,4,103,Krawczyk,"Łucjusz",1996-09-09,"M",ODDZ_FRA_005,Przewodnik,Francja,Akwitania,CITY,7652.354565306282,USD,2011-09-14
+10031,Sheraton,"Pakoszław",Krawczyk,1994-11-01,4,144,Kiepski,"Jarosława",1984-05-11,"K",ODDZ_FRA_008,Opiekun,Francja,Burgundia,CITY,6926.021725409064,PLN,2005-01-08
+10025,Sheraton,"Lewin",Krawczyk,1995-09-17,2,213,Kiepski,"Ludosław",1976-07-02,"M",ODDZ_FRA_009,Glowny opiekun,Francja,Owernia,CITY,3641.181827904051,PLN,2003-03-03
+10048,Mercurial,"Zefiryna",Kowalski,1985-01-29,4,78,Jopek,"Cezary",1980-09-01,"M",ODDZ_FRA_006,Glowny opiekun,Francja,Burgundia,CITY,6716.160983513098,USD,2006-08-10
+10049,Sheraton,"Aureliusz",Jopek,1947-01-13,3,163,Kiepski,"Oktawian",1984-04-23,"M",ODDZ_POL_005,Glowny opiekun,Polska,Mazury,CITY,9319.10685664527,EUR,2005-10-03
+10020,Sheraton,"Bogumiła",Kowalski,1978-09-14,4,105,Kiepski,"Symforiana",1978-07-01,"K",ODDZ_POL_001,Opiekun,Polska,Bieszczady,CITY,5872.930132722687,USD,2010-02-28
+10014,Plaza,"Renata",Kowalski,1936-10-21,3,178,Jopek,"Bartłomiej",1976-05-31,"M",ODDZ_FRA_004,Glowny opiekun,Francja,Owernia,CITY,4197.900195405415,USD,2012-10-07
+10012,Mercurial,"Sandra",Nowak,1945-10-21,5,64,Jopek,"Benita",1983-08-25,"K",ODDZ_FRA_007,Glowny opiekun,Francja,Akwitania,CITY,2719.1922716284275,PLN,2004-06-19
+10033,Plaza,"Herakles",Kiepski,1935-08-06,1,96,Nowak,"Drogosław",1975-06-18,"M",ODDZ_FRA_003,Glowny opiekun,Francja,Owernia,CITY,6142.329467807257,PLN,2014-05-05
+10062,Plaza,"Radomiła",Jopek,1966-03-09,5,79,Jopek,"Dytrych",1992-07-15,"M",ODDZ_FRA_002,Glowny opiekun,Francja,Owernia,CITY,7911.990728914448,USD,2011-01-13
+10050,Sheraton,"Sędzisława",Krawczyk,1998-11-11,1,173,Kiepski,"Longinus",1997-02-12,"M",ODDZ_HIS_006,Opiekun,Hiszpania,Nawarra,CITY,5946.6071174627605,EUR,2005-11-27
