@@ -176,4 +176,13 @@ public class Helper {
                 .collect(StringBuilder::new, StringBuilder::append, StringBuilder::append)
                 .toString();
     }
+
+    public static String getPersonalId() {
+        return "AWT645784";
+    }
+
+    public static double getCost() {
+
+        return ThreadLocalRandom.current().nextDouble(200.0f, 6000.0f);
+    }
 }

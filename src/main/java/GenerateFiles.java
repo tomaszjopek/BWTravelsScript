@@ -3,23 +3,29 @@ import models.Hotel;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.time.*;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
+import java.util.stream.Collectors;
 
 public class GenerateFiles {
 
     private final int HOTEL_CSV_RECORDS = 1000;
     private final int HOTELS_COUNT = 100;
     private final int SALESMEN_COUNT = 500;
+    private final int RECORDS_COUNT = 1000;
 
 
     public static void main(String[] args) {
 
         GenerateFiles generateFiles = new GenerateFiles();
         //generateFiles.generateHotelsCsv();
-        generateFiles.generateSalesmenCsv();
+        //generateFiles.generateSalesmenCsv();
+        generateFiles.generateTravelsCsv();
 
     }
 
@@ -151,5 +157,84 @@ public class GenerateFiles {
         }
     }
 
+    public void generateTravelsCsv() {
+        List<String> hotelLines = null;
+        List<String> salesmenLines = null;
+
+        List<String> travels =  new ArrayList<>();
+
+        Helper.initMaps();
+        Helper.getNames();
+        Helper.getSurnames();
+        StringBuilder str = new StringBuilder();
+        Random random = new Random();
+
+        String headerLine = "ID wycieczki, Pesel klienta, Imie klienta, Nazwisko klienta, Numer dowodu, Plec klienta, Data urodzenia klienta, Data poczatku wycieczki, Data konca wycieczki, Kraj klienta, Miasto Klienta, Zaliczka, Cena wycieczki, Oddzial zakupu, Ocena wycieczki, ID sprzedawcy, ID hotelu, Ocena sprzedawcy";
+        travels.add(headerLine);
+        int id = 1000;
+        DateTimeFormatter formatter = DateTimeFormatter.ISO_ZONED_DATE_TIME;
+
+        try {
+            hotelLines = Files.readAllLines(Paths.get("E:\\workspace\\databasescript\\src\\main\\resources\\results\\hotele.csv"));
+            salesmenLines = Files.readAllLines(Paths.get("E:\\workspace\\databasescript\\src\\main\\resources\\results\\sprzedawcy.csv"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+        for (int i = 0; i < RECORDS_COUNT; i++) {
+
+            LocalDate date = Helper.getRandomDate("2000-01-01", "2018-01-01");
+            LocalDate endDate = date.plusDays(random.nextInt(14)+2);
+
+            ZonedDateTime localDateTime = ZonedDateTime.of(date, LocalTime.of(8, 0, 0, 0), ZoneId.systemDefault());
+            ZonedDateTime localDateTimeEnd = ZonedDateTime.of(endDate, LocalTime.of(15, 0, 0 , 0), ZoneId.systemDefault());
+
+            String country = Helper.getCountry();
+            String region = Helper.getRegionForGivenCountry(country);
+            String city = Helper.getCityForGivenRegion(region);
+
+            double cost = Helper.getCost();
+            double deposit =  ThreadLocalRandom.current().nextDouble(0.0f, cost);
+
+            assert salesmenLines != null;
+            List<String> filtered = salesmenLines
+                    .stream()
+                    .filter(s -> s.contains(country))
+                    .collect(Collectors.toList());
+
+            String selectedLine = filtered.get(random.nextInt(filtered.size()));
+
+            String[] array = selectedLine.split(",");
+
+            str
+                    .append(id++).append(",")
+                    .append(Helper.getRandomPesel()).append(",")
+                    .append(Helper.getRandomName()).append(",")
+                    .append(Helper.getRandomSurname()).append(",")
+                    .append(Helper.getPersonalId()).append(",")
+                    .append(Helper.getGender()).append(",")
+                    .append(localDateTime.format(formatter)).append(",")
+                    .append(localDateTimeEnd.format(formatter)).append(",")
+                    .append(country).append(",")
+                    .append(city).append(",")
+                    .append(String.format(Locale.ENGLISH, "%.2f", deposit)).append(",")
+                    .append(String.format(Locale.ENGLISH, "%.2f", cost)).append(",")
+                    .append(array[6]).append(",")
+                    .append(random.nextInt(10)).append(",")
+                    .append(array[0]).append(",")
+                    .append(random.nextInt(HOTELS_COUNT) + 10000).append(",")
+                    .append(random.nextInt(10));
+
+            travels.add(str.toString());
+        }
+
+        try {
+            Files.write(Paths.get("E:\\workspace\\databasescript\\src\\main\\resources\\results\\wycieczki.csv"), travels);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
 
 }
